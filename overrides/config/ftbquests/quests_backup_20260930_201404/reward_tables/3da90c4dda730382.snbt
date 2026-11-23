@@ -1,0 +1,15 @@
+{
+	id: "3DA90C4DDA730382"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{ id: "0B4A29114773BA86", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "143F8A8AB1BF4363", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "2AA1B12E252AFD99", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "0D4C42AC010A8723", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "43013114A24DBC23", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "57BCE5C6EE33B1A8", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "3DE816E371FA6922", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "2155DCAAC1B3ED14", item: { count: 1, id: "minecraft:emerald" } }
+	]
+}

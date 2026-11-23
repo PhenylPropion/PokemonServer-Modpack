@@ -1,0 +1,237 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fneasy_anvillagersfn__cnpiglins"
+	group: "3A8A4E8ADC519105"
+	icon: {
+		id: "easy_villagers:villager"
+	}
+	id: "2A8412A09AC28E79"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "524D50A0181F1557"
+			rewards: [{
+				id: "224CB42FDF1EEDE5"
+				item: {
+					count: 1
+					id: "easy_villagers:villager"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0BED2E8FD73AFD3C"
+				item: { count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "2331F5D2F5DE99EA"
+			rewards: [{
+				count: 8
+				id: "2926398E76CFC6E5"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6915218E73781BB9"
+				item: { count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2331F5D2F5DE99EA"]
+			id: "08056111AD8B9465"
+			rewards: [
+				{
+					id: "3CCA036CC08B335A"
+					item: {
+						count: 1
+						id: "easy_villagers:villager"
+					}
+					type: "item"
+				}
+				{
+					count: 9
+					id: "39928E9F25F90602"
+					item: {
+						count: 1
+						id: "minecraft:gold_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "71B271BFA53C00F8"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["524D50A0181F1557"]
+			id: "4B8F98B9DA4D90CE"
+			rewards: [{
+				id: "2EFC8C07DCA3AEC2"
+				item: {
+					count: 1
+					id: "minecraft:fletching_table"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C43433084F788FE"
+				item: { count: 1, id: "easy_villagers:trader" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B8F98B9DA4D90CE"]
+			id: "7F4E3547701BD888"
+			rewards: [
+				{
+					id: "691FACF37A5C4629"
+					table_id: 263288020932638039L
+					type: "random"
+				}
+				{
+					id: "099528084B2AB220"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "720A3DED204A25F9"
+				item: { count: 1, id: "easy_villagers:auto_trader" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["524D50A0181F1557"]
+			id: "10948ACCDFB7B510"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EAE1FDC7E0E5059"
+				table_id: 824139262337782934L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "2F7519C0DF954403"
+				item: { count: 1, id: "easy_villagers:farmer" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["10948ACCDFB7B510"]
+			id: "576DFF32AB864D87"
+			rewards: [{
+				count: 3
+				id: "7211E1FCBB9CBAA8"
+				item: {
+					count: 1
+					id: "minecraft:white_wool"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B6E679EBFBBBE3E"
+				item: { count: 1, id: "easy_villagers:breeder" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["576DFF32AB864D87"]
+			id: "196CC8A5F522CEE9"
+			rewards: [{
+				id: "3530B00863E51612"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "17B3E41F387B2DB1"
+				item: { count: 1, id: "easy_villagers:incubator" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["196CC8A5F522CEE9"]
+			id: "20724215E9A2F0ED"
+			rewards: [
+				{
+					id: "06E66A94822E9F57"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:weakness"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "1E1FC73A6CC98388"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0D7F510825EDD4DC"
+				item: { count: 1, id: "easy_villagers:converter" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["524D50A0181F1557"]
+			id: "11DED377DAC8AC4B"
+			rewards: [{
+				count: 2
+				id: "1CF41DEC050ACB3D"
+				item: {
+					count: 1
+					id: "minecraft:iron_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E3CEBAB1D28612A"
+				item: { count: 1, id: "easy_villagers:iron_farm" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+	]
+}

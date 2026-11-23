@@ -1,0 +1,1801 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bgym_leaders"
+	group: "30F6BB3E74582F94"
+	icon: {
+		id: "mega_showdown:mega_bracelet"
+	}
+	id: "4F94C4CF15D56A41"
+	images: [{
+		height: 1.0d
+		id: "4B17282CFCA4019E"
+		image: "minecraft:diamond"
+		rotation: 0.0d
+		width: 6.0d
+		x: 0.0d
+		y: -5.0d
+	}]
+	order_index: 14
+	quest_links: [ ]
+	quests: [
+		{
+			id: "17F9FBC04F0DBA17"
+			rewards: [
+				{
+					count: 2
+					id: "520565B6C3B8417A"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2C0196A204BF4C18"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0918A366D52C9172"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [{
+				id: "7524096878E0C4FA"
+				type: "checkmark"
+			}]
+			x: -30.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["17F9FBC04F0DBA17"]
+			id: "706F3FD22565D285"
+			rewards: [
+				{
+					count: 2
+					id: "258F795028654B94"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6A2D3E37212BCE1C"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "32C8A3D78759EE21"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07F8CE439B78301F"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -27.5d
+			y: -16.5d
+		}
+		{
+			dependencies: ["706F3FD22565D285"]
+			id: "1C0B17510967A01B"
+			rewards: [
+				{
+					count: 2
+					id: "768BCD62AEAA4716"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "471A0F9B26FCC1B7"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "5CDF9D46CF9032F1"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "44E46726EA3F4358"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
+				criterion: ""
+				id: "6363776B0493F6A2"
+				type: "advancement"
+			}]
+			x: -26.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["1C0B17510967A01B"]
+			id: "773690823676D415"
+			rewards: [
+				{
+					count: 2
+					id: "3AA89B563EBA4155"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "793C538C4BC49751"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "49A70D147C2D400D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7F6446442F304675"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_1"
+				criterion: ""
+				id: "422A4599E7DF71D8"
+				type: "advancement"
+			}]
+			x: -26.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["773690823676D415"]
+			id: "519F4E37423E402C"
+			rewards: [
+				{
+					count: 2
+					id: "325DD4CA6BAA43BB"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0D4680310B97432D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0D55E850514BE1E3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4D0D8A60250A759D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_jupiter_1"
+				criterion: ""
+				id: "39B556A0CC7F0946"
+				type: "advancement"
+			}]
+			x: -26.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["519F4E37423E402C"]
+			id: "24FB6A85D2E4954D"
+			rewards: [
+				{
+					count: 2
+					id: "77A078B1F7D146CF"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "35E2AD7AC6C41F0D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "456C87E31BBB4A84"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7DB1E58B3C044F4E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_1"
+				criterion: ""
+				id: "5D3A68A406D4CAA3"
+				type: "advancement"
+			}]
+			x: -24.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["24FB6A85D2E4954D"]
+			id: "008CF47EFCD96F75"
+			rewards: [
+				{
+					count: 2
+					id: "3E58552A974847B5"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "46C004F7D5B454CA"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "2FF55E2D70338528"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "10FEB3EE9EB59277"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_1"
+				criterion: ""
+				id: "221FEAD420661ACB"
+				type: "advancement"
+			}]
+			x: -24.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["008CF47EFCD96F75"]
+			id: "5211B1C94A8A5AB3"
+			rewards: [
+				{
+					count: 2
+					id: "6D85BE41B6993DA4"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4D800609D8B4ABDE"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "44BD1CE38AC9F435"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "79D688CFDFB64F52"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_maylene_1"
+				criterion: ""
+				id: "5674D81BAD35B7E6"
+				type: "advancement"
+			}]
+			x: -23.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["5211B1C94A8A5AB3"]
+			id: "1BB521A39DA70986"
+			rewards: [
+				{
+					count: 3
+					id: "2719D94A5BB64653"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "1658EB636B4C401D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6B668EE289B44850"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "329635708AE3CEA2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_wake_1"
+				criterion: ""
+				id: "5D96BB43CBFEF715"
+				type: "advancement"
+			}]
+			x: -21.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1BB521A39DA70986"]
+			id: "3858D58AB42B844B"
+			rewards: [
+				{
+					count: 3
+					id: "63E18A33C2447EA6"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "473E2995734F4847"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1B20C985F0A945B5"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "31AD5ADA6CB8CB53"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_2"
+				criterion: ""
+				id: "6952188E3416D92F"
+				type: "advancement"
+			}]
+			x: -21.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3858D58AB42B844B"]
+			id: "6139C744D7EB2DB4"
+			rewards: [
+				{
+					count: 3
+					id: "2BAED10D939A58F6"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "41781562EA499BE1"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "462739258CA143A8"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "1A246E28FE4449CB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_fantina_1"
+				criterion: ""
+				id: "44FB2BFA211EC161"
+				type: "advancement"
+			}]
+			x: -20.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["6139C744D7EB2DB4"]
+			id: "6027FD9721CC3578"
+			rewards: [
+				{
+					count: 3
+					id: "01FB5A89A5F14AD4"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "2ACCCBF075316BA8"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0E7AE43233119888"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "79BBD33999B948ED"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_3"
+				criterion: ""
+				id: "0CA9F21D7FD5DFD3"
+				type: "advancement"
+			}]
+			x: -20.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["6027FD9721CC3578"]
+			id: "6EA7898C19B477F1"
+			rewards: [
+				{
+					count: 3
+					id: "517EAEB26A28FD92"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "7BEFF623F82D472A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "69E0871ACF1396B7"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "7E1B611C4DE71035"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_byron_1"
+				criterion: ""
+				id: "23E19A100723E2DF"
+				type: "advancement"
+			}]
+			x: -18.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["6EA7898C19B477F1"]
+			id: "2962D5B7D6905F50"
+			rewards: [
+				{
+					count: 3
+					id: "4827B28121F745C0"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "4FDEC2EA7FF04036"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0B0892CF7E94E23D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6B82E2DDDDC092DC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_saturn_1"
+				criterion: ""
+				id: "67138D81F4DF588D"
+				type: "advancement"
+			}]
+			x: -18.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["2962D5B7D6905F50"]
+			id: "6F580C95D2681294"
+			rewards: [
+				{
+					count: 3
+					id: "62D42101066423A3"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "6C7F19BB5E6921AB"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4A4B5D33E53E4325"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4425D8B941B44F5A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_2"
+				criterion: ""
+				id: "79C67B68D5FE73FC"
+				type: "advancement"
+			}]
+			x: -18.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6F580C95D2681294"]
+			id: "6C6375BF4D83BCE2"
+			rewards: [
+				{
+					count: 2
+					id: "206B30F0CB2947AA"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "41E42F16455AB535"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "26582FC5087A45D4"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "2E702C47FE9138A0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_candice_1"
+				criterion: ""
+				id: "7779C11D6E912F8C"
+				type: "advancement"
+			}]
+			x: -17.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6C6375BF4D83BCE2"]
+			id: "56CE359714791AE0"
+			rewards: [
+				{
+					count: 3
+					id: "23DD275F0B8A6EF6"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					id: "6CB6DBE4404DB5D2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_sack"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "61EA2E3A74A013C8"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "46C2B96BBBB5B719"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_1"
+				criterion: ""
+				id: "1D0E3B3727AB1325"
+				type: "advancement"
+			}]
+			x: -17.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["56CE359714791AE0"]
+			id: "3C122B79FC2D3B20"
+			rewards: [
+				{
+					count: 2
+					id: "02A550C21C464C11"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "5CAB25AD5F674502"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5ECF11A2CC22C353"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "20FBF6F1DD2A42BC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_jupiter"
+				criterion: ""
+				id: "311F3522E87AEDCF"
+				type: "advancement"
+			}]
+			x: -17.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3C122B79FC2D3B20"]
+			id: "4AE260F891489073"
+			rewards: [
+				{
+					count: 3
+					id: "624ECF7F5AD8411E"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					id: "607507716FD56AB3"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_sack"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0AF0440A81D1D0B8"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "74F4EF3B32D232D4"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_2"
+				criterion: ""
+				id: "00F16EF938578858"
+				type: "advancement"
+			}]
+			x: -17.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4AE260F891489073"]
+			id: "7A2FE89F7A047237"
+			rewards: [
+				{
+					count: 2
+					id: "530F684F190A442A"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "001BB51F9A4B7FCF"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5E6E9D4A84994B4F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "1A8C9C974190A877"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_volkner_1"
+				criterion: ""
+				id: "4B912B209185BDC2"
+				type: "advancement"
+			}]
+			x: -15.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3C122B79FC2D3B20"]
+			id: "4FA95A63859C7522"
+			rewards: [
+				{
+					count: 2
+					id: "3835E810B4AA4B8A"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "42EBD8BF6A604433"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "54A3E58AA96A4F4E"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "7623735844CC40B4"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_saturn_2"
+				criterion: ""
+				id: "11E19A17E30625DF"
+				type: "advancement"
+			}]
+			x: -18.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7A2FE89F7A047237"]
+			id: "6370745256E5013F"
+			rewards: [
+				{
+					count: 2
+					id: "7EA3824AD3A8605C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "1DEC03ED7E0B40A6"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "209F26F9B04A47AA"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "2785E6C20A9646F5"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_4"
+				criterion: ""
+				id: "1CAF69BE15C0124E"
+				type: "advancement"
+			}]
+			x: -15.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6370745256E5013F"]
+			id: "176DF3C68919E822"
+			rewards: [
+				{
+					count: 3
+					id: "2E263279199CA275"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4DF687003EB9C42D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1B156C35930381F0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "25117440FDAEEF8B"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_1"
+				criterion: ""
+				id: "316768CF845B8D41"
+				type: "advancement"
+			}]
+			x: -31.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["176DF3C68919E822"]
+			id: "1B267CCEB8C5F2E0"
+			rewards: [
+				{
+					count: 3
+					id: "3AB2FCCCBD2348E7"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2F4021AA5D9FAAD0"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "24FDDC4EA3873F1F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "1ED7CACD35724413"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_1"
+				criterion: ""
+				id: "23B4D09DF11B27A9"
+				type: "advancement"
+			}]
+			x: -30.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["1B267CCEB8C5F2E0"]
+			id: "4B39FD346FB59935"
+			rewards: [
+				{
+					count: 3
+					id: "7D72F81095D3DC9D"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6BDCD039D900156D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7DC0647B90377BE7"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "00D8825B98A701F6"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_1"
+				criterion: ""
+				id: "3DE498E9D08353B1"
+				type: "advancement"
+			}]
+			x: -28.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["4B39FD346FB59935"]
+			id: "209395281B7B51F7"
+			rewards: [
+				{
+					count: 3
+					id: "24DD65E00D8B81FC"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "07BCB1A1AD9EFCF2"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "703D7555D15C8047"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "27A62B444DAA4AD9"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_1"
+				criterion: ""
+				id: "48E676FA1180282B"
+				type: "advancement"
+			}]
+			x: -27.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["209395281B7B51F7"]
+			id: "10546A4A83E00BFE"
+			rewards: [
+				{
+					id: "7EDA35A8562FEC0F"
+					item: {
+						count: 1
+						id: "mega_showdown:mega_bracelet"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5596EB665D47CBBC"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					id: "14F3D50F586AFD8E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_sack"
+					}
+					type: "item"
+				}
+				{
+					id: "1F0B23640EB5513D"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6FD4D0555F8A428C"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_1"
+				criterion: ""
+				id: "17CC34F6775019A4"
+				type: "advancement"
+			}]
+			x: -24.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["10546A4A83E00BFE"]
+			id: "46FD3AA3AFCD7307"
+			rewards: [
+				{
+					count: 3
+					id: "1D26B49B76A7FA61"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "61207A8B9B984DC7"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0C89FF0EA0B6425C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "43B5C84C9AFB2486"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_2"
+				criterion: ""
+				id: "04C954E96CF9A782"
+				type: "advancement"
+			}]
+			x: -30.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["46FD3AA3AFCD7307"]
+			id: "6AA0D233CFE65473"
+			rewards: [
+				{
+					count: 3
+					id: "28402EA318375777"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "677D2A6C53764B0F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "16F39D8F821C9D07"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "72C7032263D97D35"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_3"
+				criterion: ""
+				id: "7362EA16213A8D12"
+				type: "advancement"
+			}]
+			x: -28.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6AA0D233CFE65473"]
+			id: "035BFF977278A686"
+			rewards: [
+				{
+					count: 2
+					id: "2666A4437FAB4612"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "121E5BCFECC1E368"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_sack"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0DDCCF172EC24597"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xl"
+					}
+					type: "item"
+				}
+				{
+					id: "799F4FF1F34A4657"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "58D2ACA9D401457A"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_3"
+				criterion: ""
+				id: "5FEA37C6C7ECDF49"
+				type: "advancement"
+			}]
+			x: -24.5d
+			y: -8.0d
+		}
+		{
+			id: "04DBB565B1BA8923"
+			rewards: [
+				{
+					count: 5
+					id: "386E66C24D8E4A83"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "704F415972B473EC"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "35AB157442455797"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "28256C7E5DBF8C5E"
+				type: "checkmark"
+			}]
+			x: -26.0d
+			y: -19.0d
+		}
+		{
+			id: "15DE188865B691B5"
+			rewards: [
+				{
+					count: 5
+					id: "583B0D6874496231"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6C023D9CF6058EB5"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "3AB4A0F1329A44EB"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3BC5EAD11D1F85F3"
+				type: "checkmark"
+			}]
+			x: -25.0d
+			y: -19.0d
+		}
+		{
+			id: "72C7FD6F192DA9F4"
+			rewards: [
+				{
+					count: 5
+					id: "1574F3EEE7092A05"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2220C20F32A6F1F0"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5CBDD5483AE24918"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5E159F162B2A1CEF"
+				type: "checkmark"
+			}]
+			x: -24.0d
+			y: -19.0d
+		}
+		{
+			id: "1D281897047DE64E"
+			rewards: [
+				{
+					count: 5
+					id: "1E2F40C2781A0033"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6256C006742201B4"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "67EAEA857DA746E5"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C0EC52D36EF2FA7"
+				type: "checkmark"
+			}]
+			x: -23.0d
+			y: -19.0d
+		}
+		{
+			id: "2F696D729532A065"
+			rewards: [
+				{
+					count: 5
+					id: "71BD933AF8F18357"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2317C74228F5C04D"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "330603D112DB435B"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1545DE4374938517"
+				type: "checkmark"
+			}]
+			x: -22.0d
+			y: -19.0d
+		}
+		{
+			id: "65E950B3DD5D4695"
+			rewards: [
+				{
+					count: 5
+					id: "158572F755936526"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "327107FD92B747A6"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "43A5D5E5F3B24002"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "736F7C6BB24892F1"
+				type: "checkmark"
+			}]
+			x: -21.0d
+			y: -19.0d
+		}
+		{
+			id: "6E5D8644CC363A87"
+			rewards: [
+				{
+					count: 5
+					id: "539339F2C28B4CA0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4BD912DBE09B464C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7178B63FABF8509D"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1B42EE2F01A51C7A"
+				type: "checkmark"
+			}]
+			x: -20.0d
+			y: -19.0d
+		}
+		{
+			id: "49252E69574928BD"
+			rewards: [
+				{
+					count: 5
+					id: "0BE7F1B1B322EF31"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "64D83CDE5DEE42AD"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4FED06A0EA48691C"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "22044E081BCCEC4A"
+				type: "checkmark"
+			}]
+			x: -19.0d
+			y: -19.0d
+		}
+	]
+}

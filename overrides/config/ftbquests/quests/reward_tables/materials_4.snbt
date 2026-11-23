@@ -1,0 +1,114 @@
+{
+	id: "67BD5FC52FD8BA16"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Materials 4"
+		string_id: "materials_4"
+	}
+	loot_size: 1
+	order_index: 47
+	rewards: [
+		{
+			count: 64
+			id: "1D930081DEA058B0"
+			item: {
+				count: 1
+				id: "minecraft:paper"
+			}
+		}
+		{
+			count: 64
+			id: "45B3915A3C5FA7D6"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 29
+			id: "755680BE9B756E82"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 32
+			id: "7F47ED60154C3128"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 32
+			id: "50FFEC28729A8A9D"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			count: 64
+			id: "5C6513F28EF66CF0"
+			item: {
+				count: 1
+				id: "minecraft:blaze_powder"
+			}
+		}
+		{
+			count: 64
+			id: "795AF4A35A128F29"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			count: 64
+			id: "3C632A83AAF99A71"
+			item: {
+				count: 1
+				id: "minecraft:glowstone_dust"
+			}
+		}
+		{
+			count: 16
+			id: "18BD1C44E4092133"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{
+			count: 6
+			id: "4A40563AC50CE260"
+			item: {
+				count: 1
+				id: "minecraft:glow_ink_sac"
+			}
+		}
+		{
+			count: 64
+			id: "0CE85786DFAA060E"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{
+			count: 21
+			id: "3FAA4CA4981B5F03"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+	]
+	use_title: true
+}

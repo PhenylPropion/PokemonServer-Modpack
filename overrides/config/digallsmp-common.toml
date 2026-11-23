@@ -1,0 +1,23 @@
+[configuration]
+	#Blocks DigAll is allowed to mine. Namespace may be omitted for vanilla blocks.
+	blockIds = ["minecraft:grass_block", "minecraft:dirt", "minecraft:sand", "minecraft:gravel", "minecraft:farmland", "minecraft:snow", "minecraft:clay", "minecraft:soul_sand", "minecraft:mycelium", "minecraft:coarse_dirt", "minecraft:soul_soil"]
+	#Side length of the search cube centered on the first block. 0 removes this spatial limit.
+	# Default: 11
+	# Range: 0 ~ 257
+	limiter = 257
+	#Hard safety cap for additional blocks broken by one action.
+	# Default: 4096
+	# Range: 1 ~ 32768
+	maxAdditionalBlocks = 9744
+	#0: no durability for extra blocks, 1: normal durability and continue, 2: normal durability and stop when the tool breaks
+	# Default: 0
+	# Range: 0 ~ 2
+	durability = 1
+	#Whether connected blocks below the initially mined block may be broken.
+	destroyUnder = false
+	#Whether DigAll starts enabled when joining a world.
+	startMode = true
+	#Immediately insert nearby drops into the player's inventory when possible.
+	autoCollect = true
+	#Move drops from additional blocks to the initially mined block.
+	dropGather = true

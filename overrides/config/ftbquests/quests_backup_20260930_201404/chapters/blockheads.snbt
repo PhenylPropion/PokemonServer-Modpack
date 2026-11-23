@@ -1,0 +1,596 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "blockheads"
+	group: "3A8A4E8ADC519105"
+	icon: {
+		id: "cookingforblockheads:lime_oven"
+	}
+	id: "2643234F957C457D"
+	images: [{
+		height: 1.0d
+		id: "26987BB41004607A"
+		image: "cookingforblockheads:cooking_table"
+		rotation: 0.0d
+		width: 6.769230769230769d
+		x: -1.0d
+		y: -4.5d
+	}]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "72FCE2C54B66D486"
+			rewards: [
+				{
+					count: 8
+					id: "32C963D054AA52B4"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3F2C048E1896B73B"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7264955BE29B99B7"
+				item: { count: 1, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			id: "4458E5BD542947A6"
+			rewards: [
+				{
+					count: 16
+					id: "6A093FAF6DC76497"
+					item: {
+						count: 1
+						id: "minecraft:wheat"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "63B92BF30DD68076"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7596875F64A6315F"
+				item: { count: 1, id: "minecraft:hay_block" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "0AB038FF91FEC77F"
+			rewards: [
+				{
+					id: "1980FC21E8BA0417"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6DF40192A8E1BC55"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26F629284984E2DF"
+				item: { count: 1, id: "minecraft:cauldron" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "37AE895C3B4DF79D"
+			rewards: [
+				{
+					count: 8
+					id: "5B09FC1A8129EE41"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1E47A90CE845217D"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "64033F20D0C43924"
+				item: { count: 1, id: "minecraft:bone_meal" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			id: "5F2F0B3EFC84618E"
+			rewards: [
+				{
+					count: 4
+					id: "45091EACF129DB84"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					type: "item"
+				}
+				{
+					id: "7F01EA98BC412891"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3B9F227DD6038F28"
+				item: { count: 1, id: "minecraft:bone_meal" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			id: "33790E6EE9A638B6"
+			rewards: [
+				{
+					count: 16
+					id: "6109A8ECFB72189A"
+					item: {
+						count: 1
+						id: "minecraft:sweet_berries"
+					}
+					type: "item"
+				}
+				{
+					id: "34891ACFE84291B0"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1782A8168850C19C"
+				item: { count: 1, id: "minecraft:bone_meal" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			id: "0F81E3CDA1D5E43E"
+			rewards: [
+				{
+					count: 5
+					id: "56A01EBF4812CA84"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "19C08FEA4129841B"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7E4018CAFE91B041"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54677664DA197ADF"
+				item: { count: 1, id: "cookingforblockheads:cooking_table" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "58C3A3743BE628D4"
+			rewards: [
+				{
+					count: 2
+					id: "35B0918CFA4190E1"
+					item: {
+						count: 1
+						id: "minecraft:milk_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "67FA019CE812B419"
+					item: {
+						count: 1
+						id: "minecraft:ice"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1098EAFBC7412891"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "60B9705993D84816"
+				item: { count: 1, id: "cookingforblockheads:white_fridge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "37F19BE8B29CF186"
+			rewards: [
+				{
+					count: 3
+					id: "71EA908FCE8129B4"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4791EAFBCA841920"
+					item: {
+						count: 1
+						id: "minecraft:clay_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "24801E9ACF8120B8"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2FD1087B6962CC7E"
+				item: { count: 1, id: "cookingforblockheads:sink" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "479CBAE2C7453189"
+			rewards: [
+				{
+					count: 8
+					id: "36B0981EFCA7419A"
+					item: {
+						count: 1
+						id: "minecraft:cooked_porkchop"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "78EAFB0918C419E2"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "377915E098CD520B"
+				item: { count: 1, id: "cookingforblockheads:counter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "13E3BD37F76998FB"
+			rewards: [
+				{
+					count: 16
+					id: "5B098EA1FC821940"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					id: "19CFA0981EF47120"
+					item: {
+						count: 1
+						id: "minecraft:cake"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "67FA0198EBC47129"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "25DB18DF03C54AA6"
+				item: { count: 1, id: "cookingforblockheads:orange_oven" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "3AFD559A2A348EA5"
+			rewards: [
+				{
+					count: 16
+					id: "47EA0198FCB81294"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19EA08FCA4712984"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A0AADC8A547738E"
+				item: { count: 1, id: "cookingforblockheads:toaster" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			id: "3D33D6076232EEAD"
+			rewards: [
+				{
+					count: 16
+					id: "71EA908FCA841920"
+					item: {
+						count: 1
+						id: "minecraft:cookie"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "38A019EFBC812490"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "27A3B7A2AF903C2B"
+				item: { count: 1, id: "cookingforblockheads:milk_jar" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"37AE895C3B4DF79D"
+				"33790E6EE9A638B6"
+				"72FCE2C54B66D486"
+				"4458E5BD542947A6"
+				"5F2F0B3EFC84618E"
+				"0AB038FF91FEC77F"
+			]
+			icon: {
+				id: "minecraft:seagrass"
+			}
+			id: "47531063786C67C2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "351897ED6C34E62D"
+					table_id: 2299161298965671037L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "737C94CB363C06D7"
+					table_id: 3680079482012147139L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B477E509A4465C7"
+					table_id: 7534763653720882664L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "5B9801ACFE912048"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C02971E2447F4AB"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"479CBAE2C7453189"
+				"37F19BE8B29CF186"
+				"58C3A3743BE628D4"
+				"13E3BD37F76998FB"
+				"3AFD559A2A348EA5"
+				"0F81E3CDA1D5E43E"
+				"3D33D6076232EEAD"
+			]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "06F8974783A71D0F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "26EAE9C2E91A3446"
+					table_id: 2299161298965671037L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "6634A988FC0F590C"
+					item: {
+						count: 1
+						id: "cobblemon:max_ether"
+					}
+					type: "item"
+				}
+				{
+					id: "27EFA0918C471204"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "371FC4B217ABE619"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"47531063786C67C2"
+				"06F8974783A71D0F"
+			]
+			icon: {
+				id: "mega_showdown:mega_bracelet_red"
+			}
+			id: "7CD571FC71141BFB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "398738CC7746B136"
+					table_id: 2299161298965671037L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3391D69851FB0F56"
+					table_id: 4443096035894690690L
+					type: "random"
+				}
+				{
+					id: "3BEC653687F42E68"
+					item: {
+						count: 1
+						id: "cobblemon:citrine_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "19CFA081E7412980"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5B0918EAF7412908"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "0A984BD2D77B81DA"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+	]
+}

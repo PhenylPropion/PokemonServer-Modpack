@@ -1,0 +1,914 @@
+{
+  "config_version": 3,
+  "battle_points_rewards": true,
+  "replace_defaults": true,
+  "remove": [],
+  "tasks": [
+    {
+      "id": "lock_team_first",
+      "title": "タワー登録",
+      "description": "初めてチームを登録する。",
+      "trigger": {
+        "type": "LOCK_IN_TEAM",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_xs",
+            "count": 10
+          }
+        ],
+        "battle_points": 1
+      }
+    },
+    {
+      "id": "start_run_first",
+      "title": "最初の挑戦",
+      "description": "初めて挑戦を開始する。",
+      "trigger": {
+        "type": "START_RUN",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_s",
+            "count": 1
+          }
+        ],
+        "battle_points": 1
+      }
+    },
+    {
+      "id": "win_first",
+      "title": "はじめの一勝",
+      "description": "初勝利する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_s",
+            "count": 1
+          }
+        ],
+        "battle_points": 2
+      }
+    },
+    {
+      "id": "wins_5",
+      "title": "駆け出し",
+      "description": "累計5勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "wins_10",
+      "title": "モンスターボール級",
+      "description": "累計10勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 1
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "wins_25",
+      "title": "スーパーボール級",
+      "description": "累計25勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 25
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_up",
+            "count": 1
+          }
+        ],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "wins_50",
+      "title": "ハイパーボール級",
+      "description": "累計50勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 15
+      }
+    },
+    {
+      "id": "wins_100",
+      "title": "マスターボール級",
+      "description": "累計100勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 100
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 30
+      }
+    },
+    {
+      "id": "wins_200",
+      "title": "タワーの覇者",
+      "description": "累計200勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 200
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:cherish_ball",
+            "count": 1
+          }
+        ],
+        "battle_points": 60
+      }
+    },
+    {
+      "id": "wins_500",
+      "title": "生ける伝説",
+      "description": "累計500勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 500
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ancient_origin_ball",
+            "count": 1
+          }
+        ],
+        "battle_points": 120
+      }
+    },
+    {
+      "id": "floor_5",
+      "title": "第一区画",
+      "description": "5階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 1
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "floor_10",
+      "title": "第二区画",
+      "description": "10階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:focus_sash",
+            "count": 1
+          }
+        ],
+        "battle_points": 6
+      }
+    },
+    {
+      "id": "floor_20",
+      "title": "フロンティアブレーン級",
+      "description": "20階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 1
+          }
+        ],
+        "battle_points": 12
+      }
+    },
+    {
+      "id": "floor_30",
+      "title": "エキスパート",
+      "description": "30階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 30
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_max",
+            "count": 1
+          }
+        ],
+        "battle_points": 20
+      }
+    },
+    {
+      "id": "floor_50",
+      "title": "スーパーランク",
+      "description": "50階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 35
+      }
+    },
+    {
+      "id": "floor_75",
+      "title": "プラチナトロフィー",
+      "description": "75階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 75
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 55
+      }
+    },
+    {
+      "id": "floor_100",
+      "title": "ゴールドトロフィー",
+      "description": "100階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 100
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:master_ball",
+            "count": 1
+          }
+        ],
+        "battle_points": 100
+      }
+    },
+    {
+      "id": "streak_7",
+      "title": "セブンセット",
+      "description": "7連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 7
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "streak_14",
+      "title": "ダブルセット",
+      "description": "14連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 14
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 1
+          }
+        ],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "streak_20",
+      "title": "銀のシンボル",
+      "description": "20連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 1
+          }
+        ],
+        "battle_points": 15
+      }
+    },
+    {
+      "id": "streak_35",
+      "title": "五連続セット",
+      "description": "35連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 35
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_max",
+            "count": 1
+          }
+        ],
+        "battle_points": 25
+      }
+    },
+    {
+      "id": "streak_50",
+      "title": "金のシンボル",
+      "description": "50連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 40
+      }
+    },
+    {
+      "id": "streak_100",
+      "title": "不敗の金字塔",
+      "description": "100連勝する。",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 100
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 100
+      }
+    },
+    {
+      "id": "singles_10",
+      "title": "シングル見習い",
+      "description": "シングルで10階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:SINGLES",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:choice_band",
+            "count": 1
+          }
+        ],
+        "battle_points": 6
+      }
+    },
+    {
+      "id": "singles_20",
+      "title": "シングル熟練者",
+      "description": "シングルで20階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:SINGLES",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:life_orb",
+            "count": 1
+          }
+        ],
+        "battle_points": 12
+      }
+    },
+    {
+      "id": "singles_50",
+      "title": "シングルマスター",
+      "description": "シングルで50階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:SINGLES",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 35
+      }
+    },
+    {
+      "id": "doubles_10",
+      "title": "ダブル見習い",
+      "description": "ダブルで10階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:DOUBLES",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:light_clay",
+            "count": 1
+          }
+        ],
+        "battle_points": 6
+      }
+    },
+    {
+      "id": "doubles_20",
+      "title": "ダブル熟練者",
+      "description": "ダブルで20階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:DOUBLES",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:assault_vest",
+            "count": 1
+          }
+        ],
+        "battle_points": 12
+      }
+    },
+    {
+      "id": "doubles_50",
+      "title": "ダブルマスター",
+      "description": "ダブルで50階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:DOUBLES",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 35
+      }
+    },
+    {
+      "id": "coop_5",
+      "title": "タッグ結成",
+      "description": "協力ダブルで5階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:COOP_DOUBLES",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 1
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "coop_10",
+      "title": "名コンビ",
+      "description": "協力ダブルで10階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:COOP_DOUBLES",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:leftovers",
+            "count": 1
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "coop_20",
+      "title": "最強タッグ",
+      "description": "協力ダブルで20階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:COOP_DOUBLES",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 20
+      }
+    },
+    {
+      "id": "boss_5",
+      "title": "第一の伝説",
+      "description": "ボスモードで5階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "mega_showdown:mega_stone",
+            "count": 1
+          }
+        ],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "boss_10",
+      "title": "第二の伝説",
+      "description": "ボスモードで10階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "mega_showdown:blank_z",
+            "count": 1
+          }
+        ],
+        "battle_points": 15
+      }
+    },
+    {
+      "id": "boss_20",
+      "title": "時空の試練",
+      "description": "ボスモードで20階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "mega_showdown:max_mushroom",
+            "count": 1
+          }
+        ],
+        "battle_points": 30
+      }
+    },
+    {
+      "id": "boss_30",
+      "title": "反転世界の試練",
+      "description": "ボスモードで30階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 30
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 50
+      }
+    },
+    {
+      "id": "boss_41",
+      "title": "最終ボス突破",
+      "description": "ボスモードで41階へ到達する。",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 41
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 80
+      }
+    },
+    {
+      "id": "random_5",
+      "title": "レンタル入門",
+      "description": "ランダムチームで5勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "TEAM_MODE:RANDOM",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "random_20",
+      "title": "即興戦術家",
+      "description": "ランダムチームで20勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "TEAM_MODE:RANDOM",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 1
+          }
+        ],
+        "battle_points": 15
+      }
+    },
+    {
+      "id": "random_50",
+      "title": "レンタルマスター",
+      "description": "ランダムチームで50勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "TEAM_MODE:RANDOM",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 35
+      }
+    },
+    {
+      "id": "level100_10",
+      "title": "オープンレベル",
+      "description": "レベル100モードで10勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEVEL_MODE:LEVEL_100",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "level100_30",
+      "title": "オープンレベル熟練者",
+      "description": "レベル100モードで30勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEVEL_MODE:LEVEL_100",
+        "amount": 30
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_max",
+            "count": 1
+          }
+        ],
+        "battle_points": 20
+      }
+    },
+    {
+      "id": "no_legends_10",
+      "title": "クリーンルール",
+      "description": "伝説禁止で10勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEGENDARIES:DISABLED",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "no_legends_50",
+      "title": "一般ポケモンの星",
+      "description": "伝説禁止で50勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEGENDARIES:DISABLED",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 30
+      }
+    },
+    {
+      "id": "no_legends_100",
+      "title": "非伝説の王者",
+      "description": "伝説禁止で100勝する。",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEGENDARIES:DISABLED",
+        "amount": 100
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 60
+      }
+    },
+    {
+      "id": "boss_three_players",
+      "title": "フルパーティー",
+      "description": "3人ボス挑戦を開始する。",
+      "trigger": {
+        "type": "START_RUN",
+        "target": "BOSS_PLAYERS:3",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "runs_1",
+      "title": "初登頂記録",
+      "description": "挑戦を1回完了する。",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "runs_5",
+      "title": "常連チャレンジャー",
+      "description": "挑戦を5回完了する。",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 1
+          }
+        ],
+        "battle_points": 8
+      }
+    },
+    {
+      "id": "runs_10",
+      "title": "タワー常連",
+      "description": "挑戦を10回完了する。",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 1
+          }
+        ],
+        "battle_points": 15
+      }
+    },
+    {
+      "id": "runs_25",
+      "title": "終わりなき挑戦",
+      "description": "挑戦を25回完了する。",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 25
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          }
+        ],
+        "battle_points": 35
+      }
+    },
+    {
+      "id": "runs_50",
+      "title": "タワーの住人",
+      "description": "挑戦を50回完了する。",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 50
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_patch",
+            "count": 1
+          }
+        ],
+        "battle_points": 70
+      }
+    }
+  ]
+}

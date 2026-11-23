@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "opsOnly": false,
+  "chunkKB": 256,
+  "cooldownSeconds": 60,
+  "maxPayloadMB": 16,
+  "excludeSpecies": [],
+  "excludeFiles": []
+}

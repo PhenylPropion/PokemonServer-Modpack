@@ -1,0 +1,132 @@
+{
+	id: "24BAA8B508EEAE03"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Ores 4"
+		string_id: "ores_4"
+	}
+	loot_size: 1
+	order_index: 58
+	rewards: [
+		{
+			count: 64
+			id: "0DE51DA9DB07378F"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+		}
+		{
+			count: 64
+			id: "7E7ECDECF9DE57D2"
+			item: {
+				count: 1
+				id: "minecraft:coal_ore"
+			}
+		}
+		{ id: "65B10279F81E3242", item: { count: 1, id: "minecraft:netherite_ingot" } }
+		{
+			count: 4
+			id: "7A153FB1D28048C6"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+		}
+		{
+			count: 7
+			id: "68E2AFDF1242951D"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 7
+			id: "2837106E16B86D23"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 64
+			id: "25716ED68F8479EE"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 64
+			id: "05F4BA5FE62C55A0"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 64
+			id: "3D57DD1C2D4A714D"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+		}
+		{
+			count: 10
+			id: "3BF9CCBCE4E0CDDF"
+			item: {
+				count: 1
+				id: "minecraft:redstone_block"
+			}
+		}
+		{
+			count: 2
+			id: "56DDC88BF88DA98C"
+			item: {
+				count: 1
+				id: "minecraft:emerald_block"
+			}
+		}
+		{
+			count: 2
+			id: "00BFEB9D619753A5"
+			item: {
+				count: 1
+				id: "minecraft:lapis_block"
+			}
+		}
+		{ id: "2AAD75A2EC8C5980", item: { count: 1, id: "minecraft:diamond_block" } }
+		{
+			count: 64
+			id: "799C23F0B1B1E409"
+			item: {
+				count: 1
+				id: "minecraft:raw_copper"
+			}
+		}
+		{
+			count: 64
+			id: "19B551BBE1548C10"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold"
+			}
+		}
+		{
+			count: 64
+			id: "54D79FC7FA1C8503"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+	]
+	use_title: true
+}

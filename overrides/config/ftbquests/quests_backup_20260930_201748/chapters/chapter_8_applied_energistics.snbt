@@ -1,0 +1,477 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "chapter_8_applied_energistics"
+	group: ""
+	id: "25835D8FD9EA5214"
+	images: [ ]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4000000000000060"]
+			id: "5305162AD6F74C42"
+			rewards: [
+				{
+					count: 2
+					id: "53FD0F57B1F4A07E"
+					item: {
+						count: 1
+						id: "ae2:drive"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "309AE2CD8FE893CD"
+					item: {
+						count: 1
+						id: "ae2:item_cell_housing"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0BA1A3D62769E25E"
+					item: {
+						count: 1
+						id: "ae2:fluix_glass_cable"
+					}
+					type: "item"
+				}
+				{
+					id: "0A3971A646A12A95"
+					type: "xp"
+					xp: 3000
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "4577DC85192C5673"
+					item: { count: 1, id: "ae2:controller" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "522EA9E0A3BA93F5"
+					item: { count: 1, id: "ae2:fluix_glass_cable" }
+					type: "item"
+				}
+				{
+					id: "3C3937F1845821B5"
+					item: { count: 1, id: "ae2:drive" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7BEC34249F55492D"
+			rewards: [
+				{
+					count: 4
+					id: "106CD6E4518B36F1"
+					item: {
+						count: 1
+						id: "ae2:dense_energy_cell"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "027D44FED42CE67E"
+					item: {
+						count: 1
+						id: "ae2:energy_acceptor"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "435EAC8C92F5B9AC"
+					item: {
+						count: 1
+						id: "ae2:quartz_vibrant_glass"
+					}
+					type: "item"
+				}
+				{
+					id: "37DE591B19D8FFD3"
+					type: "xp"
+					xp: 2000
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "605F43049BAC6A87"
+					item: { count: 1, id: "ae2:energy_acceptor" }
+					type: "item"
+				}
+				{
+					id: "36AE54682E502AB9"
+					type: "checkmark"
+				}
+				{
+					id: "4394521BF3A24663"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "6A66F2FD4186591B"
+			rewards: [
+				{
+					count: 2
+					id: "4C61AB95F6ADADBE"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_64k"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1510F696C2289026"
+					item: {
+						count: 1
+						id: "ae2:cell_component_64k"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4DE3DD57D0F14F38"
+					item: {
+						count: 1
+						id: "ae2:item_cell_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "07F380126ADCB67D"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0FF6E31CE32F41D1"
+					item: { count: 1, id: "ae2:item_storage_cell_1k" }
+					type: "item"
+				}
+				{
+					id: "510678FD3E27B595"
+					item: { count: 1, id: "ae2:item_storage_cell_4k" }
+					type: "item"
+				}
+				{
+					id: "05A79F714DC5D3CE"
+					item: { count: 1, id: "ae2:item_storage_cell_16k" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "4C28E24E00301C9E"
+			rewards: [
+				{
+					id: "7EDDB46807028ED5"
+					item: {
+						count: 1
+						id: "ae2:pattern_encoding_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "4B3F8D0B505FDD6B"
+					item: {
+						count: 1
+						id: "ae2:wireless_access_point"
+					}
+					type: "item"
+				}
+				{
+					id: "33E66C778F805C1B"
+					item: {
+						count: 1
+						id: "ae2:wireless_crafting_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "3411D572B088AF4F"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "6A2B3FFE2E617B3E"
+					item: { count: 1, id: "ae2:terminal" }
+					type: "item"
+				}
+				{
+					id: "70743F40F8795CD5"
+					item: { count: 1, id: "ae2:crafting_terminal" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "787FA3962FE77E3C"
+			rewards: [
+				{
+					count: 4
+					id: "6CB6A31DA3C6BBF7"
+					item: {
+						count: 1
+						id: "ae2:molecular_assembler"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "777B1F304A11E165"
+					item: {
+						count: 1
+						id: "ae2:1k_crafting_storage"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "02E07C8B52EAE7B9"
+					item: {
+						count: 1
+						id: "ae2:crafting_accelerator"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0678D26C9D5BA5C6"
+					item: {
+						count: 1
+						id: "ae2:blank_pattern"
+					}
+					type: "item"
+				}
+				{
+					id: "1A5EDBE769E1E0A2"
+					type: "xp"
+					xp: 4000
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [
+				{
+					id: "75D8A70AF98F61E3"
+					item: { count: 1, id: "ae2:molecular_assembler" }
+					type: "item"
+				}
+				{
+					id: "5C1DA85F73B73AB0"
+					item: { count: 1, id: "ae2:crafting_unit" }
+					type: "item"
+				}
+				{
+					id: "00D65CBCAFEAA809"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "509F2FA6757395E3"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "3D5E32186AC33DFC"
+					item: {
+						count: 1
+						id: "ae2:capacity_card"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2934C54BFF0C464E"
+					item: {
+						count: 1
+						id: "ae2:crafting_card"
+					}
+					type: "item"
+				}
+				{
+					id: "70EF4474AB3CDD19"
+					type: "xp"
+					xp: 5000
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "2C5B61CC893ECA3F"
+					item: { count: 1, id: "ae2:advanced_card" }
+					type: "item"
+				}
+				{
+					id: "2AB43FA14FC556B0"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "113F2578809F7B62"
+			rewards: [
+				{
+					id: "4F4994BB053A5B73"
+					item: {
+						count: 1
+						id: "ae2:cell_component_256k"
+					}
+					type: "item"
+				}
+				{
+					id: "593491BD2A372026"
+					item: {
+						count: 1
+						id: "ae2:crafting_unit"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2CE7B80CF5E13582"
+					item: {
+						count: 1
+						id: "ae2:item_cell_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "18F1999CCA05A318"
+					type: "xp"
+					xp: 10000
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "634EEF7BA362B6E8"
+					item: { count: 1, id: "ae2:dense_energy_cell" }
+					type: "item"
+				}
+				{
+					id: "00142ED1D3BD1534"
+					item: { count: 1, id: "ae2:cell_component_256k" }
+					type: "item"
+				}
+				{
+					id: "339A0832A7102399"
+					type: "checkmark"
+				}
+			]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "3FE596727D4D13B4"
+			optional: true
+			rewards: [
+				{
+					id: "19017752CAA27648"
+					item: {
+						count: 1
+						id: "ae2:spatial_cell_component_128"
+					}
+					type: "item"
+				}
+				{
+					id: "7482BE671C23E9A0"
+					type: "xp"
+					xp: 8000
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					count: 8L
+					id: "14FE0400870FE1DF"
+					item: { count: 1, id: "ae2:spatial_pylon" }
+					type: "item"
+				}
+				{
+					id: "6C26E759BCABFBEE"
+					item: { count: 1, id: "ae2:spatial_io_port" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "5DD2792C1EB80D4F"
+			rewards: [
+				{
+					count: 8
+					id: "2A9478A3697AC160"
+					item: {
+						count: 1
+						id: "ae2:quantum_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "38C55CDCB6B0CAEA"
+					item: {
+						count: 1
+						id: "ae2:quantum_link"
+					}
+					type: "item"
+				}
+				{
+					id: "2F97C276A630817D"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					auto: "no_toast"
+					command: "/title @p title {\"text\":\"Digital Master\",\"color\":\"aqua\",\"bold\":true}"
+					id: "771D87F922A0F3E5"
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "7786CA580AE79628"
+					type: "checkmark"
+				}
+				{
+					id: "1AB84A075954A897"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 9.0d
+		}
+	]
+}

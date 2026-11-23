@@ -1,0 +1,31 @@
+{
+	id: "7EE6633D97DA58C4"
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			count: 4
+			id: "62A40B067312B4E6"
+			item: {
+				count: 1
+				id: "cobblemon:tumblestone_block"
+			}
+		}
+		{
+			count: 4
+			id: "6801FD523C9B558D"
+			item: {
+				count: 1
+				id: "cobblemon:black_tumblestone_block"
+			}
+		}
+		{
+			count: 4
+			id: "77894FB4EFF950BD"
+			item: {
+				count: 1
+				id: "cobblemon:sky_tumblestone_block"
+			}
+		}
+	]
+}

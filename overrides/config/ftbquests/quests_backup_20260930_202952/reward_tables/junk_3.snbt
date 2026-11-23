@@ -1,0 +1,68 @@
+{
+	id: "2C71D20C84F26B27"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Junk 3"
+		string_id: "junk_3"
+	}
+	loot_size: 1
+	order_index: 51
+	rewards: [
+		{ id: "05F71886A684D5E0", item: { count: 1, id: "minecraft:zombie_spawn_egg" } }
+		{ id: "3584165300253700", item: { count: 1, id: "minecraft:turtle_spawn_egg" } }
+		{ id: "4C48660B73245087", item: { count: 1, id: "minecraft:armor_stand" } }
+		{ id: "39C4215793CFA5FF", item: { count: 1, id: "minecraft:flower_pot" } }
+		{
+			count: 2
+			id: "325ED555177CB6BF"
+			item: {
+				count: 1
+				id: "minecraft:sheep_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "7EA1A96F6A15A64D"
+			item: {
+				count: 1
+				id: "minecraft:slime_spawn_egg"
+			}
+		}
+		{ id: "751E955E8F93793F", item: { count: 1, id: "minecraft:pufferfish_spawn_egg" } }
+		{ id: "4611DDC19FA541C4", item: { count: 1, id: "minecraft:axolotl_spawn_egg" } }
+		{ id: "07C7618CD0319BE3", item: { count: 1, id: "minecraft:clay_ball" } }
+		{
+			count: 64
+			id: "000AF1538AAF28EC"
+			item: {
+				count: 1
+				id: "minecraft:fermented_spider_eye"
+			}
+		}
+		{ id: "0F8AA1DAF5CA2D60", item: { count: 1, id: "minecraft:glass_bottle" } }
+		{ id: "475C8AF42AE85B64", item: { count: 1, id: "minecraft:creeper_head" } }
+		{
+			count: 32
+			id: "5B2B45311F14D40E"
+			item: {
+				count: 1
+				id: "minecraft:item_frame"
+			}
+		}
+		{
+			count: 64
+			id: "22F2BDE9BD91C812"
+			item: {
+				count: 1
+				id: "minecraft:phantom_membrane"
+			}
+		}
+		{ id: "67DE65B8641D324B", item: { count: 1, id: "minecraft:leather_helmet" } }
+	]
+	use_title: true
+}

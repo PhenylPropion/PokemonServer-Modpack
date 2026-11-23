@@ -1,0 +1,44 @@
+{
+	id: "1BD43AE78AC63162"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Set of Golden Tools"
+		string_id: "set_of_golden_tools"
+	}
+	loot_size: 1
+	order_index: 62
+	rewards: [
+		{ id: "4DFC2FEBC63ED6F6", item: { count: 1, id: "minecraft:golden_shovel" } }
+		{
+			id: "469E459FC3A04C5C"
+			item: {
+				count: 1
+				id: "minecraft:golden_hoe"
+			}
+			weight: 0.0f
+		}
+		{
+			id: "621145951AAFAA79"
+			item: {
+				count: 1
+				id: "minecraft:golden_axe"
+			}
+			weight: 0.0f
+		}
+		{
+			count: 3
+			id: "33683B6314092574"
+			item: {
+				count: 1
+				id: "minecraft:golden_pickaxe"
+			}
+			weight: 0.0f
+		}
+	]
+	use_title: true
+}

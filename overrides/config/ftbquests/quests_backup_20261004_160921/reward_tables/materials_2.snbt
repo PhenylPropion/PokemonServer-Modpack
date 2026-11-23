@@ -1,0 +1,194 @@
+{
+	id: "2F9CF99440447485"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Materials 2"
+		string_id: "materials_2"
+	}
+	loot_size: 1
+	order_index: 43
+	rewards: [
+		{
+			count: 10
+			id: "5193E33CC3829B11"
+			item: {
+				count: 1
+				id: "minecraft:flint"
+			}
+		}
+		{
+			count: 6
+			id: "110FD41388C15BB8"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 13
+			id: "2E48C2FA53DBE03A"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 12
+			id: "0E9D46B51EF4ABD3"
+			item: {
+				count: 1
+				id: "minecraft:bone_meal"
+			}
+		}
+		{
+			count: 12
+			id: "113502A8F3D985D9"
+			item: {
+				count: 1
+				id: "minecraft:sugar"
+			}
+		}
+		{
+			count: 9
+			id: "405D81D89E69A61B"
+			item: {
+				count: 1
+				id: "minecraft:paper"
+			}
+		}
+		{
+			count: 8
+			id: "675ABFC65A798880"
+			item: {
+				count: 1
+				id: "minecraft:egg"
+			}
+		}
+		{
+			count: 2
+			id: "030E95F4F9F231B8"
+			item: {
+				count: 1
+				id: "minecraft:blaze_powder"
+			}
+		}
+		{
+			count: 2
+			id: "009A5DBA1B2E8590"
+			item: {
+				count: 1
+				id: "minecraft:glowstone_dust"
+			}
+		}
+		{
+			count: 3
+			id: "5E7D901FA3EF44E8"
+			item: {
+				count: 1
+				id: "minecraft:book"
+			}
+		}
+		{
+			count: 15
+			id: "2C960CA6928434A6"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			count: 7
+			id: "032675B60BC4BD3E"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 7
+			id: "5A807864720D8454"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{
+			count: 15
+			id: "7F6450F3BE3AD380"
+			item: {
+				count: 1
+				id: "minecraft:clay_ball"
+			}
+		}
+		{
+			count: 4
+			id: "5978E3C602CB4E13"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 8
+			id: "24FAF794CCD2D976"
+			item: {
+				count: 1
+				id: "minecraft:rabbit_hide"
+			}
+		}
+		{
+			count: 4
+			id: "1877342104B5D578"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{
+			count: 15
+			id: "733EA4FF6461A98A"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 14
+			id: "53EEB10D960286A6"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			count: 2
+			id: "45E550879F9B8792"
+			item: {
+				count: 1
+				id: "minecraft:magma_cream"
+			}
+		}
+		{
+			count: 8
+			id: "6B898392E79D57FC"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 7
+			id: "5717F8640BAC300E"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+	]
+	use_title: true
+}

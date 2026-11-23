@@ -1,0 +1,55 @@
+{
+	id: "4CB832E5595D11B8"
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{
+			count: 2
+			id: "3AE328B6B6429DB7"
+			item: {
+				count: 1
+				id: "cobblemon:red_mint_seeds"
+			}
+		}
+		{
+			count: 2
+			id: "542ED2A04368D542"
+			item: {
+				count: 1
+				id: "cobblemon:blue_mint_seeds"
+			}
+		}
+		{
+			count: 2
+			id: "10E5B724291D813D"
+			item: {
+				count: 1
+				id: "cobblemon:cyan_mint_seeds"
+			}
+		}
+		{
+			count: 2
+			id: "6065A3E240001171"
+			item: {
+				count: 1
+				id: "cobblemon:pink_mint_seeds"
+			}
+		}
+		{
+			count: 2
+			id: "5097DE2459BBA210"
+			item: {
+				count: 1
+				id: "cobblemon:green_mint_seeds"
+			}
+		}
+		{
+			count: 2
+			id: "38B1DC6B79EB7849"
+			item: {
+				count: 1
+				id: "cobblemon:white_mint_seeds"
+			}
+		}
+	]
+}

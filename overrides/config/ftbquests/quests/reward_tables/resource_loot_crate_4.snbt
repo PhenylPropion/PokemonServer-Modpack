@@ -1,0 +1,21 @@
+{
+	id: "7C291063DA28DFCE"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Resource Loot Crate 4"
+		string_id: "resource_loot_crate_4"
+	}
+	loot_size: 1
+	order_index: 64
+	rewards: [
+		{ id: "15BA7BA31DC08FC1", item: { count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "380624DC5BEBA147", item: { count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "328BDCDAC50EF437", item: { count: 1, id: "ftbquests:lootcrate" } }
+	]
+	use_title: true
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "item": "minecraft:emerald",
+    "price": "750"
+  },
+  {
+    "item": "minecraft:copper_ingot",
+    "price": "30"
+  },
+  {
+    "item": "minecraft:iron_ingot",
+    "price": "75"
+  },
+  {
+    "item": "minecraft:gold_ingot",
+    "price": "250"
+  },
+  {
+    "item": "minecraft:redstone",
+    "price": "10"
+  },
+  {
+    "item": "minecraft:lapis_lazuli",
+    "price": "20"
+  },
+  {
+    "item": "minecraft:quartz",
+    "price": "30"
+  },
+  {
+    "item": "minecraft:amethyst_shard",
+    "price": "100"
+  },
+  {
+    "item": "minecraft:diamond",
+    "price": "2000"
+  },
+  {
+    "item": "minecraft:ancient_debris",
+    "price": "4000"
+  },
+  {
+    "item": "minecraft:netherite_ingot",
+    "price": "15000"
+  },
+  {
+    "item": "cobblemon:red_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:yellow_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:green_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:blue_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:pink_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:black_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:white_apricorn",
+    "price": "30"
+  },
+  {
+    "item": "cobblemon:tumblestone",
+    "price": "40"
+  },
+  {
+    "item": "cobblemon:sky_tumblestone",
+    "price": "60"
+  },
+  {
+    "item": "cobblemon:black_tumblestone",
+    "price": "60"
+  },
+  {
+    "item": "cobblemon:relic_coin",
+    "price": "100"
+  },
+  {
+    "item": "cobblemon:relic_coin_pouch",
+    "price": "900"
+  },
+  {
+    "item": "cobblemon:relic_coin_sack",
+    "price": "8100"
+  },
+  {
+    "item": "cobblemon:fire_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:water_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:thunder_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:leaf_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:moon_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:sun_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:shiny_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:dusk_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:dawn_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:ice_stone",
+    "price": "5000"
+  },
+  {
+    "item": "cobblemon:armor_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:fossilized_bird",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:claw_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:cover_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:fossilized_dino",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:dome_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:fossilized_drake",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:fossilized_fish",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:helix_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:jaw_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:old_amber_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:plume_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:root_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:sail_fossil",
+    "price": "10000"
+  },
+  {
+    "item": "cobblemon:skull_fossil",
+    "price": "10000"
+  }
+]

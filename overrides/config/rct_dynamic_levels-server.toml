@@ -1,0 +1,26 @@
+#Battle-only level scaling for selected RCT gym trainers.
+[scaling]
+	#Enable dynamic level scaling.
+	enabled = true
+	#Allow selected gym trainers to battle even when the player's strongest Pokemon is above the RCT level cap.
+	bypassLevelCapForSelectedTrainers = true
+	#Player reference level: TOP_TWO_AVERAGE or MAXIMUM.
+	baseMode = "TOP_TWO_AVERAGE"
+	#Levels added to the player's reference level. Recommended: 1.
+	# Default: 1
+	# Range: -100 ~ 100
+	levelOffset = 1
+	#Lower bound for the adjusted trainer level.
+	# Default: 10
+	# Range: 1 ~ 100
+	minLevel = 10
+	#Upper bound for the adjusted trainer level.
+	# Default: 100
+	# Range: 1 ~ 100
+	maxLevel = 100
+	#Comma-separated exact RCT trainer type IDs to scale.
+	trainerTypes = "leader,sinnoh_leader"
+	#Comma-separated RCT trainer ID prefixes to scale.
+	trainerIdPrefixes = "leader_,gym_leader_"
+	#Write one server log line whenever a selected battle is adjusted.
+	logAdjustments = true

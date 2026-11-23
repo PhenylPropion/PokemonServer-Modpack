@@ -1,0 +1,15 @@
+{
+	id: "173C86FFD08A092F"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "19736D0307F58AE2", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "0D5DADED22AA6BDF", item: { count: 1, id: "mekanism:creative_energy_cube" } }
+		{ id: "5488B87D9EE62FCA", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "7595051EA6943B2A", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "25B52C08BB7A9E74", item: { count: 1, id: "minecraft:diamond_chestplate" } }
+		{ id: "5DA8643CEE214F02", item: { count: 1, id: "ae2:creative_energy_cell" } }
+		{ id: "0CC477687AAF26DB", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "240EC3FFCA3804F9", item: { count: 1, id: "create:creative_motor" } }
+	]
+}

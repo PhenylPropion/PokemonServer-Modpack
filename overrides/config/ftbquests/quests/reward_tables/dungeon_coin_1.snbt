@@ -1,0 +1,121 @@
+{
+	id: "58FDFE8265412533"
+	loot_size: 1
+	order_index: 67
+	rewards: [
+		{
+			count: 16
+			id: "2B4E919B02D1D8BF"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+		}
+		{
+			count: 8
+			id: "49704807E46B2058"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 8
+			id: "25171CC67DEF881C"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 8
+			id: "6FE88E829488F9F8"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			count: 4
+			id: "75C7058537927324"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 4
+			id: "483D29362ADC1AF2"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 16
+			id: "0C7CEEAFFFB02004"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+		}
+		{
+			count: 8
+			id: "79E1421040927841"
+			item: {
+				count: 1
+				id: "minecraft:glow_berries"
+			}
+		}
+		{
+			count: 8
+			id: "272DB5EDFA94E53A"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{
+			count: 12
+			id: "59AEAA1641C4379F"
+			item: {
+				count: 1
+				id: "minecraft:wheat"
+			}
+		}
+		{
+			count: 4
+			id: "4126A0C7DD7BD13F"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 8
+			id: "62B497D11DBA83CA"
+			item: {
+				count: 1
+				id: "minecraft:stick"
+			}
+		}
+		{
+			count: 4
+			id: "1DE4B22399B389D6"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{ id: "1E855AABCDDD5EB5", item: { count: 1, id: "minecraft:saddle" } }
+		{ id: "3785C0F29FF75CCF", item: { count: 1, id: "minecraft:iron_horse_armor" } }
+		{
+			count: 2
+			id: "02179D3A766F3C17"
+			item: {
+				count: 1
+				id: "minecolonies:scroll_buff"
+			}
+		}
+	]
+}

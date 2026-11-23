@@ -1,0 +1,116 @@
+{
+	id: "7D91F06F3FC4892C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Junk 2"
+		string_id: "junk_2"
+	}
+	loot_size: 1
+	order_index: 50
+	rewards: [
+		{
+			count: 32
+			id: "4405E51A52E6D756"
+			item: {
+				count: 1
+				id: "minecraft:repeater"
+			}
+		}
+		{
+			count: 10
+			id: "3A9C09CB926B9D5A"
+			item: {
+				count: 1
+				id: "minecraft:lantern"
+			}
+		}
+		{ id: "6B73D0B0976286B8", item: { count: 1, id: "minecraft:dropper" } }
+		{
+			count: 2
+			id: "3CFA1F503CB5ED20"
+			item: {
+				count: 1
+				id: "minecraft:pig_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "441F3E21D8B1B41A"
+			item: {
+				count: 1
+				id: "minecraft:cow_spawn_egg"
+			}
+		}
+		{ id: "7A083C42BFF8FE41", item: { count: 1, id: "minecraft:cat_spawn_egg" } }
+		{
+			count: 64
+			id: "5663D6781D0F778E"
+			item: {
+				count: 1
+				id: "minecraft:glass_bottle"
+			}
+		}
+		{ id: "66CFBA3D25D0D073", item: { count: 1, id: "minecraft:skeleton_skull" } }
+		{ id: "069E7B873EBE598B", item: { count: 1, id: "minecraft:flower_pot" } }
+		{
+			count: 2
+			id: "3EA3664A2F73CF2B"
+			item: {
+				count: 1
+				id: "minecraft:piston"
+			}
+		}
+		{
+			count: 3
+			id: "6BBF4D37BBE18563"
+			item: {
+				count: 1
+				id: "minecraft:redstone_lamp"
+			}
+		}
+		{ id: "1B8A9F6A536A20B4", item: { count: 1, id: "minecraft:dispenser" } }
+		{ id: "1F6D9E07C890F634", item: { count: 1, id: "minecraft:creeper_spawn_egg" } }
+		{
+			count: 16
+			id: "0A9900D34AB4B2C3"
+			item: {
+				count: 1
+				id: "minecraft:item_frame"
+			}
+		}
+		{ id: "755D396ED42935CD", item: { count: 1, id: "minecraft:torchflower_seeds" } }
+		{
+			count: 32
+			id: "58F8282D57E0F99C"
+			item: {
+				count: 1
+				id: "minecraft:comparator"
+			}
+		}
+		{
+			count: 8
+			id: "616917C04EE67B15"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 3
+			id: "781CC8B672F031E3"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+		}
+		{ id: "40D4F616443F3FB4", item: { count: 1, id: "minecraft:goat_horn" } }
+		{ id: "4A9CDA6D14B86F3A", item: { count: 1, id: "minecraft:smooth_stone_slab" } }
+		{ id: "35592136A937A59D", item: { count: 1, id: "minecraft:leather_helmet" } }
+	]
+	use_title: true
+}

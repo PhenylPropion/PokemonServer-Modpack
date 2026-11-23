@@ -1,0 +1,266 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "btips_and_tricks"
+	group: ""
+	icon: {
+		components: {
+			"patchouli:book": "cobblepedia:cobblepedia"
+		}
+		id: "patchouli:guide_book"
+	}
+	id: "401BB11CCD0BA2BB"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5A584D0D75F63962"
+			rewards: [{
+				id: "39C709A9A7643C96"
+				item: {
+					count: 1
+					id: "storagedrawers:oak_full_drawers_1"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7B888889AE181D9E"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "1C239D0FA4A325AA"
+			rewards: [{
+				id: "2F35D3270BD44DF7"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4605754FD28F9C9D"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "35CA73298B6AC7D3"
+			rewards: [{
+				id: "4E7CF89220AB8B88"
+				item: {
+					count: 1
+					id: "waystones:return_scroll"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7ACC5070509A2E18"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "68A80A4CEF9DB352"
+			rewards: [{
+				count: 24
+				id: "10126080144126DA"
+				item: {
+					count: 1
+					id: "minecraft:string"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A15E511A7634F80"
+				item: { count: 1, id: "comforts:sleeping_bag_white" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "1A062E8E0F0A7562"
+			rewards: [{
+				id: "026AC84E44104B62"
+				item: {
+					count: 1
+					id: "create:wand_of_symmetry"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3038306F1EA0DA56"
+					item: { count: 1, id: "chipped:tinkering_table" }
+					type: "item"
+				}
+				{
+					id: "5B6F10998CEF7FAD"
+					item: { count: 1, id: "chipped:botanist_workbench" }
+					type: "item"
+				}
+				{
+					id: "26922E17780F5CFE"
+					item: { count: 1, id: "chipped:glassblower" }
+					type: "item"
+				}
+				{
+					id: "274C5DC5E1CC86FF"
+					item: { count: 1, id: "chipped:carpenters_table" }
+					type: "item"
+				}
+				{
+					id: "76E5FA1A6353DB82"
+					item: { count: 1, id: "chipped:loom_table" }
+					type: "item"
+				}
+				{
+					id: "79D4E079E8788375"
+					item: { count: 1, id: "chipped:mason_table" }
+					type: "item"
+				}
+				{
+					id: "76D070D5BF4B1949"
+					item: { count: 1, id: "chipped:alchemy_bench" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "50644C3C016BA0F6"
+			rewards: [{
+				id: "20255F59EB88D481"
+				table_id: 8317431325449843758L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "762DF82B88A3197F"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "1EB49D62FD03D109"
+			rewards: [{
+				id: "1CB2B5D82695547F"
+				table_id: 6420898557802481207L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "artifacts:amateur_archaeologist"
+				criterion: ""
+				id: "11C322E4778C1441"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "3E0132AFAA5C2DB3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B746E7E599729DD"
+					table_id: 824139262337782934L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D9AD8B84A92E69C"
+					table_id: 1495161173843496896L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "5410AC5AD9784D65"
+				item: { count: 1, id: "minecraft:flower_pot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "3AD027E8FDBC1407"
+			rewards: [{
+				id: "7D58CC8EDA830071"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "20F8A83ADEF40CF2"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "02000AE8CFD07241"
+			rewards: [{
+				id: "002E3B11FA204D27"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2B9686CB86087159"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "71D0D59CB8BB4605"
+			rewards: [{
+				id: "64D264D0CEEFE6BF"
+				item: {
+					count: 1
+					id: "minecraft:stone_pickaxe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "70142A138FBB2AC0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "041B5E78E9A9CD29"
+			tasks: [{
+				id: "28841E2B17D98952"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "1B2C076A9B94DE31"
+			rewards: [{
+				id: "34BEDE75004D82B2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1BB958188D085181"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}

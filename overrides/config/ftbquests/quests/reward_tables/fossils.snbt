@@ -1,0 +1,22 @@
+{
+	id: "3C1BFAD652D57DC5"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{ id: "4F9A76EEF996B0E8", item: { count: 1, id: "cobblemon:helix_fossil" } }
+		{ id: "64CF224C74048F0A", item: { count: 1, id: "cobblemon:dome_fossil" } }
+		{ id: "152737CD9FDFF791", item: { count: 1, id: "cobblemon:old_amber_fossil" } }
+		{ id: "08B2DF361816C927", item: { count: 1, id: "cobblemon:root_fossil" } }
+		{ id: "5FF8913892149FBE", item: { count: 1, id: "cobblemon:claw_fossil" } }
+		{ id: "16DF7EC1D37D822C", item: { count: 1, id: "cobblemon:skull_fossil" } }
+		{ id: "71D60E178E82BEBD", item: { count: 1, id: "cobblemon:armor_fossil" } }
+		{ id: "422FF1C3B801129B", item: { count: 1, id: "cobblemon:cover_fossil" } }
+		{ id: "21D00E956EEE62DB", item: { count: 1, id: "cobblemon:plume_fossil" } }
+		{ id: "0F519B09790D1625", item: { count: 1, id: "cobblemon:jaw_fossil" } }
+		{ id: "202284455CE72D4A", item: { count: 1, id: "cobblemon:sail_fossil" } }
+		{ id: "684D271C3D9908CA", item: { count: 1, id: "cobblemon:fossilized_bird" } }
+		{ id: "1871479A042D2AEF", item: { count: 1, id: "cobblemon:fossilized_fish" } }
+		{ id: "0C8A6D9BB2C4F741", item: { count: 1, id: "cobblemon:fossilized_drake" } }
+		{ id: "3B6B4D97F7D79ABD", item: { count: 1, id: "cobblemon:fossilized_dino" } }
+	]
+}

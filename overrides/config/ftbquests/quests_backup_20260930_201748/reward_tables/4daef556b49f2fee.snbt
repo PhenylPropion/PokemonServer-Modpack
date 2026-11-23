@@ -1,0 +1,31 @@
+{
+	id: "4DAEF556B49F2FEE"
+	loot_size: 1
+	order_index: 41
+	rewards: [
+		{
+			count: 16
+			id: "29D7CDB559AC99CF"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 16
+			id: "7E0C13B2A9C58B05"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{
+			count: 16
+			id: "72DE626D8A91F05C"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+		}
+	]
+}

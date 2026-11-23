@@ -1,0 +1,21 @@
+{
+	id: "6D2177F983B3599A"
+	loot_size: 1
+	order_index: 69
+	rewards: [
+		{ id: "0B01B00A97E0AE14", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "12A223C0B0724AA1", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "37DEBCBADB0AFB50", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "23692765806BB3DC", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "3B817395685B6F63", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "7F7CA35426DF5C22", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "03A7943D842868CD", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4D48A969CFBF944A", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6689C2AD8E411E17", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "3DC25F854381E9F0", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "62C89CC78A81D757", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1FE458FF3D73E0FD", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "15FDB820CBFA529A", item: { count: 1, id: "minecraft:enchanted_book" } }
+	]
+	use_title: true
+}

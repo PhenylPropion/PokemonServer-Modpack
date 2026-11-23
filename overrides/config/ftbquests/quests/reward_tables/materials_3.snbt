@@ -1,0 +1,162 @@
+{
+	id: "048F51ABD4D5CB1B"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Materials 3"
+		string_id: "materials_3"
+	}
+	loot_size: 1
+	order_index: 46
+	rewards: [
+		{
+			count: 24
+			id: "193306ACE50EF32E"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 25
+			id: "7B169E4A6BE9031A"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 6
+			id: "22AC034A453F4930"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+		}
+		{
+			count: 6
+			id: "51899B86EE61C8C2"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 5
+			id: "4C915E697D130A0F"
+			item: {
+				count: 1
+				id: "minecraft:book"
+			}
+		}
+		{
+			count: 3
+			id: "71CA2A15E9DC35D9"
+			item: {
+				count: 1
+				id: "minecraft:glow_ink_sac"
+			}
+		}
+		{
+			count: 23
+			id: "6B940DBCA0B136ED"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			count: 4
+			id: "0F82F3F1B305857B"
+			item: {
+				count: 1
+				id: "minecraft:blaze_powder"
+			}
+		}
+		{
+			count: 36
+			id: "0F407E02F678F926"
+			item: {
+				count: 1
+				id: "minecraft:bone_meal"
+			}
+		}
+		{
+			count: 3
+			id: "593CBC79CCCB061C"
+			item: {
+				count: 1
+				id: "minecraft:magma_cream"
+			}
+		}
+		{
+			count: 23
+			id: "7EAF504F5EE2025C"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 23
+			id: "4CD11D86A2BD9C1D"
+			item: {
+				count: 1
+				id: "minecraft:paper"
+			}
+		}
+		{
+			count: 26
+			id: "1CA4FBEC0DA4F97B"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+		{
+			count: 13
+			id: "013C24B9828355EC"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 14
+			id: "719824747A4CFDAC"
+			item: {
+				count: 1
+				id: "minecraft:rabbit_hide"
+			}
+		}
+		{
+			count: 24
+			id: "580CD1A86F6C8495"
+			item: {
+				count: 1
+				id: "minecraft:flint"
+			}
+		}
+		{
+			count: 24
+			id: "62ED13915CE4E08F"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 22
+			id: "621FC5873FE5A074"
+			item: {
+				count: 1
+				id: "minecraft:sugar"
+			}
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,116 @@
+{
+	hide_tooltip: true
+	id: "47C5B7ADC6AAEF9B"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Junk 1"
+		string_id: "junk_1"
+	}
+	loot_size: 1
+	order_index: 49
+	rewards: [
+		{ id: "0AE447C7FBBBEECF", item: { count: 1, id: "minecraft:zombie_head" } }
+		{
+			count: 4
+			id: "5C722961AEC23D85"
+			item: {
+				count: 1
+				id: "minecraft:candle"
+			}
+		}
+		{
+			count: 2
+			id: "1C80881794428562"
+			item: {
+				count: 1
+				id: "minecraft:chicken_spawn_egg"
+			}
+		}
+		{ id: "71250FCD7CD4F353", item: { count: 1, id: "minecraft:bee_spawn_egg" } }
+		{
+			count: 64
+			id: "37F542BE3BD7DF87"
+			item: {
+				count: 1
+				id: "minecraft:tripwire_hook"
+			}
+		}
+		{
+			count: 4
+			id: "13A4AAF66C8696DB"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_seeds"
+			}
+		}
+		{
+			count: 10
+			id: "6C293B930F7CA1EF"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+		}
+		{ id: "570D8392EBEC4D45", item: { count: 1, id: "minecraft:composter" } }
+		{ id: "5AC82FC47BA3EF53", item: { count: 1, id: "minecraft:repeater" } }
+		{ id: "14B60DD1B6D68FD3", item: { count: 1, id: "minecraft:comparator" } }
+		{ id: "1F08ACA679265697", item: { count: 1, id: "minecraft:daylight_detector" } }
+		{ id: "7E30B57D6C3A4B97", item: { count: 1, id: "minecraft:big_dripleaf" } }
+		{ id: "77E89E257FB24DBD", item: { count: 1, id: "minecraft:flower_pot" } }
+		{ id: "1F758F79683B7B35", item: { count: 1, id: "minecraft:item_frame" } }
+		{
+			count: 64
+			id: "4FAA237DA3AC57D4"
+			item: {
+				count: 1
+				id: "minecraft:bowl"
+			}
+		}
+		{
+			count: 4
+			id: "56F9820113AC01DA"
+			item: {
+				count: 1
+				id: "minecraft:stick"
+			}
+		}
+		{
+			count: 4
+			id: "4C85EEE65B268316"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{
+			count: 16
+			id: "751E270DF29F11FC"
+			item: {
+				count: 1
+				id: "minecraft:snowball"
+			}
+		}
+		{
+			count: 3
+			id: "6CF63C8CDF0FCF94"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			count: 4
+			id: "6177FBF823A2A6A0"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+	]
+	use_title: true
+}

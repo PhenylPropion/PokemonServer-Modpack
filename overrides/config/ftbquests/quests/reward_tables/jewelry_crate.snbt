@@ -1,0 +1,28 @@
+{
+	id: "212692668D40BCF8"
+	loot_crate: {
+		color: 15971114
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Jewelry Crate"
+		string_id: "jewelry_crate"
+	}
+	loot_size: 1
+	order_index: 53
+	rewards: [
+		{ id: "369607B9566F150E", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "60B10CC8E15DCB14", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "78B656378268F13D", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "24A069165561A295", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "6DFF0538E34F31A3", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "2EFE26A0F62F306E", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "3016F732E677E095", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "7E9BD1A07110FC75", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "1AEB97051215CD32", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "41DB9D7C4787E26B", item: { count: 1, id: "minecraft:gold_nugget" } }
+	]
+	use_title: true
+}

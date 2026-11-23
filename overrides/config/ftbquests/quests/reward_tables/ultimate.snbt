@@ -1,0 +1,68 @@
+{
+	hide_tooltip: true
+	id: "55CDC222197A1D3E"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			count: 2
+			id: "1B30CD548E089BA1"
+			item: {
+				count: 1
+				id: "cobblemon:master_ball"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "7B28A0C9DF41B5E0"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_sack"
+			}
+		}
+		{
+			count: 16
+			id: "4A0091CFB38D8217"
+			item: {
+				count: 1
+				id: "cobblemon:rare_candy"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 10
+			id: "3E59B28A0C4B821A"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_xl"
+			}
+		}
+		{
+			count: 2
+			id: "6C10B4D581A9EF28"
+			item: {
+				count: 1
+				id: "minecraft:netherite_block"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 16
+			id: "10FB47CA82903E51"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "48B92D01FEA719C3"
+			item: {
+				count: 1
+				id: "storagedrawers:creative_vending_upgrade"
+			}
+			weight: 0.05f
+		}
+	]
+}

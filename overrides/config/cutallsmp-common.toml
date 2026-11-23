@@ -1,0 +1,45 @@
+#net.minecraft.scalar.cutall.mod_CutAllSMP
+[configuration]
+	#String: ""
+	#Optional extra cutting items. Axe-capable items are detected automatically.
+	itemIds = "iron_axe, wooden_axe, stone_axe, diamond_axe, golden_axe, netherite_axe"
+	#String: "oak_log,spruce_log,birch_log,jungle_log,acacia_log,dark_oak_log,stripped_spruce_log,stripped_birch_log,stripped_jungle_log,stripped_acacia_log,stripped_dark_oak_log,stripped_oak_log,oak_wood,spruce_wood,birch_wood,jungle_wood,acacia_wood,dark_oak_wood,stripped_oak_wood,stripped_spruce_wood,stripped_birch_wood,stripped_jungle_wood,stripped_acacia_wood,stripped_dark_oak_wood,crimson_stem,warped_stem,crimson_hyphae,warped_hyphae"
+	blockIds = "oak_log,spruce_log,birch_log,jungle_log,acacia_log,dark_oak_log,stripped_spruce_log,stripped_birch_log,stripped_jungle_log,stripped_acacia_log,stripped_dark_oak_log,stripped_oak_log,oak_wood,spruce_wood,birch_wood,jungle_wood,acacia_wood,dark_oak_wood,stripped_oak_wood,stripped_spruce_wood,stripped_birch_wood,stripped_jungle_wood,stripped_acacia_wood,stripped_dark_oak_wood,crimson_stem,warped_stem,crimson_hyphae,warped_hyphae"
+	#String: "oak_leaves,spruce_leaves,birch_leaves,jungle_leaves,acacia_leaves,dark_oak_leaves,mangrove_leaves,cherry_leaves,azalea_leaves,flowering_azalea_leaves,nether_wart_block,warped_wart_block"
+	leavesIds = "oak_leaves,spruce_leaves,birch_leaves,jungle_leaves,acacia_leaves,dark_oak_leaves"
+	#String: ""
+	#Items that do not lose durability for chained blocks.
+	nondestructiveItemIDs = ""
+	#Integer: 3
+	# Default: 3
+	# Range: 0 ~ 8
+	leavesRange = 3
+	#String: "KEY_C"
+	Key = "KEY_C"
+	#Integer: 0
+	# Default: 0
+	# Range: 0 ~ 257
+	Limiter = 0
+	#Integer: 0
+	#0:no extra durability, 1:normal durability and continue, 2:stop when tool breaks
+	# Default: 0
+	# Range: 0 ~ 2
+	Durability = 0
+	#Boolean: true
+	DropGather = true
+	#Boolean: true
+	useTags = true
+	#Boolean: false
+	DestroyUnder = true
+	#Boolean: true
+	StartMode = false
+	#Integer: 1024
+	#Hard cap for all additional logs and leaves broken by one action.
+	# Default: 1024
+	# Range: 1 ~ 32768
+	MaxAdditionalBlocks = 1024
+	#Integer: 64
+	#Global number of additional blocks processed per server tick.
+	# Default: 64
+	# Range: 1 ~ 512
+	BlocksPerTick = 64

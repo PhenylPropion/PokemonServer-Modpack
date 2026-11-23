@@ -1,0 +1,155 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "9cobblemon_wiki_links"
+	group: "30F6BB3E74582F94"
+	icon: {
+		components: {
+			"ftbquests:icon": "ftbquests:textures/gui/link.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "4AFA63EC4BFC30F2"
+	images: [
+		{
+			click_action: "open_uri:https://www.cobbledex.info/team-builds"
+			height: 2.0d
+			id: "5A8CA7DE717B3932"
+			image: "cobblemon:textures/particle/request/icon_team.png"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -10.0d
+		}
+		{
+			click_action: "open_uri:https://www.cobbledex.info/all-mons"
+			height: 2.0d
+			id: "0D24D2F8E9F436FF"
+			image: "cobblemon:textures/gui/interact/interact_wheel_icon_exclamation.png"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.5d
+			y: -14.0d
+		}
+		{
+			click_action: "open_uri:https://www.cobbledex.info/spawn-calculator"
+			height: 2.0d
+			id: "55E7CBCB3AA84755"
+			image: "minecraft:egg"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			click_action: "open_uri:https://www.cobbledex.info/en/abilities"
+			height: 2.0d
+			id: "25C0146ACEC1956C"
+			image: "cobblemon:ability_shield"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			click_action: "open_uri:https://www.cobbledex.info/moves"
+			height: 1.0d
+			id: "0AC65421BB4FB8CF"
+			image: "cobblemon:textures/particle/moves/sludgebomb.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			click_action: "open_uri:https://www.cobbledex.info/cooking"
+			height: 2.0d
+			id: "64DE072F806977E1"
+			image: "minecraft:campfire"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.5d
+			y: -10.0d
+		}
+		{
+			height: 24.0d
+			id: "110ABD61509609B7"
+			image: "cobblenav:textures/gui/pokefinder/background.png"
+			order: -2
+			rotation: 0.0d
+			width: 24.0d
+			x: -8.5d
+			y: -9.0d
+		}
+		{
+			height: 26.0d
+			id: "7580EB110DD3E0F8"
+			image: "cobblemon:textures/gui/pokedex/pokedex_base_black.png"
+			order: 2
+			rotation: 0.0d
+			width: 26.0d
+			x: -8.5d
+			y: -9.0d
+		}
+		{
+			height: 5.0d
+			id: "715EE5A44C0968B5"
+			image: "cobblemon:helix_fossil"
+			order: 3
+			rotation: 0.0d
+			width: 5.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			height: 5.0d
+			id: "0666EC3E686064A4"
+			image: "cobblemon:leaf_stone"
+			order: 3
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.5d
+			y: -1.5d
+		}
+		{
+			height: 5.0d
+			id: "605BABA0AF93535B"
+			image: "cobblemon:water_stone"
+			order: 3
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: -17.5d
+		}
+		{
+			height: 5.0d
+			id: "20EEBC5489D14C94"
+			image: "cobblemon:ice_stone"
+			order: 3
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.0d
+			y: -17.0d
+		}
+	]
+	order_index: 20
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			components: {
+				"ftbquests:icon": "ftbquests:textures/gui/link.png"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "59440F61855F089C"
+		size: 4.0d
+		tasks: [{
+			id: "1A502511F530FECE"
+			type: "checkmark"
+		}]
+		x: -8.5d
+		y: -10.0d
+	}]
+}

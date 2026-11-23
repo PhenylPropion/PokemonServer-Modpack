@@ -1,0 +1,414 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "chapter_13_apotheosis"
+	group: ""
+	id: "4A6219064DCCB512"
+	images: [ ]
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000060"]
+			id: "1EDF9F6A0CA494E9"
+			rewards: [
+				{
+					count: 4
+					id: "6DF3848E5E8EBB97"
+					item: {
+						count: 1
+						id: "immersiveengineering:shelf"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "272E003E42AACD0F"
+					item: {
+						count: 1
+						id: "ars_nouveau:starby_gift"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "187E879094718DB1"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+				{
+					id: "3B9AB84252775BF8"
+					type: "xp"
+					xp: 3000
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "65B7ACA767BC9DA4"
+					type: "checkmark"
+				}
+				{
+					id: "0C0B3634B80AC33E"
+					type: "checkmark"
+				}
+				{
+					id: "241B9ACCC4359CA4"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "657C9BBC8F84B5B2"
+			rewards: [
+				{
+					count: 16
+					id: "1ABE1AB73291DC02"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "77FF51147DDCC604"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "61B553B48E195C84"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "003BC4CAD69A0431"
+					type: "xp"
+					xp: 5000
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					id: "2F19A4715E3594E1"
+					type: "checkmark"
+				}
+				{
+					id: "11B0BE2D5A30F794"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "1F5CED84DE7C0C79"
+			rewards: [
+				{
+					count: 64
+					id: "5DBDBDAEC5AD42CD"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "63129B623695277D"
+					item: {
+						count: 1
+						id: "minecraft:iron_bars"
+					}
+					type: "item"
+				}
+				{
+					id: "24FB6A585350551C"
+					type: "xp"
+					xp: 4000
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					id: "00B406A2377B0228"
+					type: "checkmark"
+				}
+				{
+					id: "2CF8661512454300"
+					type: "checkmark"
+				}
+				{
+					id: "6A0E505C84B3C5C0"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "6DC0CFE9C48E446D"
+			rewards: [
+				{
+					count: 16
+					id: "680FD5604FD0D46D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5109A1E938FCC355"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "4CCC0529D8EFB7C5"
+					type: "xp"
+					xp: 6000
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					id: "614D6E5E953B2039"
+					type: "checkmark"
+				}
+				{
+					count: 8L
+					id: "5F741511A7923708"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["657C9BBC8F84B5B2"]
+			id: "26EE011D95B056C1"
+			rewards: [
+				{
+					count: 16
+					id: "79664B5FF1387D2C"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "321F5A50DDDAAABD"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "7971153CCC222D09"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "09C7683938B7332A"
+					type: "xp"
+					xp: 8000
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [
+				{
+					id: "3008108AB5686704"
+					type: "checkmark"
+				}
+				{
+					id: "156E38A90B3584E7"
+					type: "checkmark"
+				}
+				{
+					id: "4196EE00CF3C8EC6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "0942FB8C92297E4E"
+			rewards: [
+				{
+					count: 8
+					id: "0C4EB1EEC3F83299"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "74E3A55860A34DBE"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "21FB870098B92931"
+					type: "xp"
+					xp: 10000
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [
+				{
+					id: "34DE8D3A316B71D8"
+					type: "checkmark"
+				}
+				{
+					id: "5D4CA40509E9046E"
+					type: "checkmark"
+				}
+				{
+					count: 4L
+					id: "3369A92D566C5C51"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["657C9BBC8F84B5B2"]
+			id: "3ECE442CE0743676"
+			rewards: [
+				{
+					id: "5F11D4A941BE2602"
+					item: {
+						count: 1
+						id: "minecraft:dragon_head"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5ECEB68C7933CB42"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1304D15B5A555B8F"
+					type: "xp"
+					xp: 15000
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "23E0FE6558C95B11"
+					type: "checkmark"
+				}
+				{
+					id: "580935A8AE4930ED"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "15AD29E25F40920E"
+			rewards: [
+				{
+					id: "3F0793C0B0132ADA"
+					item: {
+						count: 1
+						id: "minecraft:dragon_egg"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "7ABB81BBAC15110D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "239D05DB3D037D52"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "1100FBD5FB0B0CCA"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					auto: "no_toast"
+					command: "/title @p title {\"text\":\"Godslayer\",\"color\":\"light_purple\",\"bold\":true}"
+					id: "1FC006C0B53C240A"
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "525767E653118422"
+					type: "checkmark"
+				}
+				{
+					entity: "minecraft:ender_dragon"
+					id: "0304EC97155E9C68"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:wither"
+					id: "7ACFFE79D934C958"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+	]
+}

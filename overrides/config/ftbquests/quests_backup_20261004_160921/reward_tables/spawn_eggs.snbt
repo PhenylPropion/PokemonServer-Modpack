@@ -1,0 +1,58 @@
+{
+	id: "2018E0E3EEF4A682"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Spawn Eggs"
+		string_id: "spawn_eggs"
+	}
+	loot_size: 1
+	order_index: 65
+	rewards: [
+		{
+			count: 2
+			id: "570F293968A7F938"
+			item: {
+				count: 1
+				id: "minecraft:bee_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "11A3EADE121ECBC8"
+			item: {
+				count: 1
+				id: "minecraft:chicken_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "39F0ACF0C7566679"
+			item: {
+				count: 1
+				id: "minecraft:cow_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "78BEB45F38C2F2D5"
+			item: {
+				count: 1
+				id: "minecraft:sheep_spawn_egg"
+			}
+		}
+		{
+			count: 2
+			id: "4CDE4A73E27026B3"
+			item: {
+				count: 1
+				id: "minecraft:pig_spawn_egg"
+			}
+		}
+	]
+	use_title: true
+}

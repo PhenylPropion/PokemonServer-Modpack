@@ -1,0 +1,95 @@
+{
+	hide_tooltip: true
+	id: "47597F72B1E4F9AF"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Junk 4"
+		string_id: "junk_4"
+	}
+	loot_size: 1
+	order_index: 52
+	rewards: [
+		{
+			count: 3
+			id: "22BD0E024CAA01BD"
+			item: {
+				count: 1
+				id: "minecraft:pearlescent_froglight"
+			}
+		}
+		{
+			count: 3
+			id: "05325319FD65F528"
+			item: {
+				count: 1
+				id: "minecraft:verdant_froglight"
+			}
+		}
+		{
+			count: 3
+			id: "61710F983C8202AE"
+			item: {
+				count: 1
+				id: "minecraft:soul_lantern"
+			}
+		}
+		{
+			count: 3
+			id: "1C3D2C75FEDE98D4"
+			item: {
+				count: 1
+				id: "minecraft:lantern"
+			}
+		}
+		{ id: "4F74460F0405E067", item: { count: 1, id: "minecraft:glow_squid_spawn_egg" } }
+		{ id: "0DDE92598DFD14C8", item: { count: 1, id: "minecraft:villager_spawn_egg" } }
+		{ id: "2D4FDE9B1B0D1F6A", item: { count: 1, id: "minecraft:mooshroom_spawn_egg" } }
+		{ id: "40ABD6E62B7A89A4", item: { count: 1, id: "minecraft:ocelot_spawn_egg" } }
+		{ id: "734C116C9FD21B70", item: { count: 1, id: "minecraft:parrot_spawn_egg" } }
+		{ id: "638677F442325D61", item: { count: 1, id: "minecraft:frog_spawn_egg" } }
+		{ id: "0A32EADBD37A0296", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{
+			count: 3
+			id: "410978CD5C8FB32E"
+			item: {
+				count: 1
+				id: "minecraft:shroomlight"
+			}
+		}
+		{
+			count: 3
+			id: "2CB2CB65AA129096"
+			item: {
+				count: 1
+				id: "minecraft:lantern"
+			}
+		}
+		{
+			count: 3
+			id: "4D1E2CEC089063C1"
+			item: {
+				count: 1
+				id: "minecraft:ochre_froglight"
+			}
+		}
+		{ id: "6E0504DF3C3ED037", item: { count: 1, id: "minecraft:sculk_sensor" } }
+		{
+			count: 64
+			id: "3E5534B45031750C"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+		}
+		{ id: "4D51818887A21C87", item: { count: 1, id: "minecraft:leather_helmet" } }
+		{ id: "313DA5F96EDA1286", item: { count: 1, id: "minecraft:leather_helmet" } }
+		{ id: "7AB3312E1D614AEC", item: { count: 1, id: "minecraft:leather_helmet" } }
+		{ id: "0F99204D05A190CA", item: { count: 1, id: "minecraft:leather_helmet" } }
+	]
+	use_title: true
+}

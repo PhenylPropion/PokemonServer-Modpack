@@ -1,0 +1,120 @@
+{
+	id: "225F43ED9E98F35C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Food 4"
+		string_id: "food_4"
+	}
+	loot_size: 1
+	order_index: 40
+	rewards: [
+		{ id: "44E6398A5ACBB4A5", item: { count: 1, id: "farmersdelight:stuffed_pumpkin_block" } }
+		{ id: "563295DFE6828AA1", item: { count: 1, id: "farmersdelight:honey_glazed_ham_block" } }
+		{ id: "2400D8F2EC49543B", item: { count: 1, id: "farmersdelight:shepherds_pie_block" } }
+		{
+			count: 16
+			id: "043CD4A3BDEB8BAB"
+			item: {
+				count: 1
+				id: "farmersdelight:dog_food"
+			}
+		}
+		{
+			count: 16
+			id: "420DC7207ACBE405"
+			item: {
+				count: 1
+				id: "farmersdelight:horse_feed"
+			}
+		}
+		{ id: "58F8BF2A68123524", item: { count: 1, id: "farmersdelight:rice_roll_medley_block" } }
+		{ id: "6FF7B4D459E8CB70", item: { count: 1, id: "minecraft:enchanted_golden_apple" } }
+		{
+			count: 3
+			id: "14FB6107B7553C4C"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+		}
+		{
+			count: 16
+			id: "2110D64555CF378A"
+			item: {
+				count: 1
+				id: "farmersdelight:bacon_and_eggs"
+			}
+		}
+		{
+			count: 16
+			id: "182ED11F2952D327"
+			item: {
+				count: 1
+				id: "farmersdelight:pasta_with_meatballs"
+			}
+		}
+		{
+			count: 16
+			id: "26FC88CA6341E401"
+			item: {
+				count: 1
+				id: "farmersdelight:pasta_with_mutton_chop"
+			}
+		}
+		{
+			count: 16
+			id: "0E18E63C7194D7FC"
+			item: {
+				count: 1
+				id: "farmersdelight:mushroom_rice"
+			}
+		}
+		{
+			count: 16
+			id: "74008F8356059A24"
+			item: {
+				count: 1
+				id: "farmersdelight:roasted_mutton_chops"
+			}
+		}
+		{
+			count: 16
+			id: "4D9BB5B0C55FCFE7"
+			item: {
+				count: 1
+				id: "farmersdelight:grilled_salmon"
+			}
+		}
+		{
+			count: 16
+			id: "3D203BF9D52E9DF4"
+			item: {
+				count: 1
+				id: "farmersdelight:ratatouille"
+			}
+		}
+		{
+			count: 16
+			id: "7C2366F02BF3A7E9"
+			item: {
+				count: 1
+				id: "farmersdelight:vegetable_noodles"
+			}
+		}
+		{
+			count: 16
+			id: "40AA606489D65EA2"
+			item: {
+				count: 1
+				id: "farmersdelight:steak_and_potatoes"
+			}
+		}
+		{ id: "7EB9D0D2BE49A233", item: { count: 1, id: "farmersdelight:roast_chicken_block" } }
+	]
+	use_title: true
+}

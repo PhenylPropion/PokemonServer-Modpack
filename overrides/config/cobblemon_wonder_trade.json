@@ -1,0 +1,13 @@
+{
+  "tradeCooldownMinutes": 90,
+  "levelMatching": true,
+  "levelMatchRange": 5,
+  "blacklistedSpecies": [],
+  "blockLegendaries": true,
+  "blockShinies": true,
+  "minimumLevel": 10,
+  "usePlayerPool": false,
+  "allowedGenerations": [],
+  "randomShinyChance": 8192,
+  "rarityMatching": true
+}

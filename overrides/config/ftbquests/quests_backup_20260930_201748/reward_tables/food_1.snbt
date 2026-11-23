@@ -1,0 +1,149 @@
+{
+	id: "55C1EE5EFC40DE7B"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Food 1"
+		string_id: "food_1"
+	}
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{
+			count: 6
+			id: "39BA158514635A67"
+			item: {
+				count: 1
+				id: "minecraft:baked_potato"
+			}
+		}
+		{ id: "5935F60E6FF8EA78", item: { count: 1, id: "minecraft:honey_bottle" } }
+		{
+			count: 2
+			id: "2992903EFF544AF4"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{ id: "5FC1472A6896CFE2", item: { count: 1, id: "minecraft:golden_apple" } }
+		{
+			count: 6
+			id: "04ABB110D01069EC"
+			item: {
+				count: 1
+				id: "minecraft:melon_slice"
+			}
+		}
+		{
+			count: 6
+			id: "62BF442C766753AB"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+		}
+		{
+			count: 2
+			id: "1025551C5B902924"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_pie"
+			}
+		}
+		{
+			count: 4
+			id: "29FA9916370F9A0C"
+			item: {
+				count: 1
+				id: "farmersdelight:fruit_salad"
+			}
+		}
+		{
+			count: 6
+			id: "5CE872732BC743D7"
+			item: {
+				count: 1
+				id: "minecraft:cookie"
+			}
+		}
+		{
+			count: 3
+			id: "1EF503D9BE4D690F"
+			item: {
+				count: 1
+				id: "minecraft:beef"
+			}
+		}
+		{
+			count: 3
+			id: "3BB92DEE2EC8A2DD"
+			item: {
+				count: 1
+				id: "minecraft:porkchop"
+			}
+		}
+		{
+			count: 3
+			id: "5C7289403B97FA4F"
+			item: {
+				count: 1
+				id: "minecraft:mutton"
+			}
+		}
+		{
+			count: 3
+			id: "6CDA7DB007A641F7"
+			item: {
+				count: 1
+				id: "minecraft:chicken"
+			}
+		}
+		{
+			count: 3
+			id: "322CDDCF68562711"
+			item: {
+				count: 1
+				id: "minecraft:cod"
+			}
+		}
+		{ id: "5AEDDA8089DCA67E", item: { count: 1, id: "minecraft:mushroom_stew" } }
+		{
+			count: 3
+			id: "10FC86CF5A09D534"
+			item: {
+				count: 1
+				id: "farmersdelight:onion"
+			}
+		}
+		{
+			count: 3
+			id: "7915842AB9B8A60F"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage"
+			}
+		}
+		{
+			count: 4
+			id: "2F8283D34B73270A"
+			item: {
+				count: 1
+				id: "farmersdelight:fried_egg"
+			}
+		}
+		{
+			count: 3
+			id: "618AC1A4764EE04F"
+			item: {
+				count: 1
+				id: "farmersdelight:tomato"
+			}
+		}
+	]
+	use_title: true
+}
