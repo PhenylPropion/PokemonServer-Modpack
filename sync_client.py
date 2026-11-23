@@ -272,7 +272,7 @@ def main():
         manifest = json.loads(Path(args.manifest).read_text(encoding="utf-8"))
         local_repo_root = Path(args.manifest).resolve().parent
     else:
-        if not raw_base or raw_base == "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/main":
+        if not raw_base or not raw_base.startswith(("http://", "https://")):
             raise SystemExit("[エラー] GitHub Raw URL が未設定です。")
         manifest_url = args.manifest or f"{raw_base}/pack_manifest.json"
         print(f"最新マニフェスト取得中: {manifest_url}")

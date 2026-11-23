@@ -2,8 +2,8 @@
 
 - **Minecraft**: `1.21.1`
 - **NeoForge**: `21.1.267`
-- **最終更新**: `2026-11-24 00:25:22 JST`
-- **MOD数**: 216 / **ResourcePack数**: 5 / **同期Config数**: 1092
+- **最終更新**: `2026-11-24 01:56:54 JST`
+- **MOD数**: 217 / **ResourcePack数**: 5 / **同期Config数**: 1092
 
 ## MOD一覧
 | ファイル名 | 配布元 | バージョン |
@@ -26,6 +26,7 @@
 | `Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar` | curseforge | `9232207` |
 | `CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar` | modrinth | `2.13.55` |
 | `Disenchanting-neoforge-1.21.1-2.3.0.jar` | curseforge | `7830765` |
+| `DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar` | modrinth | `3.3.3-1.21.1` |
 | `DungeonsArise-1.21.1-2.1.68-release.jar` | modrinth | `2.1.68` |
 | `ExplorersCompass-1.21.1-3.4.0-neoforge.jar` | modrinth | `1.21.1-3.4.0-neoforge` |
 | `ExtendedAE-1.21-2.2.43-neoforge.jar` | curseforge | `9391213` |

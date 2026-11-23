@@ -12,7 +12,7 @@ Write-Host "========================================================" -Foregroun
 Write-Host "  PokemonServer MOD環境 自動同期ツール (Windows)" -ForegroundColor Cyan
 Write-Host "========================================================" -ForegroundColor Cyan
 
-if ($RawBaseUrl -eq "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/main" -or [string]::IsNullOrWhiteSpace($RawBaseUrl)) {
+if ([string]::IsNullOrWhiteSpace($RawBaseUrl) -or $RawBaseUrl -notmatch '^https?://') {
     Write-Host "[エラー] GitHubのURLが未設定です。サーバー管理者に最新の同期スクリプトをもらってください。" -ForegroundColor Red
     exit 1
 }
