@@ -1,6 +1,6 @@
 #!/bin/bash
 cd "$(dirname "$0")"
-RAW_BASE="__RAW_BASE_URL__"
+RAW_BASE="https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/main"
 if [ ! -f "./sync_client.py" ]; then
   curl -fsSL "$RAW_BASE/sync_client.py" -o ./sync_client.py
 fi
