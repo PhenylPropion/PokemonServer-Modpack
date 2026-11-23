@@ -8,13 +8,13 @@
 - **最終更新**: `2026-11-24 00:25:22 JST`
 - **現在のMOD一覧**: [MODLIST.md](./MODLIST.md)
 
-## 友達の使い方（Windows）
+## 使い方（Windows）
 1. `SyncMods_Windows.bat` をダウンロードして適当なフォルダに置く（初回のみ）
 2. **`SyncMods_Windows.bat` をダブルクリック**
 3. 初回だけ CurseForge App 等のインスタンスフォルダを番号で選択（2回目以降は自動記憶！）
 4. 完了したらそのまま Minecraft を起動してサーバーへ接続！
 
-## 友達の使い方（Mac）
+## 使い方（Mac）
 1. `SyncMods_Mac.command` をダウンロード（初回のみ）
 2. 右クリック →「開く」で実行し、インスタンスフォルダを選択
 
