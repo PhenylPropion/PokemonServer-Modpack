@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 18:45:53 JST",
+  "updated_at": "2026-11-24 21:41:45 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -114,14 +114,14 @@
       "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/Iqiqjfsi/CobbleDollars-neoforge-2.0.0%2BBeta-6.1%2B1.21.1.jar"
     },
     {
-      "filename": "CobbleFurnies-neoforge-1.2.jar",
-      "sha1": "451c445ff636c1e5821f13e3a3f40ee16ecb3342",
-      "size": 2343464,
+      "filename": "CobbleFurnies-NeoForge-1.21.1-1.2.1.jar",
+      "sha1": "b07d4f22bd17b3086bba2a7a807d490c23c706c0",
+      "size": 2526215,
       "source": "modrinth",
       "key": "mr:AXY1OO9m",
-      "version": "1.2",
-      "prefix": "CobbleFurnies-neoforge-",
-      "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/Ynk3uYUi/CobbleFurnies-neoforge-1.2.jar"
+      "version": "1.2.1-1.21.1",
+      "prefix": "CobbleFurnies-NeoForge-",
+      "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/DF2yOg9I/CobbleFurnies-NeoForge-1.21.1-1.2.1.jar"
     },
     {
       "filename": "CobbledLevels-neoforge-2.1.0.jar",
@@ -304,14 +304,14 @@
       "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar"
     },
     {
-      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
-      "sha1": "780235af90127bd07bc168333add2ee7b02d5ea3",
-      "size": 292338,
+      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar",
+      "sha1": "a4a0014003c87eeed0e812088a9ecde76140b155",
+      "size": 301921,
       "source": "curseforge",
       "key": "cf:240630",
-      "version": "9311693",
+      "version": "9452611",
       "prefix": "JustEnoughResources-NeoForge-",
-      "url": "https://edge.forgecdn.net/files/9311/693/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar"
+      "url": "https://edge.forgecdn.net/files/9452/611/JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar"
     },
     {
       "filename": "Mekanism-1.21.1-10.7.19.85.jar",
@@ -574,14 +574,14 @@
       "url": "https://cdn.modrinth.com/data/fZ324GMc/versions/LqOllHms/ars_creo-1.21.1-5.4.0.jar"
     },
     {
-      "filename": "ars_elemental-1.21.1-0.7.10.4.jar",
-      "sha1": "562f640916aa6f5c83b3b3ee2384ca828b870e01",
-      "size": 2273778,
+      "filename": "ars_elemental-1.21.1-0.7.11.3.jar",
+      "sha1": "7757f06e39eb976172e813ff4899411636b4943b",
+      "size": 2383221,
       "source": "curseforge",
       "key": "cf:561470",
-      "version": "9057244",
+      "version": "9716535",
       "prefix": "ars_elemental-",
-      "url": "https://edge.forgecdn.net/files/9057/244/ars_elemental-1.21.1-0.7.10.4.jar"
+      "url": "https://edge.forgecdn.net/files/9716/535/ars_elemental-1.21.1-0.7.11.3.jar"
     },
     {
       "filename": "ars_nouveau-1.21.1-5.13.5.jar",
@@ -664,14 +664,14 @@
       "url": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar"
     },
     {
-      "filename": "blockui-1.0.209-1.21.1.jar",
-      "sha1": "01cba16a7d71521b81d791a07740464e6d70d0a6",
-      "size": 468001,
+      "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
+      "sha1": "985b739fb0e01ad0bc559c5cd41be45de5cfe2bf",
+      "size": 468141,
       "source": "curseforge",
       "key": "cf:522992",
-      "version": "7541336",
+      "version": "9137005",
       "prefix": "blockui-",
-      "url": "https://edge.forgecdn.net/files/7541/336/blockui-1.0.209-1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/9137/5/blockui-1.0.212-1.21.1-snapshot.jar"
     },
     {
       "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
@@ -724,14 +724,14 @@
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
     },
     {
-      "filename": "cobbledex-rei-emi-jei-neoforge-2.32.16.jar",
-      "sha1": "eb6a71eebc0f05fdb85e721491c915d8da0cd82d",
-      "size": 8972771,
+      "filename": "cobbledex-rei-emi-jei-neoforge-2.32.18.jar",
+      "sha1": "5de965553c00229e193256092c5371a011a79900",
+      "size": 8972841,
       "source": "modrinth",
       "key": "mr:qekxLrOP",
-      "version": "2.32.16+neoforge",
+      "version": "2.32.18+neoforge",
       "prefix": "cobbledex-rei-emi-jei-neoforge-",
-      "url": "https://cdn.modrinth.com/data/qekxLrOP/versions/QGPngpjK/cobbledex-rei-emi-jei-neoforge-2.32.16.jar"
+      "url": "https://cdn.modrinth.com/data/qekxLrOP/versions/Oa7zLZUQ/cobbledex-rei-emi-jei-neoforge-2.32.18.jar"
     },
     {
       "filename": "cobbledgacha-neoforge-1.21.1-3.0.3.jar",
@@ -954,14 +954,14 @@
       "url": "https://edge.forgecdn.net/files/8777/573/create_connected-1.3.3-mc1.21.1.jar"
     },
     {
-      "filename": "create_train_parts-0.6.0-1.21.1-6.0.10-281.jar",
-      "sha1": "5baa6845b9134f03e65fb478dd516852eb9e0feb",
-      "size": 1306034,
+      "filename": "create_train_parts-0.6.1-1.21.1-6.0.10-281.jar",
+      "sha1": "dcda1ecbe4b0dd59bd5b6df152a65b537bc61f4d",
+      "size": 1301674,
       "source": "modrinth",
       "key": "mr:h0bu4oDk",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "prefix": "create_train_parts-",
-      "url": "https://cdn.modrinth.com/data/h0bu4oDk/versions/dnQAZL4P/create_train_parts-0.6.0-1.21.1-6.0.10-281.jar"
+      "url": "https://cdn.modrinth.com/data/h0bu4oDk/versions/2QHL2t0N/create_train_parts-0.6.1-1.21.1-6.0.10-281.jar"
     },
     {
       "filename": "createaddition-1.7.2.jar",
@@ -984,14 +984,14 @@
       "url": "https://cdn.modrinth.com/data/mYGTCuZY/versions/1nkYMksD/createappliedkinetics-1.5.6-1.21.1.jar"
     },
     {
-      "filename": "createdieselgenerators-1.21.1-1.3.15.jar",
-      "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b",
-      "size": 3154746,
+      "filename": "createdieselgenerators-1.21.1-1.3.16.jar",
+      "sha1": "93e12d7febbe8b032b8609a5994db90a928cf556",
+      "size": 3155795,
       "source": "modrinth",
       "key": "mr:ZM3tt6p1",
-      "version": "1.21.1-1.3.15",
+      "version": "1.21.1-1.3.16",
       "prefix": "createdieselgenerators-",
-      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar"
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/yzsE99E2/createdieselgenerators-1.21.1-1.3.16.jar"
     },
     {
       "filename": "createoreexcavation-1.21-1.6.8.jar",
@@ -1084,14 +1084,14 @@
       "url": "https://edge.forgecdn.net/files/9394/376/domum-ornamentum-1.0.237-snapshot-main.jar"
     },
     {
-      "filename": "dragonlib-3.0.29+mc1.21.1-neoforge.jar",
-      "sha1": "ca7227b30334cb50117efe5cf76a01772e053eed",
-      "size": 2117194,
+      "filename": "dragonlib-3.1.0-beta.1+mc1.21.1-neoforge.jar",
+      "sha1": "7d8c585b423c945cb9c44e57b3933778bb31a468",
+      "size": 2942558,
       "source": "modrinth",
       "key": "mr:sbIsGaOV",
-      "version": "3.0.29+1.21.1-neoforge",
+      "version": "3.1.0-beta.1+1.21.1-neoforge",
       "prefix": "dragonlib-",
-      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/y30Bx41r/dragonlib-3.0.29%2Bmc1.21.1-neoforge.jar"
+      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/ZkzwhGm8/dragonlib-3.1.0-beta.1%2Bmc1.21.1-neoforge.jar"
     },
     {
       "filename": "easy-villagers-neoforge-1.21.1-1.1.49.jar",
@@ -1234,14 +1234,14 @@
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar"
     },
     {
-      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
-      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-      "size": 634531,
+      "filename": "geckolib-neoforge-1.21.1-4.9.4.jar",
+      "sha1": "75a73fab57b6bdc667a0d645922c2c5d6b9b77df",
+      "size": 639063,
       "source": "modrinth",
       "key": "mr:8BmcQJ2H",
-      "version": "4.9.3",
+      "version": "4.9.4",
       "prefix": "geckolib-neoforge-",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar"
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nxAPSFAR/geckolib-neoforge-1.21.1-4.9.4.jar"
     },
     {
       "filename": "goblintraders-neoforge-1.21.1-1.11.2.jar",
@@ -1294,14 +1294,14 @@
       "url": "https://cdn.modrinth.com/data/dxTydNDF/versions/G8UvBLSZ/jegn-1.8.4%2Bneoforge1.21.1.jar"
     },
     {
-      "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
-      "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
-      "size": 2375741,
+      "filename": "jei-1.21.1-neoforge-19.76.1.481.jar",
+      "sha1": "5049346ee5d60346dab7546638601a884faa167b",
+      "size": 7103608,
       "source": "modrinth",
       "key": "mr:u6dRKJwZ",
-      "version": "19.64.0.455",
+      "version": "19.76.1.481",
       "prefix": "",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar"
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lDv3cHMp/jei-1.21.1-neoforge-19.76.1.481.jar"
     },
     {
       "filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
@@ -1454,14 +1454,14 @@
       "url": "https://cdn.modrinth.com/data/qDJXZJTz/versions/l1cANyIJ/mekmm-1.21.1-1.4.2.jar"
     },
     {
-      "filename": "minecolonies-1.1.1420-1.21.1.jar",
-      "sha1": "46f43eb5fa9a5164c83e2d18523cce6d4211d15b",
-      "size": 78356166,
+      "filename": "minecolonies-1.1.1424-1.21.1-snapshot.jar",
+      "sha1": "bf28cc8c155d33251ec349bd65ea1e0b181cbce6",
+      "size": 78349095,
       "source": "curseforge",
       "key": "cf:245506",
-      "version": "9624268",
+      "version": "9764643",
       "prefix": "minecolonies-",
-      "url": "https://edge.forgecdn.net/files/9624/268/minecolonies-1.1.1420-1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/9764/643/minecolonies-1.1.1424-1.21.1-snapshot.jar"
     },
     {
       "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
@@ -1574,24 +1574,24 @@
       "url": "https://cdn.modrinth.com/data/zlrbPCvu/versions/TnGS5djO/playerxp-neoforge-1.1.2%2B1.21.1.jar"
     },
     {
-      "filename": "pokebike-neoforge-4.0.jar",
-      "sha1": "64abb7f012c86e5c4fb9c6e1eda9ffc6d4e8effe",
-      "size": 1008317,
+      "filename": "pokebike-neoforge-1.21.1-4.1.jar",
+      "sha1": "8c0fcb00fddf12636d245765f4bf4c34b62d6a6a",
+      "size": 1016692,
       "source": "modrinth",
       "key": "mr:8eqU62OI",
-      "version": "4.0",
+      "version": "4.1",
       "prefix": "pokebike-neoforge-",
-      "url": "https://cdn.modrinth.com/data/8eqU62OI/versions/m4jGQbcm/pokebike-neoforge-4.0.jar"
+      "url": "https://cdn.modrinth.com/data/8eqU62OI/versions/zT6NmonI/pokebike-neoforge-1.21.1-4.1.jar"
     },
     {
-      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
-      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
-      "size": 174972,
+      "filename": "polymorph-neoforge-1.2.0+1.21.1.jar",
+      "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df",
+      "size": 172671,
       "source": "modrinth",
       "key": "mr:tagwiZkJ",
-      "version": "1.1.0+1.21.1",
+      "version": "1.2.0+1.21.1",
       "prefix": "polymorph-neoforge-",
-      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar"
     },
     {
       "filename": "potion_combiner-1.21.1-Neoforge-1.0.0.jar",
@@ -1604,14 +1604,14 @@
       "url": "https://cdn.modrinth.com/data/gCV2e3CO/versions/3GqOkJFR/potion_blending-1.21.1-Neoforge-1.0.1.jar"
     },
     {
-      "filename": "puffish_attributes-0.8.3-1.21-neoforge.jar",
-      "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
-      "size": 235542,
+      "filename": "puffish_attributes-0.8.4-1.21-neoforge.jar",
+      "sha1": "73d9a053e2644a8a9ded88376599771777673dc5",
+      "size": 235687,
       "source": "modrinth",
       "key": "mr:FCFcFw09",
-      "version": "0.8.3",
+      "version": "0.8.4",
       "prefix": "puffish_attributes-",
-      "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/ZySEqrUb/puffish_attributes-0.8.3-1.21-neoforge.jar"
+      "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/lUoRvJpE/puffish_attributes-0.8.4-1.21-neoforge.jar"
     },
     {
       "filename": "puffish_skills-0.19.2-1.21-neoforge.jar",
@@ -1634,14 +1634,14 @@
       "url": "https://cdn.modrinth.com/data/eF8kqlHd/versions/IyfkNvWb/rad-gyms-neoforge-0.5.2.jar"
     },
     {
-      "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
-      "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
-      "size": 12118736,
+      "filename": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "sha1": "82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4",
+      "size": 18728584,
       "source": "modrinth",
       "key": "mr:L3Jv0QZI",
-      "version": "0.2.1+neoforge-mc1.21.1",
+      "version": "0.3.0-beta.2+neoforge-mc1.21.1",
       "prefix": "railways-",
-      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/HOPX5oro/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar"
     },
     {
       "filename": "rbrctai-neoforge-1.21.1-0.16.2-beta.jar",
@@ -1744,24 +1744,24 @@
       "url": "https://cdn.modrinth.com/data/Q3vyMuj2/versions/OYaUDns6/snowundertrees-1.21.1-1.7.jar"
     },
     {
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.22.2257.jar",
-      "sha1": "0fcc14479c7aedce1ff4910fc10c3a735d1ffc78",
-      "size": 1266182,
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.23.2263.jar",
+      "sha1": "f6ac97e9792aaa57c6988f12d45c8c06a44f7380",
+      "size": 1272053,
       "source": "curseforge",
       "key": "cf:422301",
-      "version": "9692576",
+      "version": "9758733",
       "prefix": "sophisticatedbackpacks-",
-      "url": "https://edge.forgecdn.net/files/9692/576/sophisticatedbackpacks-1.21.1-3.26.22.2257.jar"
+      "url": "https://edge.forgecdn.net/files/9758/733/sophisticatedbackpacks-1.21.1-3.26.23.2263.jar"
     },
     {
-      "filename": "sophisticatedcore-1.21.1-1.5.39.2489.jar",
-      "sha1": "b279542ffbccb87891fbabc98b6df08efcd93ae4",
-      "size": 1855442,
+      "filename": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
+      "sha1": "b958eba95fecd8128c98f0ba2828340d7a7c61cd",
+      "size": 1856954,
       "source": "curseforge",
       "key": "cf:618298",
-      "version": "9692552",
+      "version": "9758568",
       "prefix": "sophisticatedcore-",
-      "url": "https://edge.forgecdn.net/files/9692/552/sophisticatedcore-1.21.1-1.5.39.2489.jar"
+      "url": "https://edge.forgecdn.net/files/9758/568/sophisticatedcore-1.21.1-1.5.42.2496.jar"
     },
     {
       "filename": "spark-1.10.124-neoforge.jar",
