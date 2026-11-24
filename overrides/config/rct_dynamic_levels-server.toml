@@ -19,8 +19,8 @@
 	# Range: 1 ~ 100
 	maxLevel = 100
 	#Comma-separated exact RCT trainer type IDs to scale.
-	trainerTypes = "leader,sinnoh_leader"
+	trainerTypes = "rival,rocket_admin,boss"
 	#Comma-separated RCT trainer ID prefixes to scale.
-	trainerIdPrefixes = "leader_,gym_leader_"
+	trainerIdPrefixes = "rival_,rocket_admin_,boss_"
 	#Write one server log line whenever a selected battle is adjusted.
 	logAdjustments = true

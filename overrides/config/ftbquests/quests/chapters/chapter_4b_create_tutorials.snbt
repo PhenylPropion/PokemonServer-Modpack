@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "gear"
 	filename: "chapter_4b_create_tutorials"
-	group: ""
+	group: "1111000000000003"
 	icon: {
 		id: "create:goggles"
 	}
 	id: "4B1B2C3D4E5F6789"
 	images: [ ]
-	order_index: 7
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

@@ -1,0 +1,24 @@
+[retrogen]
+	#Master switch for applying queued ore features. Detection and history tracking remain active.
+	enabled = true
+	#On the first Ore Renewal launch in an established world, conservatively recover detected
+	#non-vanilla ores. Per chunk, a historical feature is skipped when its ore is already present.
+	#New worlds and later exact feature additions do not use this inference.
+	bootstrap_established_worlds = true
+	#Maximum existing chunks processed per server tick. Keep this low on large modpacks.
+	# Default: 1
+	# Range: 1 ~ 64
+	chunks_per_tick = 1
+	#Prefer retrogen work only when the server reports spare tick time.
+	#To prevent permanent queue starvation, one chunk is still attempted after 20 deferred ticks.
+	only_when_tick_has_time = true
+	#Also detect nonstandard configured features placed in UNDERGROUND_ORES.
+	#Disabled by default because an arbitrary custom feature is not guaranteed to preserve builds.
+	include_nonstandard_underground_features = false
+	#Exact placed-feature IDs to treat as ores when their output block is not tagged or named as one.
+	#Only standard ORE/SCATTERED_ORE generators (and explicitly supported custom generators) qualify.
+	additional_safe_ore_features = ["cobblemonraiddens:raidite_ore_placed"]
+	#Write a progress line after this many processed chunks. Set to 0 to disable progress lines.
+	# Default: 100
+	# Range: 0 ~ 100000
+	log_every_n_chunks = 100

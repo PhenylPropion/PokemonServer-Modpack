@@ -8,6 +8,7 @@
 	chapter.097EF0E91B7E322D.title: "&6Welcome"
 	chapter.0A1B2C3D4E5F6789.title: "Chapter 0: Getting Started"
 	chapter.0E21FB2EFB41A583.title: "Minecolonies"
+	chapter.103C4CCA1A519ED3.title: "柱① 常設ジム＆バッジ解放"
 	chapter.1461364963F9F156.title: "Chapter 14: The Awakened One"
 	chapter.155D060DBBFC518B.title: "目指せポケモンマスター（全種捕獲）"
 	chapter.15C4B40FF72C40B8.title: "コブルモン入門"
@@ -30,6 +31,7 @@
 	chapter.2AA65F30AA7F18A6.title: "&bEvolution"
 	chapter.2BE8EBBC0D9E7812.title: "Getting started (WIP)"
 	chapter.2C33F932CBC6C786.title: "コブルモン高級サロン ＆ 通貨両替所"
+	chapter.2FE22516FC51FA43.title: "はじめの1時間ガイド（まずはここから！）"
 	chapter.32AEBEB98E429578.title: "コブルモン入門"
 	chapter.344B94E03E027C21.title: "Bosses"
 	chapter.345C97D5D3E5F396.title: "コブルモンの旅"
@@ -80,8 +82,13 @@
 	chapter.75BF7C284F4866C8.title: "回復アイテムと育成"
 	chapter.7A1B2C3D4E5F6789.title: "Chapter 5: Twilight Forest"
 	chapter.7BAA00DB4919EFF6.title: "つりざおと釣り"
+	chapter.8A652E8ACDC4BFAE.title: "柱② エリアゼロ（武器×アルファ）"
+	chapter.A31D1EC1D8A13D83.title: "柱③ まちづくり・図鑑・納品契約"
 	chapter_group.067BDB20B0B50DEC.title: "&l&#A61FD4C&#A61FD4o&#A61FD4b&#A61FD4b&#A61FD4l&#A61FD4e&#A61FD4m&#A61FD4o&#A61FD4n"
 	chapter_group.06E963504CC232B9.title: "[\"\",{\"text\":\"Adventure\",\"color\":\"green\",\"bold\":true,\"underlined\":false}]"
+	chapter_group.1111000000000001.title: "【まずここ！】はじめの1時間"
+	chapter_group.1111000000000002.title: "【メイン】ジム・エリアゼロ・街づくり"
+	chapter_group.1111000000000003.title: "【任意資料室】工業・魔法・探索ガイド"
 	chapter_group.2628E545336E3542.title: "[\"\",{\"text\":\"Magica\",\"color\":\"light_purple\",\"bold\":true,\"underlined\":false}]"
 	chapter_group.30F6BB3E74582F94.title: "Cobblemon"
 	chapter_group.3A8A4E8ADC519105.title: "Mods"
@@ -944,6 +951,9 @@
 		" &fOr trade &ePokémon&f with other players&f."
 	]
 	quest.11A55FE7A51DC7EC.title: "Utilities"
+	quest.11D9611F2675387B.quest_desc: ["ジム7（カツラ）を撃破！クラフト不可の超貴重アイテム『きんのおうかん』＆『とくせいパッチ』を獲得！"]
+	quest.11D9611F2675387B.quest_subtitle: "個体値調整（王冠）＆特性パッチ報酬"
+	quest.11D9611F2675387B.title: "バッジ7：カツラ撃破"
 	quest.11DED377DAC8AC4B.title: "&f&n鉄無限"
 	quest.11E2ABB605D0C97F.quest_desc: ["Take fire dammage with a gem of promise in off hand"]
 	quest.11E90442CD8FEB53.quest_desc: [
@@ -1042,6 +1052,9 @@
 	quest.15AD29E25F40920E.title: "Godslayer"
 	quest.15C91FD1F17B45E4.quest_subtitle: "Raw Etheruim is found in end city chests"
 	quest.15D2D07EE289466A.title: "Wishing Star Crystal"
+	quest.15DC2B98A1000B2D.quest_desc: ["Farmer's Delight の豪華料理を街の酒場へ納品しよう！"]
+	quest.15DC2B98A1000B2D.quest_subtitle: "農業・料理勢の安定収入"
+	quest.15DC2B98A1000B2D.title: "【納品契約・農業】焼き鳥プレート×4"
 	quest.15DE188865B691B5.quest_desc: ["フォレストバッジの獲得（ナタネ）を達成し、勝利の証と名誉ある報酬を獲得します。"]
 	quest.15DE188865B691B5.title: "フォレストバッジの獲得（ナタネ）"
 	quest.1610FE58347290D5.title: "初めての進化！"
@@ -1094,6 +1107,9 @@
 	quest.179D13AF67379E5D.quest_desc: ["こおりタイプ捕獲を達成し、育成用のアメと記念ボールを獲得します。"]
 	quest.179D13AF67379E5D.title: "こおりタイプ捕獲"
 	quest.17C120451363412A.quest_desc: ["Not the bees!"]
+	quest.17CFF5EB3DB13189.quest_desc: ["ジム4（エリカ）を撃破！中盤の回復・持ち物やエリアゼロ危険地帯へ踏み出そう。"]
+	quest.17CFF5EB3DB13189.quest_subtitle: "エリアゼロ探索＆バトルタワー本格解禁"
+	quest.17CFF5EB3DB13189.title: "バッジ4：エリカ撃破"
 	quest.17F5609B399C99E8.quest_desc: ["a lot of buffs (im getting lazy just old shift and hover over the backpack)"]
 	quest.17F9FBC04F0DBA17.quest_desc: ["ジム挑戦の心得を達成し、勝利の証と名誉ある報酬を獲得します。"]
 	quest.17F9FBC04F0DBA17.title: "ジム挑戦の心得"
@@ -1258,6 +1274,9 @@
 		""
 		"The otherside portal is opened with a heart of the deep instead of a flint and steel."
 	]
+	quest.1E60D722771F378C.quest_desc: ["JEIで『殿堂の星 (Season 2)』のレシピを確認し、全分野の到達点を作り上げよう！（※作成は任意・エンドゲームの証です）"]
+	quest.1E60D722771F378C.quest_subtitle: "ポケモン・Create・Mekanism・AE2・Arsの集大成"
+	quest.1E60D722771F378C.title: "最終目標：殿堂の星をクラフトせよ"
 	quest.1E666EDDB10E02CB.quest_desc: [
 		"Burns fuel to charge any items at support Forge Energy (FE), which most mods support."
 		""
@@ -1475,6 +1494,9 @@
 	quest.250917AA2939C173.title: "Visiting the Twilight Forest"
 	quest.251ED8D0FC3D7135.title: "モンスターボールを作ろう"
 	quest.255393647B1C8E56.quest_subtitle: "Sub-Legendary"
+	quest.256B4195D769A02E.quest_desc: ["ジム3（マチス）を撃破し、ついにメガシンカ（メガリング）を解放しよう！"]
+	quest.256B4195D769A02E.quest_subtitle: "メガリング＆空の技マシン獲得！"
+	quest.256B4195D769A02E.title: "バッジ3：マチス撃破 ★メガシンカ解放"
 	quest.2590256E05A9EE77.quest_desc: [
 		"Upgrades must go in a specific order, you can not skip to the best upgrade"
 		""
@@ -1898,6 +1920,9 @@
 	quest.2E368ECD7D55466D.quest_desc: ["むしタイプ捕獲を達成し、育成用のアメと記念ボールを獲得します。"]
 	quest.2E368ECD7D55466D.title: "むしタイプ捕獲"
 	quest.2E4CCFE615C88D0A.quest_desc: ["Mines in a 3x2 area"]
+	quest.2EAFD415BC706FD2.quest_desc: ["Create 6 のストックティッカー＆テーブルクロスで、自分が作ったボール・薬・料理・建材を仲間に売ってみよう！"]
+	quest.2EAFD415BC706FD2.quest_subtitle: "工業×ポケモンのプレイヤー交易"
+	quest.2EAFD415BC706FD2.title: "自分の店を出そう（テーブルクロス市場）"
 	quest.2F438AC118F40C17.quest_subtitle: "Sub-Legendary"
 	quest.2F44D5340015AF2E.quest_desc: [
 		"The most basic type can be found in the wild and can be tamed by using \"Gysahl Greens\" on them. Gysahl Greens is a plant found in the wild, but also can be planted by sowing Gysahl Seeds. Gysahl Seeds can be received by crafting from Gysahl Greens or by harvesting planted Gysahl Greens."
@@ -2024,6 +2049,9 @@
 	]
 	quest.316E27B06C66B6EF.quest_subtitle: "Fire"
 	quest.317BFCD82435A1D0.quest_subtitle: "Obtain your first Soul from Fargo Soul"
+	quest.3193BDBDD9AE9B2C.quest_desc: ["Xaeroのワールドマップ（Mキー）を開き、自分の拠点チャンクを右クリックで保護（Claim）できます。強制ロードはオンライン時最大6チャンクまで！"]
+	quest.3193BDBDD9AE9B2C.quest_subtitle: "安心して建築＆街づくり"
+	quest.3193BDBDD9AE9B2C.title: "土地を保護しよう（OPAC）"
 	quest.31C8271AE8475292.quest_subtitle: "Sub-Legendary"
 	quest.3202C80CF5EAD8F6.title: "全色のぼんぐりを植えよう"
 	quest.3217A2CBABFE07C5.title: "TR Case"
@@ -2051,6 +2079,9 @@
 	quest.338E3D77493BE591.quest_desc: ["ドラゴンタイプ捕獲を達成し、育成用のアメと記念ボールを獲得します。"]
 	quest.338E3D77493BE591.title: "ドラゴンタイプ捕獲"
 	quest.339674EB5D2A2852.quest_subtitle: "Tame a Foxhound by feeding it Coal while under Fire resistance"
+	quest.33B6E3D22673918F.quest_desc: ["Create 6 の線路を64本以上作り、共有タウンと各地のジム・拠点を結ぶ鉄道網を育てよう！"]
+	quest.33B6E3D22673918F.quest_subtitle: "分散した島・街・ジムを結ぶ"
+	quest.33B6E3D22673918F.title: "鉄道網を開通させよう（Create 6）"
 	quest.33BDA8B529D7A0A6.quest_subtitle: "Sub-Legendary"
 	quest.33D6D625F2D1D0A6.quest_desc: [
 		"             &fFound in the &eDesert&f"
@@ -2128,6 +2159,9 @@
 	quest.372934BB5F8B48A0.title: "最初のポケモンを選ぼう！"
 	quest.373C9DB101080736.quest_desc: ["             Use to reduce EVS"]
 	quest.373C9DB101080736.quest_subtitle: "&eDEF"
+	quest.3742BD95F14136F0.quest_desc: ["高度な工業ラインで精製したスチールを納品！"]
+	quest.3742BD95F14136F0.quest_subtitle: "Mekanism/IE 高度工業"
+	quest.3742BD95F14136F0.title: "【納品契約・上級】スチールインゴット×64"
 	quest.376314CA92EDE736.quest_subtitle: "Repeatable"
 	quest.376314CA92EDE736.title: "Arcane Crystal Dust Speck"
 	quest.3799758452A2702A.quest_desc: ["かみなりのいし鉱石の発見を達成し、育成素材と通貨を獲得します。"]
@@ -2401,6 +2435,9 @@
 	quest.3EFB63FB23A225B6.quest_subtitle: "Wise Glasses are a held item that boosts the power of the holder's special moves by 10%. "
 	quest.3F0B4FCBD4D269DA.title: "野生のタマゴ"
 	quest.3F1CBB7E60BE2736.quest_desc: ["Obtain Icewhisper"]
+	quest.3F2C8B84C6304B98.quest_desc: ["ポケモンを累計20匹捕獲しよう！"]
+	quest.3F2C8B84C6304B98.quest_subtitle: "駆け出し研究員"
+	quest.3F2C8B84C6304B98.title: "図鑑ランク I：20匹捕獲"
 	quest.3F5910EFF08D4AB0.quest_desc: [
 		"like a totem of undying but with a cooldown"
 		""
@@ -2453,6 +2490,9 @@
 	quest.4000000000000090.quest_desc: ["Transportation reaches a new level. Build rail networks to move items and yourself across vast distances."]
 	quest.4000000000000090.title: "Trains!"
 	quest.403BB7BD7D944D04.title: "Creative Tank"
+	quest.404443A43B36BEF6.quest_desc: ["危険地帯探索でキーストーンを入手しよう。バトルギミックと最終目標『殿堂の星』の重要素材です。"]
+	quest.404443A43B36BEF6.quest_subtitle: "メガストーン・ギミック強化"
+	quest.404443A43B36BEF6.title: "キーストーン原石の発掘＆覚醒"
 	quest.404E10E6FA96BA1F.quest_subtitle: "Cure your Pokémon of the Poison status condition."
 	quest.4057ACD1CBC438E5.quest_desc: ["Obtain the legendary Sword on a Stick!"]
 	quest.4063F4AA03509E00.quest_subtitle: "Legendary"
@@ -3981,6 +4021,9 @@
 		"Transmog allows you to change the appearance of items without modifying their behavior at all!"
 		"It works on armor, weapons, tools and anything else you can imagine!"
 	]
+	quest.5FAF4F8F05E5D0BE.quest_desc: ["Create工場で生産した安山岩合金を納品して CobbleDollars を稼ごう（鉱石の無限売却の代わりとなる健全な工業収入）。"]
+	quest.5FAF4F8F05E5D0BE.quest_subtitle: "工場の定番納品"
+	quest.5FAF4F8F05E5D0BE.title: "【納品契約・初級】安山岩合金×64"
 	quest.5FB2C2E57B7702D5.quest_desc: ["強力なレイドボスを仲間と共に討伐する最高難度の定期依頼です！"]
 	quest.5FB2C2E57B7702D5.title: "【ウィークリー】レイドボス討伐"
 	quest.5FBA61635529BE44.quest_desc: [
@@ -4140,6 +4183,9 @@
 		"自分のポケモンよりレベルが低い相手を捕まえやすいボールです。"
 	]
 	quest.63E5D2EE83DD9E74.title: "購入: レベルボール (8個セット)"
+	quest.63FA974196AAB79E.quest_desc: ["ポケモンを累計100匹捕獲しよう！"]
+	quest.63FA974196AAB79E.quest_subtitle: "熟練研究員"
+	quest.63FA974196AAB79E.title: "図鑑ランク III：100匹捕獲"
 	quest.6494AC1271358CB9.quest_desc: ["Obtain the Watching Warglaive"]
 	quest.64A0FEEA538671FF.quest_desc: [
 		"Climb onto your favorite Pokemon and explore the world of Cobblemon from corner to corner, by land, air and sea!"
@@ -4464,6 +4510,9 @@
 	quest.6C0152547E572553.quest_subtitle: "Find the bracelet's structure."
 	quest.6C0152547E572553.title: "Bracelet Structure"
 	quest.6C2F16B7F9A8A1BD.quest_subtitle: "Zinc is a vitamin that adds 10 Special Defense EVs to a Pokémon when used, if possible."
+	quest.6C4ED763304A6BC4.quest_desc: ["凶暴化したポケモンとウォーデンの潜むディープダークからエコーシャードを持ち帰ろう。空の技マシン量産にも使えます！"]
+	quest.6C4ED763304A6BC4.quest_subtitle: "ディープダークの暴走地帯を突破"
+	quest.6C4ED763304A6BC4.title: "深層調査：エコーシャード収集"
 	quest.6C6375BF4D83BCE2.quest_desc: ["ジムリーダー スズナ撃破を達成し、勝利の証と名誉ある報酬を獲得します。"]
 	quest.6C6375BF4D83BCE2.title: "ジムリーダー スズナ撃破"
 	quest.6C7D975372A668F7.quest_desc: ["Generates in End Citys with a 10% chance"]
@@ -4714,6 +4763,9 @@
 		"                &fOf &6extraction&f!"
 	]
 	quest.7406A81BFDA16C78.quest_subtitle: "Our first dinosaur"
+	quest.7426084D4845A456.quest_desc: ["水車を作って回転動力を体験しよう。バッジ2を取るとCreateのボール工場スターターがもらえ、ショップよりずっと安くボールや回復薬を量産できます！"]
+	quest.7426084D4845A456.quest_subtitle: "ボール量産や鉄道への入口"
+	quest.7426084D4845A456.title: "工業の第一歩（Create）"
 	quest.7433EE3553605C90.quest_desc: ["you can craft knuckles or find them in chests"]
 	quest.7450E03CDAAE13E2.quest_desc: ["Use some vampire fangs and wait till the poition effect runs out to become a vampire. Don't die!"]
 	quest.745DAF0BFB2292B6.quest_subtitle: "Sub-Legendary"
@@ -4747,6 +4799,9 @@
 	quest.74F57C46EA627399.title: "Palkia"
 	quest.75122BABE10AE51C.quest_subtitle: "Sub-Legendary"
 	quest.751D233B2594E9F9.quest_subtitle: "Legendary"
+	quest.755258C46BB914A0.quest_desc: ["精密機構×2を街の研究所へ納品すると、現在オンラインのプレイヤー全員に30分間の採掘速度上昇II＆移動速度上昇Iを付与！（※色違い確率は変わりません）"]
+	quest.755258C46BB914A0.quest_subtitle: "工業産物納品でサーバー全員に30分バフ"
+	quest.755258C46BB914A0.title: "【共有ブースト】全員へ採掘＆移動バフ！"
 	quest.755CD179D08753E6.quest_subtitle: "Attack / Speed"
 	quest.7567E2E8C58E28E6.quest_desc: ["This is like a wrence you dont need it but it can help you with directions of the items you place down for this mod."]
 	quest.7579BE76F243A1E8.quest_desc: [
@@ -5181,6 +5236,63 @@
 	]
 	quest.7FFFC267C23A04F1.quest_subtitle: "Lich"
 	quest.7FFFC267C23A04F1.title: "Behind the Lich"
+	quest.88019EBC7799F26B.quest_desc: ["ポケモンを累計50匹捕獲しよう！"]
+	quest.88019EBC7799F26B.quest_subtitle: "中堅研究員"
+	quest.88019EBC7799F26B.title: "図鑑ランク II：50匹捕獲"
+	quest.94B5AF75D8DCD5B6.quest_desc: ["Createボール工場で量産したハイパーボールを街へ納品しよう！"]
+	quest.94B5AF75D8DCD5B6.quest_subtitle: "ボール工場の成果"
+	quest.94B5AF75D8DCD5B6.title: "【納品契約・中級】ハイパーボール×32"
+	quest.98EA1ED9BEBA112E.quest_desc: ["街に常設されたジム1（タケシ）を撃破しよう！レベル制限なし・固定レベルで成長を実感できます。"]
+	quest.98EA1ED9BEBA112E.quest_subtitle: "最初の関門・待ち時間0秒"
+	quest.98EA1ED9BEBA112E.title: "バッジ1：タケシ撃破"
+	quest.9C01C906C2027680.quest_desc: ["工業・魔法装備でボスを制圧しネザースターを獲得しよう。"]
+	quest.9C01C906C2027680.quest_subtitle: "Mekanism＆魔法装備の真価"
+	quest.9C01C906C2027680.title: "高難度ボス制覇（ウィザー/黄昏ボス）"
+	quest.A89A10D008495238.quest_desc: ["各地の街に常設されている8つのジムへ挑戦する準備をしよう（スポーン待ちなし・いつでも挑戦OK！）。"]
+	quest.A89A10D008495238.quest_subtitle: "ジム攻略のパスポート"
+	quest.A89A10D008495238.title: "トレーナーカードを作る"
+	quest.BCDC7F52BDFA3A90.quest_desc: ["ジム2（カスミ）を撃破！報酬で Create によるボール自動生産ラインのスターターを獲得できます。"]
+	quest.BCDC7F52BDFA3A90.quest_subtitle: "Createボール工場スターター解放！"
+	quest.BCDC7F52BDFA3A90.title: "バッジ2：カスミ撃破"
+	quest.C1873D9D207BD3FE.quest_desc: ["カントー四天王をすべて撃破しよう！"]
+	quest.C1873D9D207BD3FE.quest_subtitle: "最強の頂点まであと一歩"
+	quest.C1873D9D207BD3FE.title: "四天王制覇"
+	quest.C840EBD02D1F61E3.quest_desc: ["左メニューの【メイン】から「常設ジム」「エリアゼロ」「まちづくり」「納品契約」を好きな順で進めよう！工業や魔法の詳細は【任意資料室】にまとめてあります。"]
+	quest.C840EBD02D1F61E3.quest_subtitle: "ここから先は完全自由"
+	quest.C840EBD02D1F61E3.title: "はじめの1時間クリア！"
+	quest.CD2A442FFE1A230F.quest_desc: [
+		"ディープダーク・エンド高地・黄昏の森深部では野生ポケモンが常時凶暴化します。"
+		"また世界各地に現れる『アルファ個体』や『パラドックス種』もそのままではボールで捕まりません。Mekanism武器・Ars Nouveau魔法・スキルツリー＋相棒ポケモンで立ち向かおう！"
+	]
+	quest.CD2A442FFE1A230F.quest_subtitle: "武器・魔法＋相棒ポケモンで共闘せよ"
+	quest.CD2A442FFE1A230F.title: "危険地帯（エリアゼロ）の掟"
+	quest.D076EE8EE33FDCDD.quest_desc: [
+		"レベル制限なし・色違い確率 1/8192 据え置きの完全自由ワールドです。"
+		"①各地に常設された8ジム＆バッジ解放、②エリアゼロ（武器×アルファ）、③まちづくり＆Create鉄道・市場の3本柱から好きな遊び方を選んでください！"
+	]
+	quest.D076EE8EE33FDCDD.quest_subtitle: "自由度そのまま・3本柱で遊ぼう"
+	quest.D076EE8EE33FDCDD.title: "Season 2 へようこそ！"
+	quest.D1A8608611B79EA6.quest_desc: ["ポケモンを累計200匹捕獲しよう！クラフト不可の王冠＆マスターボールを進呈！"]
+	quest.D1A8608611B79EA6.quest_subtitle: "ポケモン博士"
+	quest.D1A8608611B79EA6.title: "図鑑ランク IV：200匹捕獲"
+	quest.DCC818A66CC74539.quest_desc: ["スポーン周辺の共有タウンにはポケセン・殿堂ボード・Create市場通り・駅が育っていきます。相棒を肩に乗せると建築バフ（採掘速度UP・落下軽減等）も発動します！"]
+	quest.DCC818A66CC74539.quest_subtitle: "みんなで育てる街"
+	quest.DCC818A66CC74539.title: "共有タウン＆肩乗り建築バフ"
+	quest.DFA9C2BDB719B74A.quest_desc: ["ジム5（キョウ）を撃破！本格的な育成環境が整い始めます。"]
+	quest.DFA9C2BDB719B74A.quest_subtitle: "努力値育成装備＆ミント報酬"
+	quest.DFA9C2BDB719B74A.title: "バッジ5：キョウ撃破"
+	quest.E047C8BF3637B84A.quest_desc: ["ジム6（ナツメ）を撃破し、テラスタルとZワザを同時に解放しよう！"]
+	quest.E047C8BF3637B84A.quest_subtitle: "テラスタルオーブ＆Zリング獲得！"
+	quest.E047C8BF3637B84A.title: "バッジ6：ナツメ撃破 ★テラスタル＆Zワザ解放"
+	quest.E3D25A370BC4A6A2.quest_desc: ["野生のポケモンにボールを投げて、まずは2匹捕まえてみよう！"]
+	quest.E3D25A370BC4A6A2.quest_subtitle: "旅の仲間を増やす"
+	quest.E3D25A370BC4A6A2.title: "最初の2匹を捕まえよう"
+	quest.F3A7A9BC4E41A2C1.quest_desc: ["チャンピオンを撃破し、殿堂入りを果たした証！共有タウンの殿堂に名を刻み、最終目標『殿堂の星』クラフトへ挑もう！"]
+	quest.F3A7A9BC4E41A2C1.quest_subtitle: "Season 2 の英雄！"
+	quest.F3A7A9BC4E41A2C1.title: "★ チャンピオン撃破＆殿堂入り"
+	quest.FA1B2E11E0C9C566.quest_desc: ["最後のジムリーダー（サカキ）を撃破！ダイマックスバンドとマスターボールを獲得し、四天王へ挑もう！"]
+	quest.FA1B2E11E0C9C566.quest_subtitle: "全8バッジ制覇・四天王へ！"
+	quest.FA1B2E11E0C9C566.title: "バッジ8：サカキ撃破 ★ダイマックス解放"
 	reward.0027296114120338.title: "Yveltal"
 	reward.049ACC3254D395B5.title: "This item is already heavily stolen."
 	reward.061BF35FBD95EB9E.title: "Victini"
@@ -5315,6 +5427,7 @@
 	task.1D3C3B3BC8FDE8D3.title: "Rune Stone Complete"
 	task.1D69C108F0EA17EA.title: "Multiplayer"
 	task.1D9ABF11B1B1F592.title: "DarkMobs"
+	task.1F229C1C71757A81.title: "ようこそを確認"
 	task.1FC00CC0073282DE.title: "Nether"
 	task.2000000000000022.title: "Learn at least 3 Glyphs"
 	task.2000000000000053.title: "Perform your first Enchanting Apparatus recipe"
@@ -5325,6 +5438,7 @@
 	task.21E9CFB065D773C0.title: "初めてのバトル勝利！"
 	task.22044E081BCCEC4A.title: "&eEighth Gym Is Electric Type"
 	task.226E1492A775BDCB.title: "ソウルエリトラを入手する"
+	task.227791E1A0549F4B.title: "殿堂の星クラフト目標を確認"
 	task.22BDA223E8A719BD.title: "Advent of Ascension"
 	task.22D31596041FE5B2.title: "どくタイプのタマゴを入手する"
 	task.232013AB0AF6794D.title: "Reach Level 15 in Mining"
@@ -5356,6 +5470,7 @@
 	task.2D3D986F07AC155F.title: "Craft Any Pokedex"
 	task.2DB84254694EE9DE.title: "ぼくじょうブロックを使おう"
 	task.2DC4F50213513FB0.title: "Complete Reskillable (Legendary Artisan)"
+	task.2E7DD5D968768EF1.title: "共有タウンと肩乗りバフを確認"
 	task.2F19A4715E3594E1.title: "Reforge an item to Rare or higher"
 	task.2FE8140C0DA6643A.title: "Imbued Gear"
 	task.3000000000000013.title: "Reach Vampire Level 3"
@@ -5376,6 +5491,7 @@
 	task.33144FAF09CCE16D.title: "ブイズ全進化コンプリート！"
 	task.331656C94B42E22C.title: "DarkSmithing"
 	task.334923CD9E8C4AAD.title: "目的の確認"
+	task.335B557DE15114EF.title: "エリアゼロのルールを確認"
 	task.339A0832A7102399.title: "Store 1 million items"
 	task.33BE9962A65ECDD5.title: "Allocate your first skill point"
 	task.33C0D1E07239BF68.title: "たんけんの旗（ゴールド）を入手する"
@@ -5400,6 +5516,7 @@
 	task.374ED1A56B93BC05.title: "Plushied!"
 	task.3824A52F310A0D3F.title: "Confirm"
 	task.38573A54E54C48E6.title: "Process magical items with Mekanism"
+	task.385C47D78815E51E.title: "OPAC保護のやり方を確認"
 	task.38608F65FC1F60E0.title: "くろいたまSを入手する"
 	task.38723E9778BFE3AA.title: "Have 100 total skill points allocated"
 	task.393AD8D86A8C7368.title: "Prologue"
@@ -5537,6 +5654,7 @@
 	task.5D4CA40509E9046E.title: "Obtain an item with 5+ affixes"
 	task.5E159F162B2A1CEF.title: "&6Third Gym Is Fighting Type"
 	task.5E1E538838371DAC.title: "Enter Your First Raid"
+	task.5E5D94054E22F2AD.title: "冒険を始める！"
 	task.5E654682D14A122C.title: "Team Mystic"
 	task.5E687C38C5F0DC87.title: "Collection Complete"
 	task.5F03021191CA8FE9.title: "Power magic systems with Mekanism generators"

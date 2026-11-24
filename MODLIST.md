@@ -2,15 +2,14 @@
 
 - **Minecraft**: `1.21.1`
 - **NeoForge**: `21.1.267`
-- **最終更新**: `2026-11-24 18:45:53 JST`
-- **MOD数**: 195 / **ResourcePack数**: 5 / **同期Config数**: 487
+- **最終更新**: `2026-11-24 21:00:05 JST`
+- **MOD数**: 193 / **ResourcePack数**: 5 / **同期Config数**: 453
 
 ## MOD一覧
 | ファイル名 | 配布元 | バージョン |
 | :--- | :--- | :--- |
 | `AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar` | curseforge | `7622554` |
 | `AEAdditions-1.21.1-6.0.2.jar` | modrinth | `6.0.2` |
-| `AdditionalEnchantedMiner-1.21.1-neoforge-21.1.170.jar` | modrinth | `21.1.170` |
 | `Applied-Mekanistics-1.6.3.jar` | modrinth | `1.6.3` |
 | `Aquaculture-1.21.1-2.7.22.jar` | modrinth | `2.7.22` |
 | `CarbonConfig-Neoforge-1.21.1-2.0.3.jar` | modrinth | `2.0.3` |
@@ -50,7 +49,6 @@
 | `SOB-NeoForge-1.21.1-1.0.0.jar` | modrinth | `1.0.0` |
 | `ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar` | modrinth | `3.7.1-build-11` |
 | `SimpleTMs-neoforge-2.3.3.jar` | modrinth | `2.3.3` |
-| `StorageDrawers-neoforge-1.21.1-13.11.4.jar` | curseforge | `6995432` |
 | `Structory_26.2_v1.3.7.jar` | modrinth | `1.3.17` |
 | `TMTCF-NF-1.21.1-2.0.4.jar` | modrinth | `2.0.4` |
 | `accessories-neoforge-1.1.0-beta.54+1.21.1.jar` | modrinth | `1.1.0-beta.54+1.21.1` |
@@ -81,14 +79,17 @@
 | `cobbledgacha-neoforge-1.21.1-3.0.3.jar` | modrinth | `3.0.3` |
 | `cobblemon-battle-extras-neoforge-1.13.47.jar` | modrinth | `1.13.47` |
 | `cobblemon_battle_tower-neoforge-1.11.24.jar` | modrinth | `1.11.24` |
+| `cobblemon_industries-neoforge-1.5.0.jar` | modrinth | `1.5.0` |
 | `cobblemon_party_extras-neoforge-1.8.15.jar` | modrinth | `1.8.15` |
 | `cobblemon_quests-reloaded-[1.21.1]-neoforge-2.0.2+1.8.jar` | modrinth | `2.0.2+1.8` |
 | `cobblemon_quick_battle-neoforge-1.3.8.jar` | modrinth | `1.3.8` |
 | `cobblemon_wonder_trade-neoforge-1.2.2.jar` | modrinth | `1.2.2` |
+| `cobblemonalphas-1.4.1.jar` | modrinth | `1.4.1` |
 | `cobblemonextrastructures-1.21.1-1.3.0-neoforge.jar` | modrinth | `1.21.1-1.3.0` |
 | `cobblemonintegrations-neoforge-1.21.1-1.1.8.jar` | modrinth | `1.1.8` |
 | `cobblemonopponents-neoforge-1.8.0.jar` | modrinth | `1.8.0` |
 | `cobblemonraiddens-neoforge-0.14.3-1.21.1.jar` | modrinth | `0.14.3+1.21.1` |
+| `cobblemore_lib-neoforge-1.2.10.jar` | modrinth | `1.2.10` |
 | `cobblenav-neoforge-2.4.2.jar` | modrinth | `2.4.2` |
 | `comforts-neoforge-9.0.5+1.21.1.jar` | modrinth | `9.0.5+1.21.1` |
 | `connectivity-1.21.1-7.7.jar` | curseforge | `9008904` |
@@ -156,11 +157,8 @@
 | `multipiston-1.2.58-1.21.1.jar` | curseforge | `7097877` |
 | `neoforge-ctov-1.21.1-3.6.4.jar` | modrinth | `3.6.4` |
 | `netherportalfix-neoforge-1.21.1-21.1.1.jar` | curseforge | `5623547` |
+| `open-parties-and-claims-neoforge-1.21.1-0.33.0.jar` | modrinth | `neoforge-1.21.1-0.33.0` |
 | `owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar` | modrinth | `0.12.15.6-beta.1+1.21` |
-| `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` | curseforge | `8064883` |
-| `pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar` | curseforge | `6919485` |
-| `pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar` | modrinth | `1.0.0` |
-| `pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar` | curseforge | `7847533` |
 | `playerxp-neoforge-1.1.2+1.21.1.jar` | modrinth | `1.1.2+1.21.1` |
 | `pokebike-neoforge-4.0.jar` | modrinth | `4.0` |
 | `polymorph-neoforge-1.1.0+1.21.1.jar` | modrinth | `1.1.0+1.21.1` |

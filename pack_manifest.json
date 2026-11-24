@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 18:45:53 JST",
+  "updated_at": "2026-11-24 21:00:05 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -52,16 +52,6 @@
       "version": "6.0.2",
       "prefix": "AEAdditions-",
       "url": "https://cdn.modrinth.com/data/BaiPFaoT/versions/gXxTjzyJ/AEAdditions-1.21.1-6.0.2.jar"
-    },
-    {
-      "filename": "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.170.jar",
-      "sha1": "9b99d31fe49f0286b41753d80d78f461d62d80af",
-      "size": 739892,
-      "source": "modrinth",
-      "key": "mr:jhxX1zVW",
-      "version": "21.1.170",
-      "prefix": "AdditionalEnchantedMiner-",
-      "url": "https://cdn.modrinth.com/data/jhxX1zVW/versions/vlvu5FZm/AdditionalEnchantedMiner-1.21.1-neoforge-21.1.170.jar"
     },
     {
       "filename": "Applied-Mekanistics-1.6.3.jar",
@@ -454,16 +444,6 @@
       "url": "https://cdn.modrinth.com/data/yFqR0DNc/versions/uaKfPMYS/SimpleTMs-neoforge-2.3.3.jar"
     },
     {
-      "filename": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
-      "sha1": "5347db4d1150b132841bd124d1608f812bf8076f",
-      "size": 1131419,
-      "source": "curseforge",
-      "key": "cf:223852",
-      "version": "6995432",
-      "prefix": "StorageDrawers-neoforge-",
-      "url": "https://edge.forgecdn.net/files/6995/432/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
-    },
-    {
       "filename": "Structory_26.2_v1.3.7.jar",
       "sha1": "8a9a1a1b3f74398310420b6fbe2c26ef142bed42",
       "size": 1261346,
@@ -764,6 +744,16 @@
       "url": "https://cdn.modrinth.com/data/v19DG9nW/versions/ZOUIqmra/cobblemon_battle_tower-neoforge-1.11.24.jar"
     },
     {
+      "filename": "cobblemon_industries-neoforge-1.5.0.jar",
+      "sha1": "78f715e905a8d7083ee0a5a495d6d000af9fda77",
+      "size": 115057,
+      "source": "modrinth",
+      "key": "mr:7BX9lbH9",
+      "version": "1.5.0",
+      "prefix": "cobblemon_industries-neoforge-",
+      "url": "https://cdn.modrinth.com/data/7BX9lbH9/versions/EOMncLWr/cobblemon_industries-neoforge-1.5.0.jar"
+    },
+    {
       "filename": "cobblemon_party_extras-neoforge-1.8.15.jar",
       "sha1": "8e169784e73bf8cbbb2e858aa4bedded018bcfad",
       "size": 397021,
@@ -804,6 +794,16 @@
       "url": "https://cdn.modrinth.com/data/bfndVmco/versions/fGFCcolu/cobblemon_wonder_trade-neoforge-1.2.2.jar"
     },
     {
+      "filename": "cobblemonalphas-1.4.1.jar",
+      "sha1": "d68af5b3b2a6384ffb5a577545917bd62e7bac5b",
+      "size": 510316,
+      "source": "modrinth",
+      "key": "mr:QnWyhFGf",
+      "version": "1.4.1",
+      "prefix": "cobblemonalphas-",
+      "url": "https://cdn.modrinth.com/data/QnWyhFGf/versions/AiAqRJIo/cobblemonalphas-1.4.1.jar"
+    },
+    {
       "filename": "cobblemonextrastructures-1.21.1-1.3.0-neoforge.jar",
       "sha1": "c32f83f5405d11482a453aba7210f6a58e64526c",
       "size": 1297184,
@@ -842,6 +842,16 @@
       "version": "0.14.3+1.21.1",
       "prefix": "cobblemonraiddens-neoforge-",
       "url": "https://cdn.modrinth.com/data/GebWh45l/versions/PgkogCEf/cobblemonraiddens-neoforge-0.14.3%2B1.21.1.jar"
+    },
+    {
+      "filename": "cobblemore_lib-neoforge-1.2.10.jar",
+      "sha1": "56ba13ef84c288670cc8de11bc8e63b48901fca7",
+      "size": 699489,
+      "source": "modrinth",
+      "key": "mr:VYP2vmDS",
+      "version": "1.2.10",
+      "prefix": "cobblemore_lib-neoforge-",
+      "url": "https://cdn.modrinth.com/data/VYP2vmDS/versions/Ypz0g6qz/cobblemore_lib-neoforge-1.2.10.jar"
     },
     {
       "filename": "cobblenav-neoforge-2.4.2.jar",
@@ -1514,6 +1524,16 @@
       "url": "https://edge.forgecdn.net/files/5623/547/netherportalfix-neoforge-1.21.1-21.1.1.jar"
     },
     {
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.33.0.jar",
+      "sha1": "6075cf36ac8d70bd1fd870e0eb9ac84685388df7",
+      "size": 1903256,
+      "source": "modrinth",
+      "key": "mr:gF3BGWvG",
+      "version": "neoforge-1.21.1-0.33.0",
+      "prefix": "open-parties-and-claims-neoforge-",
+      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/yWmXD7GW/open-parties-and-claims-neoforge-1.21.1-0.33.0.jar"
+    },
+    {
       "filename": "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
       "sha1": "3a7f843ce3a4d24f8765a74bc5dde914b316b992",
       "size": 1223197,
@@ -1522,46 +1542,6 @@
       "version": "0.12.15.6-beta.1+1.21",
       "prefix": "owo-lib-neoforge-",
       "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/wbdHEItB/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar"
-    },
-    {
-      "filename": "pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar",
-      "sha1": "2a735b24c61a0007fe98de6cc2dc5d5fff4915a2",
-      "size": 1536646,
-      "source": "curseforge",
-      "key": "cf:361385",
-      "version": "8064883",
-      "prefix": "pamhc2crops-NEOFORGE-",
-      "url": "https://edge.forgecdn.net/files/8064/883/pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar"
-    },
-    {
-      "filename": "pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
-      "sha1": "dc2b5671914879d4731034668028f4d8cbcd775c",
-      "size": 1699044,
-      "source": "curseforge",
-      "key": "cf:372534",
-      "version": "6919485",
-      "prefix": "pamhc2foodcore-NEOFORGE-",
-      "url": "https://edge.forgecdn.net/files/6919/485/pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar"
-    },
-    {
-      "filename": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
-      "sha1": "0cf7f668fdedef93446f33215484913991185102",
-      "size": 1983616,
-      "source": "modrinth",
-      "key": "mr:bdPeAbPS",
-      "version": "1.0.0",
-      "prefix": "pamhc2foodextended-NEOFORGE-",
-      "url": "https://cdn.modrinth.com/data/bdPeAbPS/versions/8Jv3MDxv/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar"
-    },
-    {
-      "filename": "pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar",
-      "sha1": "85d54e1d4d32f669d3f183945dc813360263ca91",
-      "size": 1399642,
-      "source": "curseforge",
-      "key": "cf:365460",
-      "version": "7847533",
-      "prefix": "pamhc2trees-NEOFORGE-",
-      "url": "https://edge.forgecdn.net/files/7847/533/pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar"
     },
     {
       "filename": "playerxp-neoforge-1.1.2+1.21.1.jar",
@@ -2038,8 +2018,8 @@
   ],
   "config_bundle": {
     "filename": "config_bundle.zip",
-    "sha1": "08e2270e9f6eadc74a34f73d3fd2f8fb340d535b",
-    "size": 755555,
-    "file_count": 487
+    "sha1": "16dbfb5f5a6518151d002dd75a582cc699c2616c",
+    "size": 640198,
+    "file_count": 453
   }
 }

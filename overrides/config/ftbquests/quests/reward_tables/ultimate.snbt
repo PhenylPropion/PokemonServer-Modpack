@@ -59,8 +59,11 @@
 		{
 			id: "48B92D01FEA719C3"
 			item: {
+				components: {
+					"ftbquests:missing_item": "storagedrawers:creative_vending_upgrade"
+				}
 				count: 1
-				id: "storagedrawers:creative_vending_upgrade"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.05f
 		}

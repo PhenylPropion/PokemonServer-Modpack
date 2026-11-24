@@ -15,7 +15,7 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
-RAW_BASE_URL = "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/main"
+RAW_BASE_URL = "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/season2"
 USER_AGENT = "PokemonServer-ClientSync/1.0"
 
 

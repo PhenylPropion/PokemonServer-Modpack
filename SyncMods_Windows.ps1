@@ -1,5 +1,5 @@
 ﻿param(
-    [string]$RawBaseUrl = "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/main",
+    [string]$RawBaseUrl = "https://raw.githubusercontent.com/PhenylPropion/PokemonServer-Modpack/season2",
     [string]$InstancePath = "",
     [switch]$DryRun
 )

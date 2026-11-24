@@ -1,0 +1,19 @@
+{
+  "doAlphaSpawning": true,
+  "retainAlphaStatus": true,
+  "alphaSpawnChance": 0.01,
+  "alphaSizeMultiplier": 2.0,
+  "maximumBestIvs": 3,
+  "doHerdSpawning": true,
+  "secondsBetweenSpawns": 300,
+  "spawnAttempts": 10,
+  "requiredPlayerAmount": 1,
+  "shinyOdds": 8192,
+  "minimumSpawnDistance": 30,
+  "maximumSpawnDistance": 60,
+  "doSpawnAnnouncementMessage": true,
+  "spawnAnnouncementMessage": "§c[アルファ] §f近くで凶暴なアルファポケモンが出現した！",
+  "showCoordinatesInAnnouncement": false,
+  "spawnBehavior": "world",
+  "perPlayerSpawnChanceBoost": 0.02
+}

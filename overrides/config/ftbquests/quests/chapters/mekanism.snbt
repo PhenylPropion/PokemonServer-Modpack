@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "mekanism"
-	group: ""
+	group: "1111000000000003"
 	icon: {
 		id: "mekanism:steel_casing"
 	}
 	id: "23983F4DC524B14B"
 	images: [ ]
-	order_index: 9
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

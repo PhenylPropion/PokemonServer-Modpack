@@ -1,0 +1,446 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "s2_gyms_badges"
+	group: "1111000000000002"
+	icon: {
+		id: "mega_showdown:mega_ring"
+	}
+	id: "103C4CCA1A519ED3"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "cobblemon:hard_stone"
+			}
+			id: "52FB2B27469EFF47"
+			rewards: [
+				{
+					count: 16
+					id: "7B471C5D8BD39F1D"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "427031B12F21D375"
+					item: {
+						count: 1
+						id: "cobblemon:fire_stone"
+					}
+					type: "item"
+				}
+				{
+					id: "45736B419BAA9C42"
+					item: {
+						count: 1
+						id: "cobblemon:water_stone"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 10000"
+					id: "34D872D0E30BA837"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				id: "35999F0193FB5F9E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:mystic_water"
+			}
+			id: "27A5BC49942AB5E3"
+			rewards: [
+				{
+					count: 2
+					id: "54B182B77A126DEC"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6CD3F121E645C301"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "656E74EE46DB1A7C"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "2641BB74D055103F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				id: "0633BDBA96184906"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "mega_showdown:mega_ring"
+			}
+			id: "256B4195D769A02E"
+			rewards: [
+				{
+					id: "553565CC414E8A9D"
+					item: {
+						count: 1
+						id: "mega_showdown:mega_ring"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "088A909097F33C95"
+					item: {
+						count: 1
+						id: "simpletms:tm_blank"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 20000"
+					id: "19D846C0874C0C64"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				id: "71B4B7B4F5CB868F"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["256B4195D769A02E"]
+			icon: {
+				id: "cobblemon:miracle_seed"
+			}
+			id: "17CFF5EB3DB13189"
+			rewards: [
+				{
+					count: 12
+					id: "27A9E923776DE9DA"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					type: "item"
+				}
+				{
+					id: "444BA42EED32F52E"
+					item: {
+						count: 1
+						id: "cobblemon:leftovers"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 25000"
+					id: "61358CCF18109ECA"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				id: "1187943D796B8F67"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17CFF5EB3DB13189"]
+			icon: {
+				id: "cobblemon:poison_barb"
+			}
+			id: "6C3940DC2D80D08E"
+			rewards: [
+				{
+					id: "711DBBEBB8C677AB"
+					item: {
+						count: 1
+						id: "cobblemon:power_bracer"
+					}
+					type: "item"
+				}
+				{
+					id: "535FF7185AA0D43B"
+					item: {
+						count: 1
+						id: "cobblemon:power_lens"
+					}
+					type: "item"
+				}
+				{
+					id: "4F01C81644DAFCFC"
+					item: {
+						count: 1
+						id: "cobblemon:power_anklet"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 30000"
+					id: "267929A4B535EE4F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_koga"
+				criterion: ""
+				id: "49434D1BCB413104"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "mega_showdown:tera_orb"
+			}
+			id: "51C1E089EF6A1DB2"
+			rewards: [
+				{
+					id: "4EB64BF82AD7F62A"
+					item: {
+						count: 1
+						id: "mega_showdown:tera_orb"
+					}
+					type: "item"
+				}
+				{
+					id: "62AF129B85DB31B6"
+					item: {
+						count: 1
+						id: "mega_showdown:z_power_ring"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 40000"
+					id: "02A4B20A2468C536"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				id: "323211F0B65FFC70"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon_utility:goldencap"
+			}
+			id: "11D9611F2675387B"
+			rewards: [
+				{
+					id: "79B8497D7DCB65BF"
+					item: {
+						count: 1
+						id: "cobblemon_utility:goldencap"
+					}
+					type: "item"
+				}
+				{
+					id: "21A1AEE9635BC71C"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 50000"
+					id: "52ACD371F2BBDFDB"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_blaine"
+				criterion: ""
+				id: "47CB30FCECB2D0B9"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11D9611F2675387B"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "48119D56DC8D5F19"
+			rewards: [
+				{
+					id: "16994B46E1325C47"
+					item: {
+						count: 1
+						id: "mega_showdown:dynamax_band"
+					}
+					type: "item"
+				}
+				{
+					id: "3639E46758BE87B3"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 75000"
+					id: "71EAC11FA10E9E92"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_giovanni"
+				criterion: ""
+				id: "4F107D6786981CF9"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "3C3246AD81643BDC"
+			rewards: [
+				{
+					count: 2
+					id: "249EC996B1E9D35D"
+					item: {
+						count: 1
+						id: "cobblemon_utility:goldencap"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "517E19018EAC4383"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 100000"
+					id: "5E5DC69AFC582C2A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_kanto"
+				criterion: ""
+				id: "62611F0883D72053"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "0D22E6E6437EE11B"
+			rewards: [
+				{
+					id: "6A9B210345C87ECD"
+					item: {
+						count: 1
+						id: "mega_showdown:omni_ring"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19E28F947AFB6529"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 200000"
+					id: "049C2FD16E7FB42F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_terry"
+				criterion: ""
+				id: "2439EAA0916F2F05"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+	]
+}

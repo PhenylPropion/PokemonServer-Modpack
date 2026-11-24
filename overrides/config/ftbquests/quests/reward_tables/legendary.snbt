@@ -64,8 +64,11 @@
 		{
 			id: "248B769F82A0F11C"
 			item: {
+				components: {
+					"ftbquests:missing_item": "storagedrawers:creative_storage_upgrade"
+				}
 				count: 1
-				id: "storagedrawers:creative_storage_upgrade"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.1f
 		}

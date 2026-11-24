@@ -1,0 +1,485 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "s2_town_economy"
+	group: "1111000000000002"
+	icon: {
+		id: "create:track"
+	}
+	id: "3331868D38289E02"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "create:track"
+			}
+			id: "33B6E3D22673918F"
+			rewards: [
+				{
+					count: 64
+					id: "4E43BA94972DBCF9"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4391AEC74BEDC175"
+					item: {
+						components: {
+							"ftbquests:missing_item": "create:train_casing"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 12000"
+					id: "4F394B4BF8F72C58"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3F60775C7BD27573"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33B6E3D22673918F"]
+			icon: {
+				id: "create:stock_ticker"
+			}
+			id: "2EAFD415BC706FD2"
+			rewards: [
+				{
+					count: 4
+					id: "3203E766BAA4A334"
+					item: {
+						count: 1
+						id: "create:white_table_cloth"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "476EC05D8FFF1CD9"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0AC7C0B54FC4F091"
+				item: { count: 1, id: "create:stock_ticker" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:beacon"
+			}
+			id: "755258C46BB914A0"
+			rewards: [
+				{
+					command: "/effect give @a minecraft:haste 1800 1"
+					id: "2FBAA027523CF9C3"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/effect give @a minecraft:speed 1800 0"
+					id: "28B114493883BCFB"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/say §a[共有ブースト] §f誰かが街の研究所へ納品！全員に30分間の採掘＆移動バフが発動しました！"
+					id: "5691356D635FFB84"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 8000"
+					id: "1A50854855ED822B"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "5279351FF42DC8E5"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "create:andesite_alloy"
+			}
+			id: "5FAF4F8F05E5D0BE"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 6000"
+					id: "41F8034627761AC2"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "6B862698FF88A4DF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "57E7FFEF19CC7DA3"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "3B65414418BA4862"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 18000"
+					id: "3B15C102C1473A7F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "59473E3A051238A3"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "554DDC501A4FD367"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mekanism:ingot_steel"
+			}
+			id: "3742BD95F14136F0"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 24000"
+					id: "7D4A91702CB68A54"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "68B92C0347510FD4"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "5E1B4D0504045B13"
+				item: { count: 1, id: "mekanism:ingot_steel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "farmersdelight:roast_chicken_block"
+			}
+			id: "15DC2B98A1000B2D"
+			rewards: [
+				{
+					command: "/cobbledollars give @p 10000"
+					id: "471A5A17056A7D7E"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "7323572405E060AD"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "206DBD43BD5A4773"
+				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "3F2C8B84C6304B98"
+			rewards: [
+				{
+					count: 16
+					id: "0A1539134233F48C"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 12000"
+					id: "16A6293983546CE6"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 20L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "0C9EDC7F45371167"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3F2C8B84C6304B98"]
+			icon: {
+				id: "cobblemon:pokedex_blue"
+			}
+			id: "6BC8FF94B4592852"
+			rewards: [
+				{
+					count: 3
+					id: "5F3A8091EDBEA0EB"
+					item: {
+						count: 1
+						id: "simpletms:tm_blank"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 30000"
+					id: "4731B43BA35EBBE4"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 50L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1A0995436153AD5C"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pokedex_yellow"
+			}
+			id: "63FA974196AAB79E"
+			rewards: [
+				{
+					id: "7D913D5064DF55F9"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 60000"
+					id: "5EAD662C875382C8"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 100L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7455E38CFAD95C4E"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["63FA974196AAB79E"]
+			icon: {
+				id: "cobblemon:pokedex_black"
+			}
+			id: "6DC11A7CD9504A71"
+			rewards: [
+				{
+					id: "08E8BA578F1D4CCC"
+					item: {
+						count: 1
+						id: "cobblemon_utility:goldencap"
+					}
+					type: "item"
+				}
+				{
+					id: "25A902D0CE7FAA99"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 120000"
+					id: "645024E5E7F0E1D6"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 200L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7F3C928087D1424F"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+	]
+}

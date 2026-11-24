@@ -2,7 +2,7 @@
 	// Do more aggressive Pokemon fight back when provoked?
 	"do_pokemon_attack": true,
 	// Do especially aggressive Pokemon attack unprovoked? Required for the other configs that make Pokemon always aggressive
-	"do_pokemon_attack_unprovoked": false,
+	"do_pokemon_attack_unprovoked": true,
 	// If the aggressive pokemon will only attack unprovoked in the dark area.(similar to the spider in Minecraft,do_pokemon_attack_unprovoked needs to be set to true
 	"light_dependent_unprovoked_attack": true,
 	// If failed captures can be counted as provocation?
@@ -84,13 +84,20 @@
 	// The aggression multiplier for natures above.
 	"more_peaceful_nature_multiplier": -2.0,
 	// Pokemon won't be aggressive in these biomes
-	"peaceful_biome": [
-		"minecraft:deep_dark"
-	],
+	"peaceful_biome": [],
 	// Pokemon will be neutral in these biomes
 	"neutral_biome": [],
 	// Pokemon will always be aggressive in these biomes
-	"aggressive_biome": [],
+	"aggressive_biome": [
+		"minecraft:deep_dark",
+		"minecraft:end_highlands",
+		"minecraft:end_midlands",
+		"minecraft:end_barrens",
+		"twilightforest:dark_forest",
+		"twilightforest:dark_forest_center",
+		"twilightforest:final_plateau",
+		"twilightforest:highlands"
+	],
 	// Forms that will always be aggressive
 	"always_aggro_aspects": [
 		"alolan"
@@ -98,7 +105,28 @@
 	// Pokemon that will always be aggressive
 	"always_aggro": [
 		"mankey",
-		"primeape"
+		"primeape",
+		"annihilape",
+		"greattusk",
+		"screamtail",
+		"brutebonnet",
+		"fluttermane",
+		"slitherwing",
+		"sandyshocks",
+		"roaringmoon",
+		"walkingwake",
+		"gougingfire",
+		"ragingbolt",
+		"irontreads",
+		"ironbundle",
+		"ironhands",
+		"ironjugulis",
+		"ironmoth",
+		"ironthorns",
+		"ironvaliant",
+		"ironleaves",
+		"ironboulder",
+		"ironcrown"
 	],
 	// Pokemon that will never be aggressive, priority over always aggresive species/forms
 	"never_aggro": [

@@ -1,9 +1,9 @@
 #Allows chunks to retrogen Mekanism salt and ore blocks. In general when enabling this you also want to bump the userWorldGenVersion.
-enableRegeneration = false
+enableRegeneration = true
 #Change this value to cause Mekanism to regen its ore in all loaded chunks that have a version lower than this.
 # Default: 0
 # Range: > 0
-userWorldGenVersion = 0
+userWorldGenVersion = 1
 
 #Generation Settings for Tin ore.
 [tin]

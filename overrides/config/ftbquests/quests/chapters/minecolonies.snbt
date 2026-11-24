@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "minecolonies"
-	group: "3A8A4E8ADC519105"
+	group: "1111000000000003"
 	icon: {
 		components: {
 			"ftbquests:icon": "minecolonies:textures/gui/logo_large_empty.png"
@@ -11,7 +11,7 @@
 	}
 	id: "0E21FB2EFB41A583"
 	images: [ ]
-	order_index: 0
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{

@@ -3,17 +3,16 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "circle"
 	filename: "chapter_7_twilight_forest"
-	group: ""
+	group: "1111000000000003"
 	icon: {
 		id: "twilightforest:twilight_portal_miniature_structure"
 	}
 	id: "7A1B2C3D4E5F6789"
 	images: [ ]
-	order_index: 8
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["1000000000000060"]
 			id: "7000000000000001"
 			rewards: [
 				{
