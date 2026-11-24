@@ -2,8 +2,8 @@
 
 - **Minecraft**: `1.21.1`
 - **NeoForge**: `21.1.267`
-- **最終更新**: `2026-11-24 16:40:51 JST`
-- **MOD数**: 215 / **ResourcePack数**: 5 / **同期Config数**: 576
+- **最終更新**: `2026-11-24 18:45:53 JST`
+- **MOD数**: 195 / **ResourcePack数**: 5 / **同期Config数**: 487
 
 ## MOD一覧
 | ファイル名 | 配布元 | バージョン |
@@ -13,7 +13,6 @@
 | `AdditionalEnchantedMiner-1.21.1-neoforge-21.1.170.jar` | modrinth | `21.1.170` |
 | `Applied-Mekanistics-1.6.3.jar` | modrinth | `1.6.3` |
 | `Aquaculture-1.21.1-2.7.22.jar` | modrinth | `2.7.22` |
-| `BEB-NeoForge-1.21-6.0.0.jar` | modrinth | `6.0.0` |
 | `CarbonConfig-Neoforge-1.21.1-2.0.3.jar` | modrinth | `2.0.3` |
 | `Clumps-neoforge-1.21.1-19.0.0.1.jar` | modrinth | `19.0.0.1` |
 | `CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar` | modrinth | `2.0.0+Beta-6.1` |
@@ -24,7 +23,6 @@
 | `Cobblepedia-NeoForge-0.7.1.jar` | modrinth | `0.7.1-neoforge` |
 | `Cobbreeding-neoforge-2.4.1.jar` | modrinth | `2.4.1` |
 | `Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar` | curseforge | `9232207` |
-| `CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar` | modrinth | `2.13.55` |
 | `Disenchanting-neoforge-1.21.1-2.3.0.jar` | curseforge | `7830765` |
 | `DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar` | modrinth | `3.3.3-1.21.1` |
 | `DungeonsArise-1.21.1-2.1.68-release.jar` | modrinth | `2.1.68` |
@@ -32,21 +30,17 @@
 | `ExtendedAE-1.21-2.2.43-neoforge.jar` | curseforge | `9391213` |
 | `FarmersDelight-1.21.1-1.3.4.jar` | modrinth | `1.21.1-1.3.4` |
 | `FarmersStructures-1.0.6-1.21.1_neoforge.jar` | curseforge | `8130121` |
-| `ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar` | modrinth | `v21.1.6-1.21.1-NeoForge` |
 | `Geophilic v3.7.mod.jar` | modrinth | `3.7` |
 | `Glodium-1.21-2.2-neoforge.jar` | modrinth | `1.21-2.2-neoforge` |
-| `Iceberg-1.21.1-neoforge-1.3.2.jar` | modrinth | `1.3.2` |
 | `ImmersiveEngineering-1.21.1-12.4.2-194.jar` | modrinth | `12.4.2-194` |
 | `Jade-1.21.1-NeoForge-15.10.6.jar` | modrinth | `15.10.6+neoforge` |
 | `JadeAddons-1.21.1-NeoForge-6.1.2.jar` | modrinth | `6.1.2+neoforge` |
-| `JustEnoughMekanismMultiblocks-1.21.1-7.23.jar` | curseforge | `9068212` |
 | `JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar` | curseforge | `9311693` |
 | `Mekanism-1.21.1-10.7.19.85.jar` | modrinth | `10.7.19.85` |
 | `MekanismAdditions-1.21.1-10.7.19.85.jar` | modrinth | `10.7.19.85` |
 | `MekanismGenerators-1.21.1-10.7.19.85.jar` | modrinth | `10.7.19.85` |
 | `MekanismTools-1.21.1-10.7.19.85.jar` | modrinth | `10.7.19.85` |
 | `MekanismWeapons-1.21.1-4.3.jar` | curseforge | `8951656` |
-| `MoreCobblemonTweaks-neoforge-1.3.6.jar` | modrinth | `1.3.6-neoforge` |
 | `MythsAndLegends-neoforge-1.9.0.jar` | modrinth | `1.9.0` |
 | `NaturesCompass-1.21.1-3.4.0-neoforge.jar` | modrinth | `1.21.1-3.4.0-neoforge` |
 | `NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar` | modrinth | `NeoForge-1.21.1-v2.9.1` |
@@ -55,16 +49,12 @@
 | `RPG Potions - Neoforge - MC 1.21.1 - 1.2.0.jar` | modrinth | `1.0.0` |
 | `SOB-NeoForge-1.21.1-1.0.0.jar` | modrinth | `1.0.0` |
 | `ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar` | modrinth | `3.7.1-build-11` |
-| `Searchables-neoforge-1.21.1-1.0.2.jar` | modrinth | `1.0.2` |
 | `SimpleTMs-neoforge-2.3.3.jar` | modrinth | `2.3.3` |
 | `StorageDrawers-neoforge-1.21.1-13.11.4.jar` | curseforge | `6995432` |
-| `StorageOrganizer-neoforge-1.21.1-2.2.0.jar` | modrinth | `2.2.0+1.21.1` |
 | `Structory_26.2_v1.3.7.jar` | modrinth | `1.3.17` |
 | `TMTCF-NF-1.21.1-2.0.4.jar` | modrinth | `2.0.4` |
 | `accessories-neoforge-1.1.0-beta.54+1.21.1.jar` | modrinth | `1.1.0-beta.54+1.21.1` |
-| `ae2ct-1.21.1-1.1.1.jar` | curseforge | `7182163` |
 | `ae2importexportcard-1.21.1-1.9.1.jar` | modrinth | `1.21.1-1.9.1` |
-| `ae2jeiintegration-1.2.1.jar` | curseforge | `7727898` |
 | `ae2wtlib-19.5.1.jar` | modrinth | `19.5.1` |
 | `alltheleaks-1.1.16-1.21.1-neoforge.jar` | curseforge | `9498307` |
 | `anvilcore-10.1 Release-neoforge-1.21.1.jar` | curseforge | `7771419` |
@@ -77,17 +67,14 @@
 | `arseng-2.1.1-beta.jar` | modrinth | `2.1.1-beta` |
 | `artifacts-neoforge-13.2.5.jar` | modrinth | `13.2.5` |
 | `asymmetricbattles-neoforge-1.4.4-1.21.1.jar` | modrinth | `1.4.4+1.21.1` |
-| `athena-neoforge-1.21.1-4.0.6.jar` | modrinth | `4.0.6` |
 | `bagus_lib-1.21.1-13.27.0.jar` | modrinth | `1.21.1-13.27.0` |
 | `balm-neoforge-1.21.1-21.0.67.jar` | modrinth | `21.0.67+neoforge-1.21.1` |
 | `bellsandwhistles-0.4.7-1.21.1.jar` | modrinth | `v0.4.7-1.21.1` |
 | `betterdays-1.21.1-3.3.6.3-NEOFORGE.jar` | modrinth | `1.21.1-3.3.6.3-NEOFORGE` |
 | `blockui-1.0.209-1.21.1.jar` | curseforge | `7541336` |
-| `bookshelf-neoforge-1.21.1-21.1.81.jar` | modrinth | `21.1.81` |
 | `c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar` | modrinth | `0.4.0-alpha.0.124+1.21.1` |
 | `capturexp-neoforge-1.8.4-1.3.0.jar` | modrinth | `1.8.4-neoforge-1.3.0` |
 | `carryon-neoforge-1.21.1-2.2.6.13.jar` | modrinth | `2.2.6` |
-| `catchrate-display-neoforge-2.12.4.jar` | modrinth | `2.12.4+neoforge` |
 | `chipped-neoforge-1.21.1-4.0.2.jar` | modrinth | `4.0.2` |
 | `cloth-config-15.0.140-neoforge.jar` | modrinth | `15.0.140+neoforge` |
 | `cobbledex-rei-emi-jei-neoforge-2.32.16.jar` | modrinth | `2.32.16+neoforge` |
@@ -148,13 +135,10 @@
 | `jadecolonies-1.21.1-1.6.1.jar` | curseforge | `8879119` |
 | `jegn-1.8.4-neoforge1.21.1.jar` | modrinth | `1.8.4` |
 | `jei-1.21.1-neoforge-19.64.0.455.jar` | modrinth | `19.64.0.455` |
-| `jeimultiblocks-1.21.1-1.0.6.jar` | modrinth | `1.21.1-1.0.6` |
-| `justenoughbreeding-neoforge-1.21.1-3.3.1.jar` | modrinth | `3.3.1` |
 | `kleeslabs-neoforge-1.21.1-21.1.11.jar` | curseforge | `8163148` |
 | `kotlinforforge-5.13.0-all.jar` | modrinth | `5.13.0` |
 | `lakefeaturefix-neoforge-1.21.1-21.0.0.jar` | modrinth | `21.0.0` |
 | `legendarymonuments-neoforge-1.21.1-8.2-Keep-Fighting.jar` | modrinth | `8.2-Keep-Fighting` |
-| `libIPN-neoforge-1.21.1-6.6.3.jar` | modrinth | `neoforge-1.21.1-6.6.3` |
 | `lithium-neoforge-0.15.4+mc1.21.1.jar` | modrinth | `mc1.21.1-0.15.4-neoforge` |
 | `lithostitched-1.8.1-neoforge-21.1.jar` | modrinth | `1.8.1-neoforge-21.1` |
 | `lootintegrations-1.21.1-4.9.jar` | curseforge | `9600289` |
@@ -166,7 +150,6 @@
 | `mega_showdown-neoforge-1.4-1.8.4-1.21.1-release.jar` | modrinth | `1.4+1.8.4+1.21.1-release` |
 | `mekanismcurios-1.21.1-1.2.1.jar` | modrinth | `1.2.1` |
 | `mekmm-1.21.1-1.4.2.jar` | modrinth | `1.21.1-1.4.2` |
-| `mezz_config-1.21.1-neoforge-0.7.1-standalone.jar` | modrinth | `0.7.1` |
 | `minecolonies-1.1.1420-1.21.1.jar` | curseforge | `9624268` |
 | `modernfix-neoforge-5.27.27+mc1.21.1.jar` | modrinth | `5.27.27+mc1.21.1` |
 | `monolib-neoforge-1.21.1-4.1.2.jar` | modrinth | `neoforge-1.21.1-4.1.2` |
@@ -182,7 +165,6 @@
 | `pokebike-neoforge-4.0.jar` | modrinth | `4.0` |
 | `polymorph-neoforge-1.1.0+1.21.1.jar` | modrinth | `1.1.0+1.21.1` |
 | `potion_combiner-1.21.1-Neoforge-1.0.0.jar` | modrinth | `1.0.0` |
-| `prickle-neoforge-1.21.1-21.1.11.jar` | modrinth | `21.1.11` |
 | `puffish_attributes-0.8.3-1.21-neoforge.jar` | modrinth | `0.8.3` |
 | `puffish_skills-0.19.2-1.21-neoforge.jar` | modrinth | `0.19.2` |
 | `rad-gyms-neoforge-0.5.2.jar` | modrinth | `1.8.3_0.5.2` |
@@ -193,7 +175,6 @@
 | `recipeessentials-1.21.1-4.7.jar` | curseforge | `8463998` |
 | `redirected-neoforge-1.0.0-1.21.1.jar` | modrinth | `neoforge-1.21.1-1.0.0` |
 | `releaserewards-neoforge-3.0.4.jar` | modrinth | `3.0.4-NeoForge` |
-| `resourcefulconfig-neoforge-1.21-3.0.11.jar` | modrinth | `3.0.11` |
 | `resourcefullib-neoforge-1.21-3.0.12.jar` | modrinth | `3.0.12` |
 | `smallcolonies 1.21.1 v1.8.jar` | curseforge | `7881682` |
 | `smoothchunk-1.21-4.4.jar` | curseforge | `9255092` |
@@ -211,7 +192,6 @@
 | `titanium-1.21-4.0.56.jar` | modrinth | `1.21-4.0.56` |
 | `tofucraft-1.21.1-12.20.10.0.jar` | modrinth | `1.21.1-12.20.10.0` |
 | `tofucreate-1.21.1-2.1.0.jar` | modrinth | `1.21.1-2.1.0` |
-| `towntalk-1.2.0.jar` | curseforge | `5653504` |
 | `trashslot-neoforge-1.21.1-21.1.11.jar` | curseforge | `8163135` |
 | `twilightforest-1.21.1-4.8.3345-universal.jar` | curseforge | `7797302` |
 | `txnilib-neoforge-1.0.24-1.21.1.jar` | modrinth | `neoforge-1.21.1-1.0.24` |

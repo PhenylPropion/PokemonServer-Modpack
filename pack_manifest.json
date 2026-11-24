@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 16:40:51 JST",
+  "updated_at": "2026-11-24 18:45:53 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -82,16 +82,6 @@
       "version": "2.7.22",
       "prefix": "Aquaculture-",
       "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/EVDXfAI9/Aquaculture-1.21.1-2.7.22.jar"
-    },
-    {
-      "filename": "BEB-NeoForge-1.21-6.0.0.jar",
-      "sha1": "4a1828c61a420b3ef1b759b9cbe595de5c85a48e",
-      "size": 1772579,
-      "source": "modrinth",
-      "key": "mr:pcqEicMM",
-      "version": "6.0.0",
-      "prefix": "BEB-NeoForge-",
-      "url": "https://cdn.modrinth.com/data/pcqEicMM/versions/XeLhIDWZ/BEB-NeoForge-1.21-6.0.0.jar"
     },
     {
       "filename": "CarbonConfig-Neoforge-1.21.1-2.0.3.jar",
@@ -194,16 +184,6 @@
       "url": "https://edge.forgecdn.net/files/9232/207/Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar"
     },
     {
-      "filename": "CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
-      "sha1": "5687e0cc21ec86c64688c1e9112d29bca9fcc963",
-      "size": 1240240,
-      "source": "modrinth",
-      "key": "mr:OsZiaDHq",
-      "version": "2.13.55",
-      "prefix": "CreativeCore_NEOFORGE-",
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/aoWQBRG8/CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar"
-    },
-    {
       "filename": "Disenchanting-neoforge-1.21.1-2.3.0.jar",
       "sha1": "a11e6bc28d20b24d8bcb79e2965f79eaba7fc43a",
       "size": 238428,
@@ -274,16 +254,6 @@
       "url": "https://edge.forgecdn.net/files/8130/121/FarmersStructures-1.0.6-1.21.1_neoforge.jar"
     },
     {
-      "filename": "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar",
-      "sha1": "14f2dd9f43254b8c06af04b6f0c8ae5192f658b5",
-      "size": 104654,
-      "source": "modrinth",
-      "key": "mr:ohNO6lps",
-      "version": "v21.1.6-1.21.1-NeoForge",
-      "prefix": "ForgeConfigAPIPort-",
-      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/tWlsPKJI/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
-    },
-    {
       "filename": "Geophilic v3.7.mod.jar",
       "sha1": "4d668978e18b450c030ed4be096fce52d3a9ceca",
       "size": 1115993,
@@ -302,16 +272,6 @@
       "version": "1.21-2.2-neoforge",
       "prefix": "Glodium-",
       "url": "https://cdn.modrinth.com/data/UhW5uCKw/versions/pfbmdJ3b/Glodium-1.21-2.2-neoforge.jar"
-    },
-    {
-      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
-      "size": 213853,
-      "source": "modrinth",
-      "key": "mr:5faXoLqX",
-      "version": "1.3.2",
-      "prefix": "Iceberg-",
-      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar"
     },
     {
       "filename": "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
@@ -342,16 +302,6 @@
       "version": "6.1.2+neoforge",
       "prefix": "JadeAddons-",
       "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar"
-    },
-    {
-      "filename": "JustEnoughMekanismMultiblocks-1.21.1-7.23.jar",
-      "sha1": "b991df7554af8532d507eeccdef3797bec78f958",
-      "size": 246040,
-      "source": "curseforge",
-      "key": "cf:898746",
-      "version": "9068212",
-      "prefix": "JustEnoughMekanismMultiblocks-",
-      "url": "https://edge.forgecdn.net/files/9068/212/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
     },
     {
       "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
@@ -412,16 +362,6 @@
       "version": "8951656",
       "prefix": "MekanismWeapons-",
       "url": "https://edge.forgecdn.net/files/8951/656/MekanismWeapons-1.21.1-4.3.jar"
-    },
-    {
-      "filename": "MoreCobblemonTweaks-neoforge-1.3.6.jar",
-      "sha1": "9babcba4c8a385652dae93734fcd08bb8537c9cd",
-      "size": 139177,
-      "source": "modrinth",
-      "key": "mr:5KWlJ2HC",
-      "version": "1.3.6-neoforge",
-      "prefix": "MoreCobblemonTweaks-neoforge-",
-      "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/M790FsW7/MoreCobblemonTweaks-neoforge-1.3.6.jar"
     },
     {
       "filename": "MythsAndLegends-neoforge-1.9.0.jar",
@@ -504,16 +444,6 @@
       "url": "https://cdn.modrinth.com/data/zr0QMQMo/versions/WG1FLeZM/ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar"
     },
     {
-      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
-      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
-      "size": 77326,
-      "source": "modrinth",
-      "key": "mr:fuuu3xnx",
-      "version": "1.0.2",
-      "prefix": "Searchables-neoforge-",
-      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar"
-    },
-    {
       "filename": "SimpleTMs-neoforge-2.3.3.jar",
       "sha1": "f30723c57a72ff9c9f4b54fe1652430273355607",
       "size": 825317,
@@ -532,16 +462,6 @@
       "version": "6995432",
       "prefix": "StorageDrawers-neoforge-",
       "url": "https://edge.forgecdn.net/files/6995/432/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
-    },
-    {
-      "filename": "StorageOrganizer-neoforge-1.21.1-2.2.0.jar",
-      "sha1": "dd57155c1efcd3bee4531da0c9ab5da15bb2db54",
-      "size": 181969,
-      "source": "modrinth",
-      "key": "mr:xugd56Pv",
-      "version": "2.2.0+1.21.1",
-      "prefix": "StorageOrganizer-neoforge-",
-      "url": "https://cdn.modrinth.com/data/xugd56Pv/versions/uvze3nEs/StorageOrganizer-neoforge-1.21.1-2.2.0.jar"
     },
     {
       "filename": "Structory_26.2_v1.3.7.jar",
@@ -574,16 +494,6 @@
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/dy9BbDEy/accessories-neoforge-1.1.0-beta.54%2B1.21.1.jar"
     },
     {
-      "filename": "ae2ct-1.21.1-1.1.1.jar",
-      "sha1": "2e425a9dc8891bdcd3b2914506d1bc33414b61be",
-      "size": 437906,
-      "source": "curseforge",
-      "key": "cf:1086241",
-      "version": "7182163",
-      "prefix": "ae2ct-",
-      "url": "https://edge.forgecdn.net/files/7182/163/ae2ct-1.21.1-1.1.1.jar"
-    },
-    {
       "filename": "ae2importexportcard-1.21.1-1.9.1.jar",
       "sha1": "1b4fdfe01206524912fea28b7dea9e9449673018",
       "size": 688670,
@@ -592,16 +502,6 @@
       "version": "1.21.1-1.9.1",
       "prefix": "ae2importexportcard-",
       "url": "https://cdn.modrinth.com/data/qelfSMnn/versions/CuP91rXX/ae2importexportcard-1.21.1-1.9.1.jar"
-    },
-    {
-      "filename": "ae2jeiintegration-1.2.1.jar",
-      "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
-      "size": 91710,
-      "source": "curseforge",
-      "key": "cf:1074338",
-      "version": "7727898",
-      "prefix": "ae2jeiintegration-",
-      "url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar"
     },
     {
       "filename": "ae2wtlib-19.5.1.jar",
@@ -724,16 +624,6 @@
       "url": "https://cdn.modrinth.com/data/sI88vVWl/versions/sKlBadYU/asymmetricbattles-neoforge-1.4.4%2B1.21.1.jar"
     },
     {
-      "filename": "athena-neoforge-1.21.1-4.0.6.jar",
-      "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b",
-      "size": 99944,
-      "source": "modrinth",
-      "key": "mr:b1ZV3DIJ",
-      "version": "4.0.6",
-      "prefix": "athena-neoforge-",
-      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar"
-    },
-    {
       "filename": "bagus_lib-1.21.1-13.27.0.jar",
       "sha1": "878f74e9b95784da5996e470597bc223a6fd5d42",
       "size": 224815,
@@ -784,16 +674,6 @@
       "url": "https://edge.forgecdn.net/files/7541/336/blockui-1.0.209-1.21.1.jar"
     },
     {
-      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
-      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
-      "size": 328813,
-      "source": "modrinth",
-      "key": "mr:uy4Cnpcm",
-      "version": "21.1.81",
-      "prefix": "bookshelf-neoforge-",
-      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
-    },
-    {
       "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
       "sha1": "469497c209e77742a85020845a361851f14d99e2",
       "size": 3717706,
@@ -822,16 +702,6 @@
       "version": "2.2.6",
       "prefix": "carryon-neoforge-",
       "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/PV8oLZ1q/carryon-neoforge-1.21.1-2.2.6.13.jar"
-    },
-    {
-      "filename": "catchrate-display-neoforge-2.12.4.jar",
-      "sha1": "24fa8f205318b9b1ab948ba78313af36ce2b951a",
-      "size": 306531,
-      "source": "modrinth",
-      "key": "mr:vADO40xp",
-      "version": "2.12.4+neoforge",
-      "prefix": "catchrate-display-neoforge-",
-      "url": "https://cdn.modrinth.com/data/vADO40xp/versions/Ky36URwk/catchrate-display-neoforge-2.12.4.jar"
     },
     {
       "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
@@ -1434,26 +1304,6 @@
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar"
     },
     {
-      "filename": "jeimultiblocks-1.21.1-1.0.6.jar",
-      "sha1": "3c0a8b4823083151572656c702e5a2b45720ab4f",
-      "size": 16964,
-      "source": "modrinth",
-      "key": "mr:ffLYPaWN",
-      "version": "1.21.1-1.0.6",
-      "prefix": "jeimultiblocks-",
-      "url": "https://cdn.modrinth.com/data/ffLYPaWN/versions/kLhFXG0T/jeimultiblocks-1.21.1-1.0.6.jar"
-    },
-    {
-      "filename": "justenoughbreeding-neoforge-1.21.1-3.3.1.jar",
-      "sha1": "f75b1bc60dcdc6045b01e1f37746320a8c8ade67",
-      "size": 626813,
-      "source": "modrinth",
-      "key": "mr:9Pk89J3g",
-      "version": "3.3.1",
-      "prefix": "justenoughbreeding-neoforge-",
-      "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/tnIqG3cu/justenoughbreeding-neoforge-1.21.1-3.3.1.jar"
-    },
-    {
       "filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
       "sha1": "6b357c38c09620d7494da94a03470d5fbb4eade6",
       "size": 310304,
@@ -1492,16 +1342,6 @@
       "version": "8.2-Keep-Fighting",
       "prefix": "legendarymonuments-neoforge-",
       "url": "https://cdn.modrinth.com/data/m6RyHSbV/versions/oRFso4Pk/legendarymonuments-neoforge-1.21.1-8.2-Keep-Fighting.jar"
-    },
-    {
-      "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
-      "sha1": "baab9e8cae3d2b77b5e172b5694e465ee9f30d4a",
-      "size": 626146,
-      "source": "modrinth",
-      "key": "mr:onSQdWhM",
-      "version": "neoforge-1.21.1-6.6.3",
-      "prefix": "libIPN-neoforge-",
-      "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar"
     },
     {
       "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -1612,16 +1452,6 @@
       "version": "1.21.1-1.4.2",
       "prefix": "mekmm-",
       "url": "https://cdn.modrinth.com/data/qDJXZJTz/versions/l1cANyIJ/mekmm-1.21.1-1.4.2.jar"
-    },
-    {
-      "filename": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
-      "sha1": "2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60",
-      "size": 347249,
-      "source": "modrinth",
-      "key": "mr:7tEfOcA7",
-      "version": "0.7.1",
-      "prefix": "mezz_config-",
-      "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/V6oWFnxW/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar"
     },
     {
       "filename": "minecolonies-1.1.1420-1.21.1.jar",
@@ -1774,16 +1604,6 @@
       "url": "https://cdn.modrinth.com/data/gCV2e3CO/versions/3GqOkJFR/potion_blending-1.21.1-Neoforge-1.0.1.jar"
     },
     {
-      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
-      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
-      "size": 84812,
-      "source": "modrinth",
-      "key": "mr:aaRl8GiW",
-      "version": "21.1.11",
-      "prefix": "prickle-neoforge-",
-      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
-    },
-    {
       "filename": "puffish_attributes-0.8.3-1.21-neoforge.jar",
       "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
       "size": 235542,
@@ -1882,16 +1702,6 @@
       "version": "3.0.4-NeoForge",
       "prefix": "releaserewards-neoforge-",
       "url": "https://cdn.modrinth.com/data/Qx6M2WkT/versions/6vMgpg8Q/releaserewards-neoforge-3.0.4.jar"
-    },
-    {
-      "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
-      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
-      "size": 341009,
-      "source": "modrinth",
-      "key": "mr:M1953qlQ",
-      "version": "3.0.11",
-      "prefix": "resourcefulconfig-neoforge-",
-      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar"
     },
     {
       "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
@@ -2064,16 +1874,6 @@
       "url": "https://cdn.modrinth.com/data/SNoLi0im/versions/gak7ih86/tofucreate-1.21.1-2.1.0.jar"
     },
     {
-      "filename": "towntalk-1.2.0.jar",
-      "sha1": "6866d898938bdde1a17fadee16983c0c6071eac6",
-      "size": 52301863,
-      "source": "curseforge",
-      "key": "cf:900364",
-      "version": "5653504",
-      "prefix": "towntalk-",
-      "url": "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar"
-    },
-    {
       "filename": "trashslot-neoforge-1.21.1-21.1.11.jar",
       "sha1": "7343e4b563feb79122c8373a0d5416182ca436a8",
       "size": 77535,
@@ -2238,8 +2038,8 @@
   ],
   "config_bundle": {
     "filename": "config_bundle.zip",
-    "sha1": "b6e3029bd7593f9a9209014b28a2f6e6e838e20a",
-    "size": 849270,
-    "file_count": 576
+    "sha1": "08e2270e9f6eadc74a34f73d3fd2f8fb340d535b",
+    "size": 755555,
+    "file_count": 487
   }
 }
