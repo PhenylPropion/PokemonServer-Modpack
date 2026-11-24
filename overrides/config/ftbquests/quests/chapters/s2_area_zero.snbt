@@ -16,15 +16,25 @@
 				id: "minecraft:sculk_catalyst"
 			}
 			id: "3A7559AF481873B0"
-			rewards: [{
-				count: 4
-				id: "71EA00A3F57C5451"
-				item: {
-					count: 1
-					id: "minecraft:golden_apple"
+			rewards: [
+				{
+					count: 4
+					id: "71EA00A3F57C5451"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "52A0000000000011"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			tasks: [{
 				id: "335B557DE15114EF"
@@ -34,6 +44,38 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["3A7559AF481873B0"]
+			icon: {
+				id: "ars_nouveau:novice_spell_book"
+			}
+			id: "52A0000000000001"
+			rewards: [
+				{
+					count: 8
+					id: "52A0000000000012"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 10000"
+					id: "52A0000000000013"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "52A0000000000021"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52A0000000000001"]
 			icon: {
 				id: "minecraft:echo_shard"
 			}
@@ -62,24 +104,85 @@
 				item: { count: 1, id: "minecraft:echo_shard" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52A0000000000001"]
+			icon: {
+				id: "twilightforest:fiery_ingot"
+			}
+			id: "52A0000000000002"
+			rewards: [
+				{
+					count: 2
+					id: "52A0000000000014"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 20000"
+					id: "52A0000000000015"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "52A0000000000022"
+				item: { count: 1, id: "twilightforest:fiery_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["52A0000000000001"]
+			icon: {
+				id: "minecraft:shulker_shell"
+			}
+			id: "52A0000000000003"
+			rewards: [
+				{
+					id: "52A0000000000016"
+					item: {
+						count: 1
+						id: "mega_showdown:keystone"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 25000"
+					id: "52A0000000000017"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "52A0000000000023"
+				item: { count: 1, id: "minecraft:shulker_shell" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["6C4ED763304A6BC4"]
 			icon: {
-				id: "mega_showdown:keystone"
+				id: "mega_showdown:mega_stone"
 			}
 			id: "404443A43B36BEF6"
 			rewards: [
 				{
-					count: 2
+					exclude_from_claim_all: true
 					id: "619987C600BCF8C3"
-					item: {
-						count: 1
-						id: "cobblemon:ability_capsule"
-					}
-					type: "item"
+					type: "choice"
 				}
 				{
 					command: "/cobbledollars give @p 25000"
@@ -89,19 +192,32 @@
 					type: "command"
 				}
 			]
-			tasks: [{
-				count: 2L
-				id: "27E1D6FB4BEB48CB"
-				item: { count: 1, id: "mega_showdown:keystone" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 0.0d
+			tasks: [
+				{
+					consume_items: true
+					id: "27E1D6FB4BEB48CB"
+					item: { count: 1, id: "mega_showdown:mega_stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "52A0000000000024"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -1.5d
 		}
 		{
-			dependencies: ["404443A43B36BEF6"]
+			dependencies: [
+				"6C4ED763304A6BC4"
+				"52A0000000000002"
+				"52A0000000000003"
+			]
 			icon: {
-				id: "minecraft:nether_star"
+				id: "cobblemon:ability_patch"
 			}
 			id: "21F01265F732D9DF"
 			rewards: [
@@ -114,7 +230,15 @@
 					type: "item"
 				}
 				{
-					command: "/cobbledollars give @p 40000"
+					id: "52A0000000000018"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 50000"
 					id: "1DA0C5394DC31A9D"
 					permission_level: 2
 					silent: true
@@ -123,31 +247,81 @@
 			]
 			tasks: [{
 				id: "71BCDBB0671C2187"
-				item: { count: 1, id: "minecraft:nether_star" }
+				item: { count: 1, id: "cobblemon:ability_patch" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 0.0d
+			x: 6.5d
+			y: 0.5d
 		}
 		{
+			can_repeat: true
+			dependencies: ["6C4ED763304A6BC4"]
+			icon: {
+				id: "minecraft:beacon"
+			}
+			id: "52A0000000000004"
+			repeat_cooldown: 7200
+			rewards: [
+				{
+					command: "/function season2_core:boost/area_zero_boost"
+					id: "52A0000000000019"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "52A000000000001A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "52A0000000000025"
+				item: { count: 1, id: "minecraft:echo_shard" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"404443A43B36BEF6"
+				"21F01265F732D9DF"
+			]
 			icon: {
 				id: "minecraft:nether_star"
 			}
 			id: "1E60D722771F378C"
-			rewards: [{
-				command: "/cobbledollars give @p 150000"
-				id: "4F6538B276565048"
-				permission_level: 2
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					command: "/cobbledollars give @p 150000"
+					id: "4F6538B276565048"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					count: 3
+					id: "52A000000000001B"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "gear"
 			tasks: [{
-				id: "227791E1A0549F4B"
-				type: "checkmark"
+				id: "52A0000000000026"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
 			}]
-			x: 10.0d
-			y: 0.0d
+			x: 9.0d
+			y: -0.5d
 		}
 	]
 }

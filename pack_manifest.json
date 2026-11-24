@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 21:00:05 JST",
+  "updated_at": "2026-11-24 22:49:50 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -2018,8 +2018,8 @@
   ],
   "config_bundle": {
     "filename": "config_bundle.zip",
-    "sha1": "16dbfb5f5a6518151d002dd75a582cc699c2616c",
-    "size": 640198,
-    "file_count": 453
+    "sha1": "4d0d0ff48ad95f016c380b0a1507a1ce96c2b972",
+    "size": 646403,
+    "file_count": 454
   }
 }

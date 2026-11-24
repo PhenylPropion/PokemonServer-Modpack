@@ -11,7 +11,7 @@
 		string_id: "junk_3"
 	}
 	loot_size: 1
-	order_index: 51
+	order_index: 52
 	rewards: [
 		{ id: "05F71886A684D5E0", item: { count: 1, id: "minecraft:zombie_spawn_egg" } }
 		{ id: "3584165300253700", item: { count: 1, id: "minecraft:turtle_spawn_egg" } }

@@ -4,39 +4,39 @@
     "offers": [
       {
         "item": "cobblemon:poke_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:citrine_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:verdant_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:azure_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:roseate_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:slate_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:premier_ball",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:great_ball",
-        "price": "6000"
+        "price": "7000"
       },
       {
         "item": "cobblemon:ultra_ball",
-        "price": "8000"
+        "price": "12000"
       },
       {
         "item": "cobblemon:safari_ball",
@@ -212,18 +212,6 @@
         "price": "15000"
       },
       {
-        "item": "cobblemon:exp_candy_l",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:exp_candy_xl",
-        "price": "150000"
-      },
-      {
-        "item": "cobblemon:rare_candy",
-        "price": "100000"
-      },
-      {
         "item": "cobblemon:exp_share",
         "price": "250000"
       }
@@ -234,15 +222,15 @@
     "offers": [
       {
         "item": "cobblemon:potion",
-        "price": "2000"
+        "price": "2500"
       },
       {
         "item": "cobblemon:super_potion",
-        "price": "7000"
+        "price": "8000"
       },
       {
         "item": "cobblemon:hyper_potion",
-        "price": "15000"
+        "price": "18000"
       },
       {
         "item": "cobblemon:max_potion",
@@ -369,43 +357,6 @@
       {
         "item": "cobblemon:guard_spec",
         "price": "15000"
-      }
-    ]
-  },
-  {
-    "name": "努力値・PP育成",
-    "offers": [
-      {
-        "item": "cobblemon:hp_up",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:protein",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:iron",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:calcium",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:zinc",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:carbos",
-        "price": "50000"
-      },
-      {
-        "item": "cobblemon:pp_up",
-        "price": "30000"
-      },
-      {
-        "item": "cobblemon:pp_max",
-        "price": "80000"
       }
     ]
   },
@@ -552,67 +503,6 @@
       {
         "item": "cobblemon:serious_mint",
         "price": "100000"
-      }
-    ]
-  },
-  {
-    "name": "個体値・特性調整",
-    "offers": [
-      {
-        "item": "cobblemon:health_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:mighty_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:tough_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:smart_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:courage_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:quick_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:sickly_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:weak_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:brittle_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:numb_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:coward_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:slow_candy",
-        "price": "75000"
-      },
-      {
-        "item": "cobblemon:ability_capsule",
-        "price": "300000"
-      },
-      {
-        "item": "cobblemon:ability_patch",
-        "price": "1000000"
       }
     ]
   },
@@ -1412,67 +1302,222 @@
     ]
   },
   {
-    "name": "化石",
+    "name": "家具・ポケモンインテリア",
     "offers": [
       {
-        "item": "cobblemon:armor_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:furnicrafter",
+        "price": "5000"
       },
       {
-        "item": "cobblemon:fossilized_bird",
-        "price": "150000"
+        "item": "cobblefurnies:statue_pikachu",
+        "price": "30000"
       },
       {
-        "item": "cobblemon:claw_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:statue_bulbasaur",
+        "price": "30000"
       },
       {
-        "item": "cobblemon:cover_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:statue_charmander",
+        "price": "30000"
       },
       {
-        "item": "cobblemon:fossilized_dino",
-        "price": "150000"
+        "item": "cobblefurnies:statue_squirtle",
+        "price": "30000"
       },
       {
-        "item": "cobblemon:dome_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:statue_ancient",
+        "price": "60000"
       },
       {
-        "item": "cobblemon:fossilized_drake",
-        "price": "150000"
+        "item": "cobblefurnies:poke_ball_chair",
+        "price": "12000"
       },
       {
-        "item": "cobblemon:fossilized_fish",
-        "price": "150000"
+        "item": "cobblefurnies:poke_ball_desk",
+        "price": "18000"
       },
       {
-        "item": "cobblemon:helix_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:tv",
+        "price": "25000"
       },
       {
-        "item": "cobblemon:jaw_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:bonsai_plant",
+        "price": "8000"
       },
       {
-        "item": "cobblemon:old_amber_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:mini_topiary",
+        "price": "8000"
       },
       {
-        "item": "cobblemon:plume_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:potted_pothos",
+        "price": "8000"
       },
       {
-        "item": "cobblemon:root_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:light_fridge",
+        "price": "15000"
       },
       {
-        "item": "cobblemon:sail_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:dark_fridge",
+        "price": "15000"
       },
       {
-        "item": "cobblemon:skull_fossil",
-        "price": "150000"
+        "item": "cobblefurnies:red_sofa",
+        "price": "12000"
+      },
+      {
+        "item": "cobblefurnies:blue_sofa",
+        "price": "12000"
+      },
+      {
+        "item": "cobblefurnies:white_table",
+        "price": "10000"
+      },
+      {
+        "item": "cobblefurnies:lab_floor",
+        "price": "2000"
+      },
+      {
+        "item": "cobblefurnies:kitchen_floor",
+        "price": "2000"
+      },
+      {
+        "item": "cobblefurnies:pool_ceramic",
+        "price": "2000"
+      },
+      {
+        "item": "cobblefurnies:saccharine_chair",
+        "price": "8000"
+      },
+      {
+        "item": "cobblefurnies:saccharine_table",
+        "price": "10000"
+      },
+      {
+        "item": "cobblefurnies:saccharine_cabinet",
+        "price": "12000"
+      },
+      {
+        "item": "cobblefurnies:apricorn_chair",
+        "price": "8000"
+      },
+      {
+        "item": "cobblefurnies:apricorn_table",
+        "price": "10000"
+      }
+    ]
+  },
+  {
+    "name": "建築・装飾ブロック",
+    "offers": [
+      {
+        "item": "minecraft:quartz_block",
+        "price": "800"
+      },
+      {
+        "item": "minecraft:copper_block",
+        "price": "1200"
+      },
+      {
+        "item": "minecraft:amethyst_block",
+        "price": "1500"
+      },
+      {
+        "item": "minecraft:prismarine_bricks",
+        "price": "1000"
+      },
+      {
+        "item": "minecraft:dark_prismarine",
+        "price": "1200"
+      },
+      {
+        "item": "minecraft:sea_lantern",
+        "price": "2500"
+      },
+      {
+        "item": "minecraft:shroomlight",
+        "price": "2000"
+      },
+      {
+        "item": "minecraft:lantern",
+        "price": "1000"
+      },
+      {
+        "item": "minecraft:polished_blackstone_bricks",
+        "price": "800"
+      },
+      {
+        "item": "minecraft:cherry_log",
+        "price": "600"
+      },
+      {
+        "item": "minecraft:terracotta",
+        "price": "500"
+      },
+      {
+        "item": "minecraft:tinted_glass",
+        "price": "1500"
+      }
+    ]
+  },
+  {
+    "name": "Create 鉄道・商店街",
+    "offers": [
+      {
+        "item": "create:track",
+        "price": "1500"
+      },
+      {
+        "item": "create:railway_casing",
+        "price": "4000"
+      },
+      {
+        "item": "create:brass_casing",
+        "price": "4000"
+      },
+      {
+        "item": "create:andesite_casing",
+        "price": "2500"
+      },
+      {
+        "item": "create:white_table_cloth",
+        "price": "3000"
+      },
+      {
+        "item": "create:red_table_cloth",
+        "price": "3000"
+      },
+      {
+        "item": "create:blue_table_cloth",
+        "price": "3000"
+      },
+      {
+        "item": "create:green_table_cloth",
+        "price": "3000"
+      },
+      {
+        "item": "create:yellow_table_cloth",
+        "price": "3000"
+      },
+      {
+        "item": "create:rose_quartz_lamp",
+        "price": "5000"
+      },
+      {
+        "item": "create:copper_shingles",
+        "price": "1200"
+      }
+    ]
+  },
+  {
+    "name": "ガチャ・お楽しみ",
+    "offers": [
+      {
+        "item": "cobbledgacha:gacha_coin",
+        "price": "15000"
+      },
+      {
+        "item": "cobbledgacha:koban_coin",
+        "price": "35000"
       }
     ]
   }

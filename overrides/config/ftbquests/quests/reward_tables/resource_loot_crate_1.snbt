@@ -11,7 +11,7 @@
 		string_id: "resource_loot_crate_1"
 	}
 	loot_size: 1
-	order_index: 60
+	order_index: 61
 	rewards: [
 		{ id: "222AF3C0444E94DF", item: { count: 1, id: "ftbquests:lootcrate" } }
 		{ id: "3837B31067B5BFFA", item: { count: 1, id: "ftbquests:lootcrate" } }

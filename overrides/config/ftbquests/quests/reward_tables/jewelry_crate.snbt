@@ -11,7 +11,7 @@
 		string_id: "jewelry_crate"
 	}
 	loot_size: 1
-	order_index: 53
+	order_index: 54
 	rewards: [
 		{ id: "369607B9566F150E", item: { count: 1, id: "minecraft:gold_nugget" } }
 		{ id: "60B10CC8E15DCB14", item: { count: 1, id: "minecraft:gold_nugget" } }

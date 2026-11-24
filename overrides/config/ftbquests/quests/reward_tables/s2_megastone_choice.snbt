@@ -1,0 +1,17 @@
+{
+	id: "5200000000000001"
+	loot_size: 1
+	order_index: 50
+	rewards: [
+		{ id: "5200000000000011", item: { count: 1, id: "mega_showdown:charizardite_x" } }
+		{ id: "5200000000000012", item: { count: 1, id: "mega_showdown:charizardite_y" } }
+		{ id: "5200000000000013", item: { count: 1, id: "mega_showdown:lucarionite" } }
+		{ id: "5200000000000014", item: { count: 1, id: "mega_showdown:gengarite" } }
+		{ id: "5200000000000015", item: { count: 1, id: "mega_showdown:garchompite" } }
+		{ id: "5200000000000016", item: { count: 1, id: "mega_showdown:gardevoirite" } }
+		{ id: "5200000000000017", item: { count: 1, id: "mega_showdown:blazikenite" } }
+		{ id: "5200000000000018", item: { count: 1, id: "mega_showdown:tyranitarite" } }
+		{ id: "5200000000000019", item: { count: 1, id: "mega_showdown:scizorite" } }
+		{ id: "520000000000001A", item: { count: 1, id: "mega_showdown:gyaradosite" } }
+	]
+}

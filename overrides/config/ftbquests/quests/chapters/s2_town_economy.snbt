@@ -13,6 +13,303 @@
 	quests: [
 		{
 			icon: {
+				id: "cobblemon:healing_machine"
+			}
+			id: "52E0000000000001"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_pokecenter"
+					id: "52E0000000000101"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "52E0000000000102"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "52E0000000000103"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000201"
+					item: { count: 1, id: "minecraft:red_terracotta" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000202"
+					item: { count: 1, id: "minecraft:white_concrete" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "52E0000000000002"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_gym_hub"
+					id: "52E0000000000104"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "52E0000000000105"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "52E0000000000106"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000203"
+					item: { count: 1, id: "minecraft:smooth_quartz" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000204"
+					item: { count: 1, id: "minecraft:oak_planks" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "create:track_station"
+			}
+			id: "52E0000000000003"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_station"
+					id: "52E0000000000107"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					count: 16
+					id: "52E0000000000108"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 20000"
+					id: "52E0000000000109"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000205"
+					item: { count: 1, id: "create:track" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 16L
+					id: "52E0000000000206"
+					item: { count: 1, id: "create:andesite_alloy" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "create:red_table_cloth"
+			}
+			id: "52E0000000000004"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_market"
+					id: "52E000000000010A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					count: 4
+					id: "52E000000000010B"
+					item: {
+						count: 1
+						id: "create:white_table_cloth"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 20000"
+					id: "52E000000000010C"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000207"
+					item: { count: 1, id: "minecraft:spruce_planks" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "52E0000000000208"
+					item: { count: 1, id: "minecraft:barrel" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:restoration_tank"
+			}
+			id: "52E0000000000005"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_lab"
+					id: "52E000000000010D"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "52E000000000010E"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 25000"
+					id: "52E000000000010F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E0000000000209"
+					item: { count: 1, id: "minecraft:glass" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 4L
+					id: "52E000000000020A"
+					item: { count: 1, id: "minecraft:iron_block" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "minecraft:deepslate_bricks"
+			}
+			id: "52E0000000000006"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_guild"
+					id: "52E0000000000110"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					count: 2
+					id: "52E0000000000111"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 25000"
+					id: "52E0000000000112"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "52E000000000020B"
+					item: { count: 1, id: "minecraft:deepslate_bricks" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "52E000000000020C"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			icon: {
 				id: "create:track"
 			}
 			id: "33B6E3D22673918F"
@@ -30,11 +327,8 @@
 					count: 8
 					id: "4391AEC74BEDC175"
 					item: {
-						components: {
-							"ftbquests:missing_item": "create:train_casing"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "create:railway_casing"
 					}
 					type: "item"
 				}
@@ -93,24 +387,11 @@
 				id: "minecraft:beacon"
 			}
 			id: "755258C46BB914A0"
+			repeat_cooldown: 3600
 			rewards: [
 				{
-					command: "/effect give @a minecraft:haste 1800 1"
+					command: "/function season2_core:boost/tech_boost"
 					id: "2FBAA027523CF9C3"
-					permission_level: 2
-					silent: true
-					type: "command"
-				}
-				{
-					command: "/effect give @a minecraft:speed 1800 0"
-					id: "28B114493883BCFB"
-					permission_level: 2
-					silent: true
-					type: "command"
-				}
-				{
-					command: "/say §a[共有ブースト] §f誰かが街の研究所へ納品！全員に30分間の採掘＆移動バフが発動しました！"
-					id: "5691356D635FFB84"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -139,6 +420,7 @@
 				id: "create:andesite_alloy"
 			}
 			id: "5FAF4F8F05E5D0BE"
+			repeat_cooldown: 14400
 			rewards: [
 				{
 					command: "/cobbledollars give @p 6000"
@@ -160,7 +442,7 @@
 				item: { count: 1, id: "create:andesite_alloy" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.5d
 			y: 0.0d
 		}
 		{
@@ -169,6 +451,7 @@
 				id: "cobblemon:ultra_ball"
 			}
 			id: "3B65414418BA4862"
+			repeat_cooldown: 21600
 			rewards: [
 				{
 					command: "/cobbledollars give @p 18000"
@@ -190,7 +473,7 @@
 				item: { count: 1, id: "cobblemon:ultra_ball" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.5d
 			y: 0.0d
 		}
 		{
@@ -199,6 +482,7 @@
 				id: "mekanism:ingot_steel"
 			}
 			id: "3742BD95F14136F0"
+			repeat_cooldown: 28800
 			rewards: [
 				{
 					command: "/cobbledollars give @p 24000"
@@ -220,7 +504,7 @@
 				item: { count: 1, id: "mekanism:ingot_steel" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: 0.0d
 		}
 		{
@@ -229,6 +513,7 @@
 				id: "farmersdelight:roast_chicken_block"
 			}
 			id: "15DC2B98A1000B2D"
+			repeat_cooldown: 14400
 			rewards: [
 				{
 					command: "/cobbledollars give @p 10000"
@@ -250,7 +535,81 @@
 				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "52E0000000000007"
+			repeat_cooldown: 14400
+			rewards: [
+				{
+					command: "/cobbledollars give @p 12000"
+					id: "52E0000000000113"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "52E0000000000114"
+					item: {
+						count: 1
+						id: "cobbledgacha:gacha_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 16L
+					id: "52E000000000020D"
+					item: { count: 1, id: "minecraft:amethyst_shard" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "52E000000000020E"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "farmersdelight:hamburger"
+			}
+			id: "52E0000000000008"
+			repeat_cooldown: 14400
+			rewards: [
+				{
+					command: "/cobbledollars give @p 10000"
+					id: "52E0000000000115"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "52E0000000000116"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 6L
+				id: "52E000000000020F"
+				item: { count: 1, id: "farmersdelight:hamburger" }
+				type: "item"
+			}]
+			x: 8.5d
 			y: 0.0d
 		}
 		{
@@ -365,6 +724,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["6BC8FF94B4592852"]
 			icon: {
 				id: "cobblemon:pokedex_yellow"
 			}

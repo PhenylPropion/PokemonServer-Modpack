@@ -194,7 +194,7 @@
 		{
 			dependencies: ["17CFF5EB3DB13189"]
 			icon: {
-				id: "cobblemon:poison_barb"
+				id: "cobblemon:twisted_spoon"
 			}
 			id: "6C3940DC2D80D08E"
 			rewards: [
@@ -231,7 +231,7 @@
 				}
 			]
 			tasks: [{
-				advancement: "rctmod:trainers/defeat_leader_koga"
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
 				criterion: ""
 				id: "49434D1BCB413104"
 				type: "advancement"
@@ -240,6 +240,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["6C3940DC2D80D08E"]
 			icon: {
 				id: "mega_showdown:tera_orb"
 			}
@@ -271,7 +272,7 @@
 			]
 			shape: "hexagon"
 			tasks: [{
-				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				advancement: "rctmod:trainers/defeat_leader_koga"
 				criterion: ""
 				id: "323211F0B65FFC70"
 				type: "advancement"
@@ -280,8 +281,9 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["51C1E089EF6A1DB2"]
 			icon: {
-				id: "cobblemon_utility:goldencap"
+				id: "cobblemon:charcoal_stick"
 			}
 			id: "11D9611F2675387B"
 			rewards: [
@@ -351,7 +353,7 @@
 			]
 			shape: "hexagon"
 			tasks: [{
-				advancement: "rctmod:trainers/defeat_leader_giovanni"
+				advancement: "rctmod:trainers/defeat_leader_clair"
 				criterion: ""
 				id: "4F107D6786981CF9"
 				type: "advancement"
@@ -360,6 +362,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["48119D56DC8D5F19"]
 			icon: {
 				id: "cobblemon:master_ball"
 			}
@@ -402,6 +405,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["3C3246AD81643BDC"]
 			icon: {
 				id: "minecraft:nether_star"
 			}
@@ -441,6 +445,151 @@
 			}]
 			x: 18.0d
 			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:destiny_knot"
+			}
+			id: "52B0000000000001"
+			rewards: [
+				{
+					count: 3
+					id: "52B0000000000101"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "52B0000000000102"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 60000"
+					id: "52B0000000000103"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_3"
+				criterion: ""
+				id: "52B0000000000201"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:max_potion"
+			}
+			id: "52B0000000000002"
+			rewards: [
+				{
+					count: 2
+					id: "52B0000000000104"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "52B0000000000105"
+					item: {
+						count: 1
+						id: "cobblefurnies:statue_ancient"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "52B0000000000202"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:focus_sash"
+			}
+			id: "52B0000000000003"
+			rewards: [
+				{
+					count: 2
+					id: "52B0000000000106"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "52B0000000000107"
+					item: {
+						count: 1
+						id: "simpletms:tm_blank"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "52B0000000000203"
+				type: "checkmark"
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:life_orb"
+			}
+			id: "52B0000000000004"
+			rewards: [
+				{
+					id: "52B0000000000108"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "52B0000000000109"
+					item: {
+						count: 1
+						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					command: "/cobbledollars give @p 50000"
+					id: "52B000000000010A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "52B0000000000204"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 2.0d
 		}
 	]
 }

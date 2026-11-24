@@ -10,7 +10,7 @@
 		string_id: "artifact_loot_crate"
 	}
 	loot_size: 1
-	order_index: 68
+	order_index: 69
 	rewards: [
 		{ id: "29B99E3ACEB68D4F", item: { count: 1, id: "artifacts:whoopee_cushion" } }
 		{ id: "68C5A4D62327D38F", item: { count: 1, id: "artifacts:flippers" } }

@@ -11,7 +11,7 @@
 		string_id: "flowers"
 	}
 	loot_size: 1
-	order_index: 66
+	order_index: 67
 	rewards: [
 		{
 			count: 8
