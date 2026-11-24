@@ -1,6 +1,0 @@
-{
-	id: "29A99F40320CA206"
-	loot_size: 1
-	order_index: 39
-	rewards: [{ id: "6C32FA625B2DA1EF", item: { count: 1, id: "sophisticatedbackpacks:backpack" } }]
-}

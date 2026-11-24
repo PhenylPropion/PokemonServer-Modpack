@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 01:56:54 JST",
+  "updated_at": "2026-11-24 16:40:51 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -322,16 +322,6 @@
       "version": "12.4.2-194",
       "prefix": "ImmersiveEngineering-",
       "url": "https://cdn.modrinth.com/data/tIm2nV03/versions/uNRARSH2/ImmersiveEngineering-1.21.1-12.4.2-194.jar"
-    },
-    {
-      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc",
-      "size": 1295466,
-      "source": "modrinth",
-      "key": "mr:O7RBXm3n",
-      "version": "neoforge-1.21.1-2.2.5",
-      "prefix": "InventoryProfilesNext-neoforge-",
-      "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/vjuNnHLv/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
     },
     {
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
@@ -1964,16 +1954,6 @@
       "url": "https://edge.forgecdn.net/files/9692/552/sophisticatedcore-1.21.1-1.5.39.2489.jar"
     },
     {
-      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
-      "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb",
-      "size": 204230,
-      "source": "modrinth",
-      "key": "mr:qyVF9oeo",
-      "version": "neoforge-1.21.1-1.5.2",
-      "prefix": "sound-physics-remastered-neoforge-",
-      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/85fA7L1W/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
-    },
-    {
       "filename": "spark-1.10.124-neoforge.jar",
       "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
       "size": 3642581,
@@ -2258,8 +2238,8 @@
   ],
   "config_bundle": {
     "filename": "config_bundle.zip",
-    "sha1": "9619860d8c58fdea4143f0664a7ac43bd94c8283",
-    "size": 2597529,
-    "file_count": 1092
+    "sha1": "b6e3029bd7593f9a9209014b28a2f6e6e838e20a",
+    "size": 849270,
+    "file_count": 576
   }
 }

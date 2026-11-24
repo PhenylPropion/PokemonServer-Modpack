@@ -1,9 +1,0 @@
-{
-	id: "505422874AF16E28"
-	loot_size: 1
-	order_index: 2
-	rewards: [
-		{ id: "597F7F9A462D2348", item: { count: 1, id: "minecraft:emerald" } }
-		{ id: "5C3E64E2795D1DDE", item: { count: 1, id: "minecraft:emerald" } }
-	]
-}

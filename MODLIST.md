@@ -2,8 +2,8 @@
 
 - **Minecraft**: `1.21.1`
 - **NeoForge**: `21.1.267`
-- **最終更新**: `2026-11-24 01:56:54 JST`
-- **MOD数**: 217 / **ResourcePack数**: 5 / **同期Config数**: 1092
+- **最終更新**: `2026-11-24 16:40:51 JST`
+- **MOD数**: 215 / **ResourcePack数**: 5 / **同期Config数**: 576
 
 ## MOD一覧
 | ファイル名 | 配布元 | バージョン |
@@ -37,7 +37,6 @@
 | `Glodium-1.21-2.2-neoforge.jar` | modrinth | `1.21-2.2-neoforge` |
 | `Iceberg-1.21.1-neoforge-1.3.2.jar` | modrinth | `1.3.2` |
 | `ImmersiveEngineering-1.21.1-12.4.2-194.jar` | modrinth | `12.4.2-194` |
-| `InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar` | modrinth | `neoforge-1.21.1-2.2.5` |
 | `Jade-1.21.1-NeoForge-15.10.6.jar` | modrinth | `15.10.6+neoforge` |
 | `JadeAddons-1.21.1-NeoForge-6.1.2.jar` | modrinth | `6.1.2+neoforge` |
 | `JustEnoughMekanismMultiblocks-1.21.1-7.23.jar` | curseforge | `9068212` |
@@ -201,7 +200,6 @@
 | `snowundertrees-1.21.1-1.7.jar` | modrinth | `v1.7` |
 | `sophisticatedbackpacks-1.21.1-3.26.22.2257.jar` | curseforge | `9692576` |
 | `sophisticatedcore-1.21.1-1.5.39.2489.jar` | curseforge | `9692552` |
-| `sound-physics-remastered-neoforge-1.21.1-1.5.2.jar` | modrinth | `neoforge-1.21.1-1.5.2` |
 | `spark-1.10.124-neoforge.jar` | modrinth | `1.10.124-neoforge` |
 | `spawnnotification-neoforge-1.8.4-2.3.0.jar` | modrinth | `1.8.4-neoforge-2.3.0` |
 | `stackable_stew_and_soup-neoforge-1.21.1-2.1.0.jar` | modrinth | `2.1.0` |
