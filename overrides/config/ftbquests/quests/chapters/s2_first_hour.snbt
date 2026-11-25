@@ -53,6 +53,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["565F9FD164388C5D"]
 			icon: {
 				id: "cobblemon:great_ball"
 			}
@@ -108,6 +109,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["0B2BEFB301C53FE5"]
 			icon: {
 				id: "rctmod:trainer_card"
 			}
@@ -139,6 +141,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["565F9FD164388C5D"]
 			icon: {
 				id: "minecraft:oak_sign"
 			}
@@ -152,8 +155,10 @@
 				type: "item"
 			}]
 			tasks: [{
+				count: 2L
 				id: "385C47D78815E51E"
-				type: "checkmark"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -200,14 +205,6 @@
 			id: "5A7B99225D5E7937"
 			rewards: [
 				{
-					id: "431A51E5F7571B24"
-					item: {
-						count: 1
-						id: "cobblemon:healing_machine"
-					}
-					type: "item"
-				}
-				{
 					id: "5E93071558FA61D5"
 					item: {
 						count: 1
@@ -215,16 +212,31 @@
 					}
 					type: "item"
 				}
+				{
+					count: 6
+					id: "431A51E5F7571B24"
+					item: {
+						count: 1
+						id: "cobblemon:super_potion"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "2E7DD5D968768EF1"
-				type: "checkmark"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
 			}]
 			x: 8.0d
 			y: 1.5d
 		}
 		{
-			dependencies: ["7426084D4845A456"]
+			dependencies: [
+				"0B2BEFB301C53FE5"
+				"0FA9CEA9BCAC0143"
+				"7426084D4845A456"
+				"5A7B99225D5E7937"
+			]
 			icon: {
 				id: "cobblemon:relic_coin"
 			}

@@ -8,7 +8,7 @@
 	}
 	id: "23983F4DC524B14B"
 	images: [ ]
-	order_index: 2
+	order_index: 11
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -805,7 +805,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "580A37D32521A95B"
-					table_id: 5871764666515020368L
+					table_id: 7197061527498167330L
 					type: "loot"
 				}
 			]

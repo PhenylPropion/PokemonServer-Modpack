@@ -1,0 +1,225 @@
+{
+	icon: {
+		id: "ars_nouveau:source_gem"
+	}
+	id: "5200000000000002"
+	loot_crate: {
+		color: 10834160
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Ars Nouveau Crate"
+		string_id: "s2_ars_crate"
+	}
+	loot_size: 1
+	order_index: 51
+	rewards: [
+		{
+			count: 6
+			id: "5200000000000101"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+			random_bonus: 4
+			weight: 20.0f
+		}
+		{
+			count: 4
+			id: "5200000000000103"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_berry_pie"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 4
+			id: "5200000000000104"
+			item: {
+				count: 1
+				id: "ars_nouveau:blank_parchment"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 8
+			id: "5200000000000105"
+			item: {
+				count: 1
+				id: "ars_nouveau:magebloom_fiber"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 2
+			id: "5200000000000106"
+			item: {
+				count: 1
+				id: "ars_nouveau:purple_archwood_sapling"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "5200000000000107"
+			item: {
+				count: 1
+				id: "ars_nouveau:blue_archwood_sapling"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "5200000000000108"
+			item: {
+				count: 1
+				id: "ars_nouveau:red_archwood_sapling"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "5200000000000109"
+			item: {
+				count: 1
+				id: "ars_nouveau:green_archwood_sapling"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 8
+			id: "520000000000010E"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			weight: 14.0f
+		}
+		{
+			id: "5200000000000102"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem_block"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "520000000000010A"
+			item: {
+				count: 1
+				id: "ars_nouveau:fire_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "520000000000010B"
+			item: {
+				count: 1
+				id: "ars_nouveau:water_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "520000000000010C"
+			item: {
+				count: 1
+				id: "ars_nouveau:earth_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "520000000000010D"
+			item: {
+				count: 1
+				id: "ars_nouveau:air_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "5200000000000110"
+			item: {
+				count: 1
+				id: "ars_nouveau:manipulation_essence"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5200000000000111"
+			item: {
+				count: 1
+				id: "ars_nouveau:abjuration_essence"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5200000000000112"
+			item: {
+				count: 1
+				id: "ars_nouveau:conjuration_essence"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5200000000000113"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "5200000000000114"
+			item: {
+				count: 1
+				id: "ars_nouveau:starbuncle_charm"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5200000000000115"
+			item: {
+				count: 1
+				id: "ars_nouveau:wixie_charm"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5200000000000116"
+			item: {
+				count: 1
+				id: "ars_nouveau:drygmy_charm"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5200000000000117"
+			item: {
+				count: 1
+				id: "ars_nouveau:ring_of_lesser_discount"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "5200000000000118"
+			item: {
+				count: 1
+				id: "ars_nouveau:wilden_tribute"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "5200000000000119"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 2.0f
+		}
+		{ id: "520000000000011A", item: { count: 1, id: "artifacts:crystal_heart" } }
+		{ id: "520000000000011B", item: { count: 1, id: "artifacts:cloud_in_a_bottle" } }
+	]
+	use_title: true
+}

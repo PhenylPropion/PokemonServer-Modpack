@@ -1,0 +1,182 @@
+{
+	icon: {
+		id: "immersiveengineering:component_steel"
+	}
+	id: "5200000000000003"
+	loot_crate: {
+		color: 14184480
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Immersive Engineering Crate"
+		string_id: "s2_ie_crate"
+	}
+	loot_size: 1
+	order_index: 54
+	rewards: [
+		{
+			count: 16
+			id: "5200000000000201"
+			item: {
+				count: 1
+				id: "immersiveengineering:treated_wood_horizontal"
+			}
+			weight: 18.0f
+		}
+		{
+			count: 16
+			id: "5200000000000202"
+			item: {
+				count: 1
+				id: "immersiveengineering:hemp_fiber"
+			}
+			weight: 18.0f
+		}
+		{
+			count: 8
+			id: "5200000000000209"
+			item: {
+				count: 1
+				id: "immersiveengineering:coal_coke"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 8
+			id: "5200000000000204"
+			item: {
+				count: 1
+				id: "immersiveengineering:wire_copper"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 4
+			id: "520000000000020A"
+			item: {
+				count: 1
+				id: "immersiveengineering:plate_iron"
+			}
+			weight: 15.0f
+		}
+		{
+			count: 4
+			id: "520000000000020B"
+			item: {
+				count: 1
+				id: "immersiveengineering:plate_copper"
+			}
+			weight: 15.0f
+		}
+		{
+			count: 4
+			id: "5200000000000205"
+			item: {
+				count: 1
+				id: "immersiveengineering:wirecoil_copper"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 4
+			id: "5200000000000206"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_iron"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 4
+			id: "5200000000000203"
+			item: {
+				count: 1
+				id: "immersiveengineering:ingot_steel"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "520000000000020E"
+			item: {
+				count: 1
+				id: "immersiveengineering:ingot_electrum"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 4
+			id: "520000000000020F"
+			item: {
+				count: 1
+				id: "immersiveengineering:ingot_constantan"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 2
+			id: "5200000000000207"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_steel"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "5200000000000210"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 4
+			id: "5200000000000211"
+			item: {
+				count: 1
+				id: "immersiveengineering:wirecoil_electrum"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "5200000000000212"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_electronic"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "5200000000000213"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_electronic_adv"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5200000000000214"
+			item: {
+				count: 1
+				id: "immersiveengineering:capacitor_mv"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5200000000000215"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 2.0f
+		}
+		{ id: "5200000000000216", item: { count: 1, id: "artifacts:digging_claws" } }
+		{ id: "5200000000000217", item: { count: 1, id: "artifacts:feral_claws" } }
+	]
+	use_title: true
+}

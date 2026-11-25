@@ -1,0 +1,107 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "waystones"
+	group: "1111000000000003"
+	icon: {
+		id: "waystones:warp_stone"
+	}
+	id: "60859237F6736460"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6CAB746F2D3ECD3C"]
+			id: "3E8C1F977CFBE06B"
+			rewards: [{
+				id: "2CF987EDEB2803A3"
+				item: {
+					count: 1
+					id: "minecraft:budding_amethyst"
+				}
+				type: "item"
+			}]
+			shape: "pentagon"
+			tasks: [{
+				id: "27CD650C44D317B5"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6CAB746F2D3ECD3C"]
+			id: "1BF79B8091527923"
+			optional: true
+			rewards: [{
+				count: 24
+				id: "392014BF56021EDA"
+				item: {
+					count: 1
+					id: "waystones:warp_dust"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "6848601C68697FC3"
+					item: { count: 1, id: "waystones:waystone" }
+					type: "item"
+				}
+				{
+					id: "68EEB4559FD5CE8A"
+					item: { count: 1, id: "waystones:mossy_waystone" }
+					type: "item"
+				}
+				{
+					id: "6AA53E30F5C42198"
+					item: { count: 1, id: "waystones:sandy_waystone" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3E8C1F977CFBE06B"]
+			id: "383D457A792E9C19"
+			rewards: [{
+				id: "5CE5488CDEE5D4C6"
+				table_id: 263288020932638039L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 2L
+				id: "5D2A178A259D0B17"
+				item: { count: 1, id: "waystones:warp_plate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "6CAB746F2D3ECD3C"
+			rewards: [{
+				count: 3
+				id: "352D7BCE0204BA80"
+				item: {
+					count: 1
+					id: "waystones:warp_scroll"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "361596834ED982F3"
+				item: { count: 1, id: "waystones:warp_scroll" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}

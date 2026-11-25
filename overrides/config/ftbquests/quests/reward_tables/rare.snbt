@@ -6,11 +6,21 @@
 	rewards: [
 		{
 			count: 2
+			id: "03A7630F614E0001"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 2
 			id: "5D1A20C8B500E719"
 			item: {
 				count: 1
 				id: "cobblemon:relic_coin_pouch"
 			}
+			weight: 10.0f
 		}
 		{
 			count: 4
@@ -19,6 +29,7 @@
 				count: 1
 				id: "cobblemon:exp_candy_l"
 			}
+			weight: 14.0f
 		}
 		{
 			count: 2
@@ -27,42 +38,41 @@
 				count: 1
 				id: "cobblemon:rare_candy"
 			}
-			weight: 0.8f
+			weight: 8.0f
 		}
 		{
-			count: 10
+			count: 12
 			id: "67FA90CB238D4811"
 			item: {
 				count: 1
 				id: "cobblemon:ultra_ball"
 			}
+			weight: 14.0f
 		}
 		{
-			count: 16
+			count: 6
 			id: "1984FB0DE91C5532"
 			item: {
 				count: 1
 				id: "minecraft:diamond"
 			}
-			weight: 0.8f
+			weight: 10.0f
 		}
 		{
-			count: 2
 			id: "7E4A81CD09FB428A"
 			item: {
 				count: 1
 				id: "minecraft:netherite_ingot"
 			}
-			weight: 0.4f
+			weight: 2.0f
 		}
 		{
-			count: 4
-			id: "20FE91CB78A1D340"
+			id: "03A7630F614E0002"
 			item: {
 				count: 1
-				id: "minecraft:gold_block"
+				id: "artifacts:lucky_scarf"
 			}
-			weight: 0.8f
+			weight: 1.5f
 		}
 	]
 }

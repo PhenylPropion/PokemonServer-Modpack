@@ -11,7 +11,7 @@
 		string_id: "junk_2"
 	}
 	loot_size: 1
-	order_index: 51
+	order_index: 52
 	rewards: [
 		{
 			count: 32

@@ -11,7 +11,7 @@
 		string_id: "ores_1"
 	}
 	loot_size: 1
-	order_index: 55
+	order_index: 57
 	rewards: [
 		{
 			count: 8

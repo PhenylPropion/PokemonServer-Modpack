@@ -4,7 +4,7 @@
   "minecraft_version": "1.21.1",
   "mod_loader": "neoforge",
   "neoforge_version": "21.1.267",
-  "updated_at": "2026-11-24 22:49:50 JST",
+  "updated_at": "2026-11-25 16:30:46 JST",
   "client_allowed_patterns": [
     "*sodium*",
     "*embeddium*",
@@ -172,6 +172,16 @@
       "version": "9232207",
       "prefix": "Create-Structures-Arise-",
       "url": "https://edge.forgecdn.net/files/9232/207/Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar"
+    },
+    {
+      "filename": "Design-n-Decor-1.21.1-2.2b.jar",
+      "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b",
+      "size": 6329899,
+      "source": "modrinth",
+      "key": "mr:x49wilh8",
+      "version": "2.2b",
+      "prefix": "Design-n-Decor-",
+      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
     },
     {
       "filename": "Disenchanting-neoforge-1.21.1-2.3.0.jar",
@@ -462,6 +472,26 @@
       "version": "2.0.4",
       "prefix": "TMTCF-NF-",
       "url": "https://cdn.modrinth.com/data/LSnXhPa7/versions/F9ho6FHG/TMTCF-NF-1.21.1-2.0.4.jar"
+    },
+    {
+      "filename": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "size": 2814865,
+      "source": "modrinth",
+      "key": "mr:8oi3bsk5",
+      "version": "2.6.2",
+      "prefix": "Terralith-",
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+    },
+    {
+      "filename": "Terraphilic v1.2.0.jar",
+      "sha1": "9be06d4c307ac473c8786558e70ccc488ac23720",
+      "size": 284148,
+      "source": "modrinth",
+      "key": "mr:8T4mO5eV",
+      "version": "1.2.0",
+      "prefix": "Terraphilic-",
+      "url": "https://cdn.modrinth.com/data/8T4mO5eV/versions/bdiZl5tW/Terraphilic%20v1.2.0.jar"
     },
     {
       "filename": "accessories-neoforge-1.1.0-beta.54+1.21.1.jar",
@@ -994,6 +1024,16 @@
       "url": "https://cdn.modrinth.com/data/mYGTCuZY/versions/1nkYMksD/createappliedkinetics-1.5.6-1.21.1.jar"
     },
     {
+      "filename": "createdeco-2.1.3.jar",
+      "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+      "size": 3328498,
+      "source": "modrinth",
+      "key": "mr:sMvUb4Rb",
+      "version": "2.1.3",
+      "prefix": "createdeco-",
+      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+    },
+    {
       "filename": "createdieselgenerators-1.21.1-1.3.15.jar",
       "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b",
       "size": 3154746,
@@ -1394,6 +1434,46 @@
       "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
     },
     {
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
+      "size": 1190404,
+      "source": "modrinth",
+      "key": "mr:kNxa8z3e",
+      "version": "1.1.5",
+      "prefix": "mcw-doors-",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38",
+      "size": 525744,
+      "source": "modrinth",
+      "key": "mr:w4an97C2",
+      "version": "1.1.5",
+      "prefix": "mcw-lights-",
+      "url": "https://cdn.modrinth.com/data/w4an97C2/versions/5U2kQZIL/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "sha1": "b5580c3fc521ed8bf4db3e407bd590efc317f74d",
+      "size": 673871,
+      "source": "modrinth",
+      "key": "mr:GmwLse2I",
+      "version": "1.2.1",
+      "prefix": "mcw-mcwfences-",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "sha1": "4bb7e1d28eef19f87438881b0f582a15297b95ae",
+      "size": 777742,
+      "source": "modrinth",
+      "key": "mr:VRLhWB91",
+      "version": "1.1.1",
+      "prefix": "mcw-mcwpaths-",
+      "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/tlymsxUG/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
+    },
+    {
       "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
       "sha1": "1ee43d693c821efc955a74e551f94372af90a140",
       "size": 529082,
@@ -1402,6 +1482,36 @@
       "version": "1.0.2",
       "prefix": "mcw-mcwstairs-",
       "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c",
+      "size": 1261268,
+      "source": "modrinth",
+      "key": "mr:C7I0BCni",
+      "version": "2.4.2",
+      "prefix": "mcw-mcwwindows-",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d",
+      "size": 1784829,
+      "source": "modrinth",
+      "key": "mr:B8jaH3P1",
+      "version": "2.3.2",
+      "prefix": "mcw-roofs-",
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "filename": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620",
+      "size": 572870,
+      "source": "modrinth",
+      "key": "mr:n2fvCDlM",
+      "version": "1.1.5",
+      "prefix": "mcw-trapdoors-",
+      "url": "https://cdn.modrinth.com/data/n2fvCDlM/versions/StnP0RNi/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
     },
     {
       "filename": "medieval_buildings-1.21.1-1.1.1-neoforge.jar",
@@ -2018,8 +2128,8 @@
   ],
   "config_bundle": {
     "filename": "config_bundle.zip",
-    "sha1": "4d0d0ff48ad95f016c380b0a1507a1ce96c2b972",
-    "size": 646403,
-    "file_count": 454
+    "sha1": "8692a5f353f77770011b1dce0c0a410c455133ba",
+    "size": 714495,
+    "file_count": 477
   }
 }

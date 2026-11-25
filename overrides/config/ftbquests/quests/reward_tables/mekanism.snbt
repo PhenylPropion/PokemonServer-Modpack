@@ -1,5 +1,18 @@
 {
+	icon: {
+		id: "mekanism:elite_control_circuit"
+	}
 	id: "63E11953DD289422"
+	loot_crate: {
+		color: 39168
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Mekanism Crate"
+		string_id: "s2_mekanism_crate"
+	}
 	loot_size: 1
 	order_index: 19
 	rewards: [
@@ -11,7 +24,7 @@
 				id: "mekanism:alloy_infused"
 			}
 			random_bonus: 2
-			weight: 4.0f
+			weight: 16.0f
 		}
 		{
 			count: 2
@@ -21,25 +34,7 @@
 				id: "mekanism:basic_control_circuit"
 			}
 			random_bonus: 2
-			weight: 4.0f
-		}
-		{
-			id: "2D6298DD9CCBAC35"
-			item: {
-				count: 1
-				id: "mekanism:alloy_reinforced"
-			}
-			random_bonus: 1
-			weight: 2.0f
-		}
-		{
-			id: "63AD8CBB2EDAF73D"
-			item: {
-				count: 1
-				id: "mekanism:advanced_control_circuit"
-			}
-			random_bonus: 1
-			weight: 2.0f
+			weight: 16.0f
 		}
 		{
 			count: 4
@@ -48,8 +43,86 @@
 				count: 1
 				id: "mekanism:ingot_osmium"
 			}
-			random_bonus: 2
-			weight: 4.0f
+			random_bonus: 4
+			weight: 16.0f
+		}
+		{
+			count: 2
+			id: "2D6298DD9CCBAC35"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			random_bonus: 1
+			weight: 8.0f
+		}
+		{
+			count: 2
+			id: "63AD8CBB2EDAF73D"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+			random_bonus: 1
+			weight: 8.0f
+		}
+		{
+			count: 2
+			id: "63E11953DD280001"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_speed"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 2
+			id: "63E11953DD280002"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_energy"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "63E11953DD280003"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "63E11953DD280004"
+			item: {
+				count: 1
+				id: "mekanism:basic_energy_cube"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "63E11953DD280005"
+			item: {
+				count: 1
+				id: "mekanism:alloy_atomic"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "63E11953DD280006"
+			item: {
+				count: 1
+				id: "mekanism:elite_control_circuit"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "63E11953DD280007"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 2.0f
 		}
 	]
 	use_title: true

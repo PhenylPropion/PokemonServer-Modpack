@@ -11,11 +11,35 @@
 		string_id: "resource_loot_crate_1"
 	}
 	loot_size: 1
-	order_index: 61
+	order_index: 63
 	rewards: [
-		{ id: "222AF3C0444E94DF", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "3837B31067B5BFFA", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "5605F89DB222EFCF", item: { count: 1, id: "ftbquests:lootcrate" } }
+		{
+			count: 8
+			id: "222AF3C0444E94DF"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+			weight: 14.0f
+		}
+		{
+			count: 8
+			id: "3837B31067B5BFFA"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			weight: 14.0f
+		}
+		{
+			count: 8
+			id: "5605F89DB222EFCF"
+			item: {
+				count: 1
+				id: "minecraft:raw_copper"
+			}
+			weight: 14.0f
+		}
 	]
 	use_title: true
 }

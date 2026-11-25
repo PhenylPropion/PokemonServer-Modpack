@@ -488,6 +488,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["0D22E6E6437EE11B"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "cobblemon:max_potion"
 			}
@@ -510,6 +512,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "52B000000000010B"
+					type: "xp"
+					xp: 500
+				}
 			]
 			shape: "diamond"
 			tasks: [{
@@ -520,6 +527,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["0D22E6E6437EE11B"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "cobblemon:focus_sash"
 			}
@@ -543,6 +552,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "52B000000000010C"
+					item: {
+						count: 1
+						id: "cobblefurnies:statue_pikachu"
+					}
+					type: "item"
+				}
 			]
 			shape: "diamond"
 			tasks: [{
@@ -553,6 +570,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["0D22E6E6437EE11B"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "cobblemon:life_orb"
 			}
@@ -572,6 +591,14 @@
 					item: {
 						count: 1
 						id: "cobbledgacha:koban_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "52B000000000010D"
+					item: {
+						count: 1
+						id: "cobblefurnies:statue_charmander"
 					}
 					type: "item"
 				}

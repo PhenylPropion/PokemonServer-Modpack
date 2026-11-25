@@ -6578,7 +6578,7 @@
 	# === Season 2 Custom ===
 	chapter_group.1111000000000001.title: "【まずここ！】はじめの1時間"
 	chapter_group.1111000000000002.title: "【メイン】ジム・エリアゼロ・街づくり"
-	chapter_group.1111000000000003.title: "【任意資料室】工業・魔法・探索ガイド"
+	chapter_group.1111000000000003.title: "【MODガイド】工業・魔法・生活・探索"
 	chapter.2FE22516FC51FA43.title: "はじめの1時間ガイド（まずはここから！）"
 	chapter.103C4CCA1A519ED3.title: "柱① 5島常設ジム＆バッジ解放"
 	chapter.2CCC900FF852AD77.title: "柱② エリアゼロ（武器×アルファ）"
@@ -6601,22 +6601,25 @@
 		"全8ジム＋四天王は5つの島に常設配置されています（ランダム湧き待ち0秒！）。"
 		"トレーナーカードを作って最初の『ニビジム (58,114,64)』を目指そう！"
 	]
-	quest.3193BDBDD9AE9B2C.title: "土地を保護しよう（OPAC）"
+	quest.3193BDBDD9AE9B2C.title: "旅の準備＆土地保護（OPAC）"
 	quest.3193BDBDD9AE9B2C.quest_subtitle: "安心して建築＆街づくり"
 	quest.3193BDBDD9AE9B2C.quest_desc: [
-		"Xaeroのワールドマップ（Mキー）を開き、自分の拠点チャンクを右クリックで保護（Claim）できます。"
-		"強制ロードはオンライン時最大6チャンクまで！共有タウン付近の開拓地はみんなの公共エリアです。"
+		"まずはチェストを2個クラフトして拠点の収納を整えよう！"
+		"報酬で便利なバックパックを受け取れます。"
+		""
+		"また、拠点が決まったら『Open Parties and Claims (OPAC)』で土地を保護しておくと安心です（' キーまたは地図メニューからチャンク保護）。"
 	]
 	quest.7426084D4845A456.title: "工業の第一歩（Create）"
 	quest.7426084D4845A456.quest_subtitle: "ボール量産や海上鉄道への入口"
 	quest.7426084D4845A456.quest_desc: [
 		"水車を作って回転動力を体験しよう。バッジ2を取ると Create のボール工場スターターがもらえ、ショップよりずっと安くボールや回復薬を量産できます！"
 	]
-	quest.5A7B99225D5E7937.title: "共有タウン＆肩乗り建築バフ"
+	quest.5A7B99225D5E7937.title: "拠点の回復マシン＆肩乗り建築バフ"
 	quest.5A7B99225D5E7937.quest_subtitle: "みんなで育てる6つの施設"
 	quest.5A7B99225D5E7937.quest_desc: [
-		"共有タウン広場には6つの『建築予定地』があり、誰かが納品すると街の建物が段階的に建設＆解放されます！"
-		"さらに特定の相棒を肩に乗せると建築バフ（採掘速度UP・落下軽減等）が発動します。"
+		"自分の拠点用にヒーリングマシンをクラフトしよう！報酬でPCとスーパーキズぐすりをプレゼント。"
+		""
+		"【Season 2 小ワザ】特定のポケモンを肩に乗せると採掘速度UP・落下軽減などの建築バフ（Architect's Buddies）が発動します！"
 	]
 	quest.5F0666933A14A757.title: "はじめの1時間クリア！"
 	quest.5F0666933A14A757.quest_subtitle: "ここから先は完全自由"
@@ -6693,18 +6696,20 @@
 	quest.52B0000000000002.title: "【2★縛り】ノーアイテム・ジム制覇"
 	quest.52B0000000000002.quest_subtitle: "バトル中の回復薬＆戦闘用アイテム禁止で勝利"
 	quest.52B0000000000002.quest_desc: [
-		"任意のジムリーダーまたは四天王を『バトル中のアイテム使用ゼロ』で突破した猛者の証！"
-		"身内宣言ベースの名誉チャレンジです。達成したら記念報酬を受け取ろう。"
+		"【殿堂入り後・2★やり込み】戦闘中に回復アイテムを使わずにジムを制覇した証！"
+		"達成したら自己申告でチェックして、小判コイン×2・古の像・XPを受け取ろう。"
 	]
 	quest.52B0000000000003.title: "【2★縛り】少数精鋭（3体以下）チャレンジ"
 	quest.52B0000000000003.quest_subtitle: "手持ち3匹以下でジムリーダーを撃破"
 	quest.52B0000000000003.quest_desc: [
-		"手持ち3匹以下のパーティで任意のジムリーダーに勝利しよう！"
+		"【殿堂入り後・2★やり込み】手持ち3体以下でジムを制覇した証！"
+		"達成したら自己申告でチェックして、小判コイン×2・白紙の技マシン×3・ピカチュウ像を受け取ろう。"
 	]
 	quest.52B0000000000004.title: "【3★極限】単タイプ統一チャレンジ"
 	quest.52B0000000000004.quest_subtitle: "同じタイプのポケモンだけで四天王またはジム8を突破"
 	quest.52B0000000000004.quest_desc: [
-		"6匹すべて共通タイプ（例：水統一・鋼統一）で強敵を突破したマスターへの最高名誉報酬！"
+		"【殿堂入り後・3★極限やり込み】単一タイプ統一パーティでジムを制覇した証！"
+		"達成したら自己申告でチェックして、特性パッチ・小判コイン×5・ヒトカゲ像・50,000円を受け取ろう。"
 	]
 	quest.3A7559AF481873B0.title: "エリアゼロの掟（暴走アルファ＆パラドックス）"
 	quest.3A7559AF481873B0.quest_subtitle: "武器・魔法＋相棒ポケモンで共闘せよ"
@@ -6715,8 +6720,8 @@
 	quest.52A0000000000001.title: "出撃準備：装備と呪文を整える"
 	quest.52A0000000000001.quest_subtitle: "共有タウン南東「探索ギルド」から出撃"
 	quest.52A0000000000001.quest_desc: [
-		"Mekanism武器/防具・Ars Nouveau呪文書・回復ポーションを準備しよう。"
-		"共有タウンの⑥探索ギルドを解放すると、黄昏の森ポータル池や補給拠点が使えます！"
+		"暴走アルファやパラドックスはボールが通じず直接襲いかかってきます。"
+		"まずは盾と金リンゴ×4を用意して、Mekanism装備やArs Nouveauの魔法も整えてから挑もう！"
 	]
 	quest.6C4ED763304A6BC4.title: "海域① ディープダーク：エコーシャード収集"
 	quest.6C4ED763304A6BC4.quest_subtitle: "ブランクメガストーン＆DNA合成の要"
@@ -6741,7 +6746,8 @@
 	quest.21F01265F732D9DF.title: "★ DNA合成：王冠＆特性パッチ精製"
 	quest.21F01265F732D9DF.quest_subtitle: "ショップで買えない最強育成素材をエリアゼロから"
 	quest.21F01265F732D9DF.quest_desc: [
-		"3つのエリアゼロ海域の戦利品（残響の欠片＋灼熱のインゴット＋ドラゴンブレス＋シュルカーの殻＋キーストーン）で『特性パッチ』や『きんのおうかん』を合成しよう！（JEIでレシピ確認可）"
+		"エリアゼロ3海域の希少素材（エコーシャード×4、灼熱のインゴット×4、シュルカーの殻×2）を納品して精製しよう！"
+		"報酬で『金の王冠』と『特性パッチ』を獲得できます。"
 	]
 	quest.52A0000000000004.title: "【共有ブースト】エリアゼロ・コア納品（CT2時間）"
 	quest.52A0000000000004.quest_subtitle: "オンライン全員に60分の豪華バフ！"
@@ -6751,7 +6757,8 @@
 	quest.1E60D722771F378C.title: "最終目標：殿堂の星 (Season 2)"
 	quest.1E60D722771F378C.quest_subtitle: "ポケモン・工業・魔法の集大成"
 	quest.1E60D722771F378C.quest_desc: [
-		"ウィザー等を倒してネザースターを獲得し、JEIで『殿堂の星 (Season 2)』をクラフトしよう！共有タウンの殿堂ボードに飾れます。"
+		"ポケモン・工業・魔法のすべてを極めた証『殿堂の星 (Season 2)』をクラフトしよう！"
+		"※通常のネザースターでは達成できません。専用レシピ（JEIで「殿堂の星」またはネザースターを検索）で作成してください。"
 	]
 	quest.52E0000000000001.title: "【街づくり①】ポケモンセンター＆殿堂ボード解放"
 	quest.52E0000000000001.quest_subtitle: "共有タウン広場西 (43, 101, 16)"
@@ -6848,4 +6855,50 @@
 	quest.6DC11A7CD9504A71.quest_desc: [
 		"ポケモンを累計200匹捕獲しよう！ショップ非売品の『きんのおうかん』＆『マスターボール』を進呈！"
 	]
+	chapter_group.1111000000000004.title: "【ポケモンガイド】育成・進化・収集（段階解放）"
+	reward_table.5200000000000002.title: "Ars Nouveau 魔術クレート"
+	reward_table.5200000000000003.title: "Immersive Engineering 工業クレート"
+	chapter.4A1B2C3D4E5F6789.title: "Create 入門：動力と基礎"
+	chapter.4B1B2C3D4E5F6789.title: "Create 実践チュートリアル"
+	chapter.2A1B2C3D4E5F6789.title: "Ars Nouveau 入門（日本語ガイド）"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau 詳細ツリー"
+	chapter.25835D8FD9EA5214.title: "Applied Energistics 2 入門（日本語ガイド）"
+	chapter.07210DDF872160BA.title: "Applied Energistics 2 詳細ツリー"
+	chapter.23983F4DC524B14B.title: "Mekanism 詳細ツリー"
+	chapter.16F2291ADE5A3FAC.title: "Immersive Engineering 詳細ツリー"
+	chapter.0E21FB2EFB41A583.title: "MineColonies 詳細ツリー"
+	chapter.7A1B2C3D4E5F6789.title: "Twilight Forest（黄昏の森）"
+	chapter.71FC337C3C1DBF67.title: "ポケモン図鑑（Pokédex）"
+	quest.2893F483C10293E6.title: "AE2 詳細ツリーへようこそ"
+	quest.2893F483C10293E6.quest_desc: [
+		"Applied Energistics 2 の全クラフト工程を網羅した詳細ツリーです。"
+		"初めて触る方は、1つ上の『Applied Energistics 2 入門（日本語ガイド）』から進めるのがおすすめ！"
+		"アイテムアイコンに沿って進めることで、ME倉庫・自動クラフト・空間ストレージまで順序立てて学べます。"
+	]
+	quest.6E0E13806F388D7E.title: "Ars Nouveau 詳細ツリーへようこそ"
+	quest.6E0E13806F388D7E.quest_desc: [
+		"Ars Nouveau の魔法・自動化・装備を網羅した詳細ツリーです。"
+		"初めて触る方は、1つ上の『Ars Nouveau 入門（日本語ガイド）』から進めるのがおすすめ！"
+		"ランダム報酬は Season 2 向けに修復済み（ソースジェム・羊皮紙・アーチウッド苗木など）。"
+	]
+	quest.162CE44400A63575.title: "Mekanism 詳細ツリーへようこそ"
+	quest.162CE44400A63575.quest_desc: [
+		"Mekanism の発電・鉱石倍加・核融合・MekaSuit までの全工程ツリーです。"
+		"各アイコンのアイテムを順番に作ることで、エリアゼロ攻略に強力な装備や自動工場を完成させられます。"
+	]
+	quest.62CD365A54A0DE47.title: "Immersive Engineering 詳細ツリーへようこそ"
+	quest.62CD365A54A0DE47.quest_desc: [
+		"重厚なマルチブロック機械と架線発電の工業MOD『Immersive Engineering』の工程ツリーです。"
+		"まずはコークス炉・高炉から始めてスチールを量産しよう！ランダム報酬も Season 2 向けに修復済みです。"
+	]
+	quest.1BB571557F74D3A1.title: "MineColonies 詳細ツリーへようこそ"
+	quest.1BB571557F74D3A1.quest_desc: [
+		"NPC住民と一緒に自分の街を育てる『MineColonies』の進行ツリーです。"
+		"サプライキャンプ/シップから始めてタウンホールを建て、Create 鉄道で共有タウンと繋いでみよう！"
+	]
+	reward_table.63E11953DD289422.title: "Mekanism 工業クレート"
+	reward_table.23A030D0854BAACF.title: "MineColonies 街づくりクレート"
+	reward_table.672627EFB0F3B664.title: "レジェンダリー報酬"
+	reward_table.55CDC222197A1D3E.title: "アルティメット報酬"
+	reward_table.03A7630F614E3557.title: "レア報酬"
 }

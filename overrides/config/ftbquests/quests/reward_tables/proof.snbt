@@ -2,7 +2,7 @@
 	hide_tooltip: true
 	id: "667D828211D92076"
 	loot_size: 1
-	order_index: 57
+	order_index: 59
 	rewards: [
 		{
 			count: 5
@@ -11,6 +11,7 @@
 				count: 1
 				id: "cobblemon:relic_coin"
 			}
+			weight: 14.0f
 		}
 		{
 			count: 3
@@ -19,6 +20,7 @@
 				count: 1
 				id: "cobblemon:exp_candy_m"
 			}
+			weight: 14.0f
 		}
 		{
 			count: 5
@@ -27,7 +29,7 @@
 				count: 1
 				id: "cobblemon:great_ball"
 			}
-			weight: 0.8f
+			weight: 12.0f
 		}
 		{
 			count: 3
@@ -36,7 +38,7 @@
 				count: 1
 				id: "cobblemon:ultra_ball"
 			}
-			weight: 0.5f
+			weight: 8.0f
 		}
 		{
 			id: "158007C890F17BBC"
@@ -44,7 +46,7 @@
 				count: 1
 				id: "cobblemon:rare_candy"
 			}
-			weight: 0.3f
+			weight: 5.0f
 		}
 		{
 			id: "492888BD80B3C8F1"
@@ -52,15 +54,15 @@
 				count: 1
 				id: "cobblemon:relic_coin_pouch"
 			}
-			weight: 0.2f
+			weight: 4.0f
 		}
 		{
 			id: "094726E5AF2F390B"
 			item: {
 				count: 1
-				id: "ftbquests:lootcrate"
+				id: "cobbledgacha:gacha_coin"
 			}
-			weight: 0.4f
+			weight: 6.0f
 		}
 	]
 }

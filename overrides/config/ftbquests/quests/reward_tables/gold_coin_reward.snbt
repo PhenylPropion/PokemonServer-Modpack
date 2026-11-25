@@ -3,12 +3,41 @@
 	loot_size: 1
 	order_index: 44
 	rewards: [
-		{ id: "7DFD24C70FB27791", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "15C4C93A76DC7FC8", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "22B43B7A9B287B39", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "0D13E9F768E2301A", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "7C0E4A7B35335DDE", item: { count: 1, id: "minecraft:horse_spawn_egg" } }
-		{ id: "7E97540D7CFB4B0D", item: { count: 1, id: "minecraft:ocelot_spawn_egg" } }
+		{
+			id: "7DFD24C70FB27791"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 14.0f
+		}
+		{
+			count: 2
+			id: "15C4C93A76DC7FC8"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_pouch"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 4
+			id: "22B43B7A9B287B39"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_l"
+			}
+			weight: 14.0f
+		}
+		{
+			count: 2
+			id: "0D13E9F768E2301A"
+			item: {
+				count: 1
+				id: "cobblemon:rare_candy"
+			}
+			weight: 8.0f
+		}
 		{
 			count: 8
 			id: "1FE6308EF5AC90A3"
@@ -16,119 +45,70 @@
 				count: 1
 				id: "minecraft:ender_pearl"
 			}
+			weight: 10.0f
 		}
 		{
-			count: 32
+			count: 16
 			id: "2498F4DB836795F8"
 			item: {
 				count: 1
 				id: "minecraft:golden_carrot"
 			}
+			weight: 12.0f
 		}
 		{
-			count: 32
-			id: "4D5035BBB3227198"
-			item: {
-				count: 1
-				id: "minecraft:glistering_melon_slice"
-			}
-		}
-		{
-			count: 8
+			count: 4
 			id: "5A4B15A5649F5036"
 			item: {
 				count: 1
 				id: "minecraft:diamond"
 			}
-			random_bonus: 8
+			random_bonus: 4
+			weight: 8.0f
 		}
 		{
-			count: 8
+			count: 6
 			id: "3541457836F705C4"
 			item: {
 				count: 1
 				id: "minecraft:emerald"
 			}
-			random_bonus: 8
-		}
-		{
-			count: 32
-			id: "183C9ADB58677502"
-			item: {
-				count: 1
-				id: "minecraft:firework_rocket"
-			}
-		}
-		{ id: "15C59D631643F411", item: { count: 1, id: "waystones:warp_stone" } }
-		{ id: "6695B8FC6B4E7006", item: { count: 1, id: "cobblemon:potion" } }
-		{ id: "7FBCCD224192971C", item: { components: { "ftbquests:missing_item": "cobblemon:escape_rope" }, count: 1, id: "ftbquests:missing_item" } }
-		{
-			count: 64
-			id: "49B5C06BCBF3BE0A"
-			item: {
-				count: 1
-				id: "minecraft:spider_eye"
-			}
-		}
-		{
-			count: 32
-			id: "5B70F6D9163D8922"
-			item: {
-				count: 1
-				id: "minecraft:comparator"
-			}
-		}
-		{
-			count: 32
-			id: "7187C528A068CF10"
-			item: {
-				count: 1
-				id: "minecraft:repeater"
-			}
-		}
-		{
-			count: 32
-			id: "2D3221F82EF02D07"
-			item: {
-				count: 1
-				id: "minecraft:lapis_ore"
-			}
-		}
-		{
-			count: 32
-			id: "4544FA1AFD6539DF"
-			item: {
-				count: 1
-				id: "minecraft:redstone_ore"
-			}
-		}
-		{
-			count: 16
-			id: "2A2C2037B3819525"
-			item: {
-				count: 1
-				id: "minecraft:glowstone"
-			}
-		}
-		{
-			count: 5
-			id: "418F72610A1596B1"
-			item: {
-				count: 1
-				id: "minecraft:chest"
-			}
-		}
-		{ id: "4CB467FF8887EE13", item: { count: 1, id: "waystones:warp_scroll" } }
-		{ id: "565FFB66DA7BA4D9", item: { count: 1, id: "waystones:bound_scroll" } }
-		{ id: "207DA9DE840F19B1", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{
-			count: 2
-			id: "01A761A279DFFE84"
-			item: {
-				count: 1
-				id: "minecraft:slime_ball"
-			}
 			random_bonus: 4
+			weight: 10.0f
 		}
+		{
+			id: "15C59D631643F411"
+			item: {
+				count: 1
+				id: "waystones:warp_stone"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "6695B8FC6B4E7006"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "7FBCCD224192971C"
+			item: {
+				count: 1
+				id: "cobblefurnies:statue_pikachu"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "5D7127D0072C0001"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 2.0f
+		}
+		{ id: "5D7127D0072C0002", item: { count: 1, id: "artifacts:bunny_hoppers" } }
 	]
 }

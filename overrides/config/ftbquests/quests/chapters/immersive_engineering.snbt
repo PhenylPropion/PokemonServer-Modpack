@@ -8,7 +8,7 @@
 	}
 	id: "16F2291ADE5A3FAC"
 	images: [ ]
-	order_index: 4
+	order_index: 12
 	quest_links: [ ]
 	quests: [
 		{
@@ -259,6 +259,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6828A5CA11A9C6AB"
+				table_id: 5908722711110090755L
 				type: "loot"
 			}]
 			tasks: [
@@ -381,6 +382,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "210702225492D4FA"
+				table_id: 5908722711110090755L
 				type: "loot"
 			}]
 			tasks: [
@@ -443,6 +445,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "657246700910309E"
+					table_id: 5908722711110090755L
 					type: "loot"
 				}
 			]
@@ -496,6 +499,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "0971B30A6D1B3494"
+				table_id: 5908722711110090755L
 				type: "loot"
 			}]
 			tasks: [
@@ -644,6 +648,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "67AC883B9F288228"
+				table_id: 5908722711110090755L
 				type: "loot"
 			}]
 			tasks: [
@@ -691,6 +696,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "4AB95067AF9F99FD"
+				table_id: 5908722711110090755L
 				type: "loot"
 			}]
 			tasks: [
@@ -758,6 +764,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "33CF19B3E882C171"
+					table_id: 5908722711110090755L
 					type: "loot"
 				}
 			]
@@ -957,6 +964,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "44E393D037A057B8"
+					table_id: 5908722711110090755L
 					type: "loot"
 				}
 			]

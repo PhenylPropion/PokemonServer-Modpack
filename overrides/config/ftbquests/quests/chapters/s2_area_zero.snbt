@@ -67,10 +67,19 @@
 					type: "command"
 				}
 			]
-			tasks: [{
-				id: "52A0000000000021"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "52A0000000000021"
+					item: { count: 1, id: "minecraft:shield" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "52A0000000000027"
+					item: { count: 1, id: "minecraft:golden_apple" }
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 0.0d
 		}
@@ -182,6 +191,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "619987C600BCF8C3"
+					table_id: 5908722711110090753L
 					type: "choice"
 				}
 				{
@@ -245,11 +255,29 @@
 					type: "command"
 				}
 			]
-			tasks: [{
-				id: "71BCDBB0671C2187"
-				item: { count: 1, id: "cobblemon:ability_patch" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 4L
+					id: "71BCDBB0671C2187"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 4L
+					id: "52A0000000000028"
+					item: { count: 1, id: "twilightforest:fiery_ingot" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "52A0000000000029"
+					item: { count: 1, id: "minecraft:shulker_shell" }
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: 0.5d
 		}
@@ -318,6 +346,7 @@
 			tasks: [{
 				id: "52A0000000000026"
 				item: { count: 1, id: "minecraft:nether_star" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
 			x: 9.0d

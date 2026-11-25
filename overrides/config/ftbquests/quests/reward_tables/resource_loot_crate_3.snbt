@@ -11,11 +11,35 @@
 		string_id: "resource_loot_crate_3"
 	}
 	loot_size: 1
-	order_index: 64
+	order_index: 66
 	rewards: [
-		{ id: "6831A4C9107DAC9D", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "7B931E0945DDE374", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "3A5ABE88B42C6B20", item: { count: 1, id: "ftbquests:lootcrate" } }
+		{
+			count: 4
+			id: "6831A4C9107DAC9D"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 6
+			id: "7B931E0945DDE374"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 4
+			id: "3A5ABE88B42C6B20"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+			weight: 12.0f
+		}
 	]
 	use_title: true
 }

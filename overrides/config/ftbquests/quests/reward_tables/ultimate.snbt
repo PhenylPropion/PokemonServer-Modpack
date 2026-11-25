@@ -5,67 +5,84 @@
 	order_index: 14
 	rewards: [
 		{
-			count: 2
 			id: "1B30CD548E089BA1"
 			item: {
 				count: 1
 				id: "cobblemon:master_ball"
 			}
-			weight: 0.5f
+			weight: 2.0f
 		}
 		{
-			count: 3
+			id: "55CDC222197A0001"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_origin_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "55CDC222197A0002"
+			item: {
+				count: 1
+				id: "cobblemon:ability_patch"
+			}
+			weight: 2.5f
+		}
+		{
+			count: 5
+			id: "55CDC222197A0003"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 4.0f
+		}
+		{ id: "55CDC222197A0004", item: { count: 1, id: "artifacts:night_vision_goggles" } }
+		{ id: "55CDC222197A0005", item: { count: 1, id: "artifacts:cloud_in_a_bottle" } }
+		{
+			count: 2
 			id: "7B28A0C9DF41B5E0"
 			item: {
 				count: 1
 				id: "cobblemon:relic_coin_sack"
 			}
+			weight: 3.5f
 		}
 		{
-			count: 16
+			count: 10
 			id: "4A0091CFB38D8217"
 			item: {
 				count: 1
 				id: "cobblemon:rare_candy"
 			}
-			weight: 0.8f
+			weight: 5.0f
 		}
 		{
-			count: 10
+			count: 8
 			id: "3E59B28A0C4B821A"
 			item: {
 				count: 1
 				id: "cobblemon:exp_candy_xl"
 			}
+			weight: 5.0f
 		}
 		{
-			count: 2
+			count: 4
 			id: "6C10B4D581A9EF28"
 			item: {
 				count: 1
-				id: "minecraft:netherite_block"
+				id: "minecraft:netherite_ingot"
 			}
-			weight: 0.4f
+			weight: 2.0f
 		}
 		{
-			count: 16
+			count: 2
 			id: "10FB47CA82903E51"
 			item: {
 				count: 1
 				id: "minecraft:nether_star"
 			}
-			weight: 0.5f
-		}
-		{
-			id: "48B92D01FEA719C3"
-			item: {
-				components: {
-					"ftbquests:missing_item": "storagedrawers:creative_vending_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 0.05f
+			weight: 1.5f
 		}
 	]
 }

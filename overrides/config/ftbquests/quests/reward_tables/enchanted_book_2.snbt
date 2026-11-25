@@ -1,7 +1,7 @@
 {
 	id: "0ED9B235C3241100"
 	loot_size: 1
-	order_index: 71
+	order_index: 73
 	rewards: [
 		{ id: "7E4A9AC24909FFC3", item: { count: 1, id: "minecraft:enchanted_book" } }
 		{ id: "1545E23606C1C080", item: { count: 1, id: "minecraft:enchanted_book" } }

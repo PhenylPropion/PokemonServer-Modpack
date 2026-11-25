@@ -2,8 +2,8 @@
 
 - **Minecraft**: `1.21.1`
 - **NeoForge**: `21.1.267`
-- **最終更新**: `2026-11-24 22:49:50 JST`
-- **MOD数**: 193 / **ResourcePack数**: 5 / **同期Config数**: 454
+- **最終更新**: `2026-11-25 16:30:46 JST`
+- **MOD数**: 204 / **ResourcePack数**: 5 / **同期Config数**: 477
 
 ## MOD一覧
 | ファイル名 | 配布元 | バージョン |
@@ -22,6 +22,7 @@
 | `Cobblepedia-NeoForge-0.7.1.jar` | modrinth | `0.7.1-neoforge` |
 | `Cobbreeding-neoforge-2.4.1.jar` | modrinth | `2.4.1` |
 | `Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar` | curseforge | `9232207` |
+| `Design-n-Decor-1.21.1-2.2b.jar` | modrinth | `2.2b` |
 | `Disenchanting-neoforge-1.21.1-2.3.0.jar` | curseforge | `7830765` |
 | `DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar` | modrinth | `3.3.3-1.21.1` |
 | `DungeonsArise-1.21.1-2.1.68-release.jar` | modrinth | `2.1.68` |
@@ -51,6 +52,8 @@
 | `SimpleTMs-neoforge-2.3.3.jar` | modrinth | `2.3.3` |
 | `Structory_26.2_v1.3.7.jar` | modrinth | `1.3.17` |
 | `TMTCF-NF-1.21.1-2.0.4.jar` | modrinth | `2.0.4` |
+| `Terralith_1.21.1_v2.6.2_Neoforge.jar` | modrinth | `2.6.2` |
+| `Terraphilic v1.2.0.jar` | modrinth | `1.2.0` |
 | `accessories-neoforge-1.1.0-beta.54+1.21.1.jar` | modrinth | `1.1.0-beta.54+1.21.1` |
 | `ae2importexportcard-1.21.1-1.9.1.jar` | modrinth | `1.21.1-1.9.1` |
 | `ae2wtlib-19.5.1.jar` | modrinth | `19.5.1` |
@@ -104,6 +107,7 @@
 | `create_train_parts-0.6.0-1.21.1-6.0.10-281.jar` | modrinth | `0.6.0` |
 | `createaddition-1.7.2.jar` | modrinth | `neoforge-1.21.1-1.7.2` |
 | `createappliedkinetics-1.5.6-1.21.1.jar` | modrinth | `1.5.6-1.21.1` |
+| `createdeco-2.1.3.jar` | modrinth | `2.1.3` |
 | `createdieselgenerators-1.21.1-1.3.15.jar` | modrinth | `1.21.1-1.3.15` |
 | `createoreexcavation-1.21-1.6.8.jar` | modrinth | `1.21.1-1.6.8` |
 | `createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar` | modrinth | `1.21.1-beta-0.10.0-C6` |
@@ -144,7 +148,14 @@
 | `lithostitched-1.8.1-neoforge-21.1.jar` | modrinth | `1.8.1-neoforge-21.1` |
 | `lootintegrations-1.21.1-4.9.jar` | curseforge | `9600289` |
 | `mcw-bridges-3.1.2-mc1.21.1neoforge.jar` | modrinth | `3.1.2` |
+| `mcw-doors-1.1.5-mc1.21.1neoforge.jar` | modrinth | `1.1.5` |
+| `mcw-lights-1.1.5-mc1.21.1neoforge.jar` | modrinth | `1.1.5` |
+| `mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar` | modrinth | `1.2.1` |
+| `mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar` | modrinth | `1.1.1` |
 | `mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar` | modrinth | `1.0.2` |
+| `mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar` | modrinth | `2.4.2` |
+| `mcw-roofs-2.3.2-mc1.21.1neoforge.jar` | modrinth | `2.3.2` |
+| `mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar` | modrinth | `1.1.5` |
 | `medieval_buildings-1.21.1-1.1.1-neoforge.jar` | modrinth | `1.1.1` |
 | `medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar` | modrinth | `1.0.4` |
 | `medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar` | modrinth | `1.0.2` |

@@ -11,7 +11,7 @@
 	}
 	id: "0E21FB2EFB41A583"
 	images: [ ]
-	order_index: 6
+	order_index: 13
 	quest_links: [ ]
 	quests: [
 		{
@@ -799,6 +799,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "0CDE2C7DE16B9D97"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -823,6 +824,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "300505E53BBE2D41"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1001,6 +1003,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "658A33E12DED5EF5"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 			]
@@ -1065,11 +1068,13 @@
 				{
 					exclude_from_claim_all: true
 					id: "047CCBADD8765A0E"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "42751B708AD34364"
+					table_id: 2567105459748842191L
 					type: "random"
 				}
 				{
@@ -1362,6 +1367,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "00F742CE5063BB97"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1629,6 +1635,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "20110BAC5A1C81EB"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 			]
@@ -1656,6 +1663,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "6618E5FAA99690C4"
+					table_id: 2567105459748842191L
 					type: "random"
 				}
 				{
@@ -1697,6 +1705,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "450CD29537FAF8BF"
+					table_id: 2567105459748842191L
 					type: "random"
 				}
 				{
@@ -1720,6 +1729,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "6F570DFB3F9B0F99"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1798,6 +1808,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "2393FDDDFD2A444E"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1846,6 +1857,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "4F1860A141110E9C"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1870,6 +1882,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "7752AA65150ED232"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{
@@ -1894,6 +1907,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "053463DF132494C0"
+					table_id: 2567105459748842191L
 					type: "choice"
 				}
 				{

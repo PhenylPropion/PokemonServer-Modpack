@@ -3,70 +3,100 @@
 	loot_size: 1
 	order_index: 48
 	rewards: [
-		{ id: "3EF7F258DE2E325F", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "5ACC7608C8FE3FA2", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "3895EBF005072E8A", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "671CF7C6550FA578", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "1A6617EC69734A05", item: { count: 1, id: "minecraft:diamond_ore" } }
-		{ id: "531D313601410549", item: { count: 1, id: "minecraft:emerald_ore" } }
-		{ id: "6D4CFA3DA743E992", item: { count: 1, id: "minecraft:mooshroom_spawn_egg" } }
-		{ id: "7427297D23627C04", item: { count: 1, id: "minecraft:villager_spawn_egg" } }
+		{
+			count: 2
+			id: "3EF7F258DE2E325F"
+			item: {
+				count: 1
+				id: "cobbledgacha:gacha_coin"
+			}
+			weight: 14.0f
+		}
+		{
+			id: "5ACC7608C8FE3FA2"
+			item: {
+				count: 1
+				id: "cobbledgacha:koban_coin"
+			}
+			weight: 4.0f
+		}
 		{
 			count: 3
+			id: "3895EBF005072E8A"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_pouch"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 5
+			id: "671CF7C6550FA578"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_l"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 4
 			id: "2666116E488C64BA"
 			item: {
 				count: 1
 				id: "minecraft:emerald"
 			}
+			random_bonus: 4
+			weight: 12.0f
 		}
 		{
-			count: 3
+			count: 4
 			id: "514981AF96A29DDC"
 			item: {
 				count: 1
 				id: "minecraft:diamond"
 			}
-		}
-		{ id: "56AE306E72DAAB65", item: { count: 1, id: "minecraft:totem_of_undying" } }
-		{
-			count: 64
-			id: "1EC5D0B056B721CE"
-			item: {
-				count: 1
-				id: "minecraft:glowstone"
-			}
+			random_bonus: 2
+			weight: 10.0f
 		}
 		{
-			count: 4
-			id: "26E010B1A10268CA"
+			id: "56AE306E72DAAB65"
 			item: {
 				count: 1
-				id: "minecraft:gunpowder"
+				id: "minecraft:totem_of_undying"
 			}
+			weight: 3.0f
 		}
 		{
-			count: 8
-			id: "1537E6949F823A3F"
+			id: "0BC9EE62BBE90001"
 			item: {
 				count: 1
-				id: "minecraft:torch"
+				id: "cobblefurnies:statue_ancient"
 			}
+			weight: 4.0f
 		}
 		{
-			count: 4
-			id: "63FDA2195D67AE30"
+			id: "0BC9EE62BBE90002"
 			item: {
 				count: 1
-				id: "minecraft:lapis_lazuli"
+				id: "cobblefurnies:statue_bulbasaur"
 			}
+			weight: 4.0f
 		}
 		{
-			count: 2
-			id: "00736BBA45EDBF2B"
+			id: "0BC9EE62BBE90003"
 			item: {
 				count: 1
-				id: "minecraft:leather"
+				id: "artifacts:crystal_heart"
 			}
+			weight: 1.5f
+		}
+		{
+			id: "0BC9EE62BBE90004"
+			item: {
+				count: 1
+				id: "artifacts:night_vision_goggles"
+			}
+			weight: 1.5f
 		}
 	]
 }

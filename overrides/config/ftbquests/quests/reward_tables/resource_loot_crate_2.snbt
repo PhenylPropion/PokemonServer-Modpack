@@ -11,11 +11,35 @@
 		string_id: "resource_loot_crate_2"
 	}
 	loot_size: 1
-	order_index: 62
+	order_index: 64
 	rewards: [
-		{ id: "0A73F06882E678EB", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "597BBB188E82A176", item: { count: 1, id: "ftbquests:lootcrate" } }
-		{ id: "72A65E3BDF835574", item: { count: 1, id: "ftbquests:lootcrate" } }
+		{
+			count: 6
+			id: "0A73F06882E678EB"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 14.0f
+		}
+		{
+			count: 6
+			id: "597BBB188E82A176"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 12
+			id: "72A65E3BDF835574"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			weight: 12.0f
+		}
 	]
 	use_title: true
 }
