@@ -67,7 +67,7 @@
 			id: "52E0000000000002"
 			rewards: [
 				{
-					command: "/function season2_core:town/unlock_gym_hub"
+					command: "/function season2_core:town/unlock_colosseum"
 					id: "52E0000000000104"
 					permission_level: 2
 					silent: true
@@ -423,6 +423,13 @@
 			repeat_cooldown: 14400
 			rewards: [
 				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000401"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
 					command: "/cobbledollars give @p 6000"
 					id: "41F8034627761AC2"
 					permission_level: 2
@@ -453,6 +460,13 @@
 			id: "3B65414418BA4862"
 			repeat_cooldown: 21600
 			rewards: [
+				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000402"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
 				{
 					command: "/cobbledollars give @p 18000"
 					id: "3B15C102C1473A7F"
@@ -485,6 +499,13 @@
 			repeat_cooldown: 28800
 			rewards: [
 				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000403"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
 					command: "/cobbledollars give @p 24000"
 					id: "7D4A91702CB68A54"
 					permission_level: 2
@@ -516,6 +537,13 @@
 			repeat_cooldown: 14400
 			rewards: [
 				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000404"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
 					command: "/cobbledollars give @p 10000"
 					id: "471A5A17056A7D7E"
 					permission_level: 2
@@ -546,6 +574,13 @@
 			id: "52E0000000000007"
 			repeat_cooldown: 14400
 			rewards: [
+				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000405"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
 				{
 					command: "/cobbledollars give @p 12000"
 					id: "52E0000000000113"
@@ -589,6 +624,13 @@
 			id: "52E0000000000008"
 			repeat_cooldown: 14400
 			rewards: [
+				{
+					command: "/function season2_core:town/add_point"
+					id: "52E0000000000406"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
 				{
 					command: "/cobbledollars give @p 10000"
 					id: "52E0000000000115"
@@ -840,6 +882,326 @@
 			}]
 			x: 7.5d
 			y: 2.0d
+		}
+		{
+			icon: {
+				id: "farmersdelight:cooking_pot"
+			}
+			id: "52E0000000000301"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_cafe"
+					id: "52E0000000000311"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 15000"
+					id: "52E0000000000321"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 24L
+				id: "52E0000000000331"
+				item: { count: 1, id: "minecraft:cherry_planks" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "52E0000000000302"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_smith"
+					id: "52E0000000000312"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 20000"
+					id: "52E0000000000322"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 24L
+				id: "52E0000000000332"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:powered_rail"
+			}
+			id: "52E0000000000303"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_subway"
+					id: "52E0000000000313"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 30000"
+					id: "52E0000000000323"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 48L
+				id: "52E0000000000333"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_boat"
+			}
+			id: "52E0000000000304"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_canal"
+					id: "52E0000000000314"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 35000"
+					id: "52E0000000000324"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "52E0000000000334"
+				item: { count: 1, id: "minecraft:stone_bricks" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:beacon"
+			}
+			id: "52E0000000000305"
+			rewards: [
+				{
+					command: "/function season2_core:town/unlock_observatory"
+					id: "52E0000000000315"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 100000"
+					id: "52E0000000000325"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "52E0000000000335"
+				item: { count: 1, id: "minecraft:diamond_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "52E0000000000306"
+			rewards: [
+				{
+					command: "/function season2_core:town/upgrade_pokecenter_lv2"
+					id: "52E0000000000316"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 25000"
+					id: "52E0000000000326"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "52E0000000000336"
+				item: { count: 1, id: "minecraft:quartz_block" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "create:copper_table_cloth"
+			}
+			id: "52E0000000000307"
+			rewards: [
+				{
+					command: "/function season2_core:town/upgrade_market_lv2"
+					id: "52E0000000000317"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 30000"
+					id: "52E0000000000327"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "52E0000000000337"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "create:mechanical_crafter"
+			}
+			id: "52E0000000000308"
+			rewards: [
+				{
+					command: "/function season2_core:town/upgrade_market_lv3"
+					id: "52E0000000000318"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 50000"
+					id: "52E0000000000328"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "52E0000000000338"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "minecraft:bookshelf"
+			}
+			id: "52E0000000000309"
+			rewards: [
+				{
+					command: "/function season2_core:town/upgrade_lab_lv2"
+					id: "52E0000000000319"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 30000"
+					id: "52E0000000000329"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "52E0000000000339"
+				item: { count: 1, id: "minecraft:bookshelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_scrap"
+			}
+			id: "52E000000000030A"
+			rewards: [
+				{
+					command: "/function season2_core:town/upgrade_guild_lv2"
+					id: "52E000000000031A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/cobbledollars give @p 40000"
+					id: "52E000000000032A"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "52E000000000033A"
+				item: { count: 1, id: "minecraft:amethyst_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.0d
 		}
 	]
 }

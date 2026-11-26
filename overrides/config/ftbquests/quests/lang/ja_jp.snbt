@@ -6585,10 +6585,10 @@
 	chapter.3331868D38289E02.title: "柱③ 共有タウン・経済・図鑑"
 	reward_table.5200000000000001.title: "メガストーン覚醒セレクト"
 	quest.565F9FD164388C5D.title: "Season 2 へようこそ！"
-	quest.565F9FD164388C5D.quest_subtitle: "自由度そのまま・5島群島×3本柱で遊ぼう"
+	quest.565F9FD164388C5D.quest_subtitle: "自由度そのまま・ロテリオ地方×3本柱で遊ぼう"
 	quest.565F9FD164388C5D.quest_desc: [
-		"レベル制限なし・色違い確率 1/8192 据え置きの5島群島ワールドです。"
-		"まずはスポーン(0,101,0)の東すぐにある『共有タウン広場(64,101,16)』へ向かい、Waystoneに触れて登録しよう！"
+		"レベル制限なし・色違い確率 1/8192 据え置きのロテリオ地方へようこそ！"
+		"まずは初期スポーンの桜白樺盆地『高台玄関広場 (1120, 95, 488)』にある Waystone に触れて登録し、大階段を下って下段の中央広場 (1136, 67, 216) へ向かおう！"
 	]
 	quest.0B2BEFB301C53FE5.title: "最初の2匹を捕まえよう"
 	quest.0B2BEFB301C53FE5.quest_subtitle: "旅の仲間を増やす"
@@ -6599,7 +6599,7 @@
 	quest.0FA9CEA9BCAC0143.quest_subtitle: "5島常設ジム攻略のパスポート"
 	quest.0FA9CEA9BCAC0143.quest_desc: [
 		"全8ジム＋四天王は5つの島に常設配置されています（ランダム湧き待ち0秒！）。"
-		"トレーナーカードを作って最初の『ニビジム (58,114,64)』を目指そう！"
+		"トレーナーカードを作って最初の『ニビジム (-592, 80, -1216)』を目指そう！"
 	]
 	quest.3193BDBDD9AE9B2C.title: "旅の準備＆土地保護（OPAC）"
 	quest.3193BDBDD9AE9B2C.quest_subtitle: "安心して建築＆街づくり"
@@ -6628,67 +6628,67 @@
 		"工業・魔術の詳細は【任意資料室】にまとめてあります。"
 	]
 	quest.52FB2B27469EFF47.title: "バッジ1：タケシ撃破（固定Lv12〜14）"
-	quest.52FB2B27469EFF47.quest_subtitle: "本島 Graloterion (58, 114, 64) / 岩"
+	quest.52FB2B27469EFF47.quest_subtitle: "ニビ山岳タウン・本島北西 (-592, 80, -1216) / 岩"
 	quest.52FB2B27469EFF47.quest_desc: [
-		"共有タウン南東の上段台地に常設されたニビジム（象徴: かたいいし）に挑戦！"
+		"中央本島北西の山岳タウンに独立常設されたニビジム（象徴: かたいいし）に挑戦！"
 		"待ち時間0秒の常設スポナーからいつでも戦えます。"
 	]
 	quest.27A5BC49942AB5E3.title: "バッジ2：カスミ撃破（固定Lv25〜27）"
-	quest.27A5BC49942AB5E3.quest_subtitle: "本島北湾岸 (-32, 63, -144) / 水"
+	quest.27A5BC49942AB5E3.quest_subtitle: "ハナダ海岸タウン・本島南東湾 (704, 66, 896) / 水"
 	quest.27A5BC49942AB5E3.quest_desc: [
-		"共有タウン北の天然湾に建つハナダジム（象徴: しんぴのしずく）を撃破！"
+		"中央本島南東の海に面した海岸桟橋タウンに建つハナダジム（象徴: しんぴのしずく）を撃破！"
 		"報酬で Create ボール自動生産工場のスターターキットが解放されます。"
 	]
 	quest.256B4195D769A02E.title: "バッジ3：マチス撃破 ★メガシンカ解放"
-	quest.256B4195D769A02E.quest_subtitle: "東島 Ikalyx (3752, 85, -248) / 電・Lv32〜34"
+	quest.256B4195D769A02E.quest_subtitle: "東島北東・クチバ電撃高台 (3968, 100, -576) / 電・Lv32〜34"
 	quest.256B4195D769A02E.quest_desc: [
 		"東の島『Ikalyx』の北東草原にそびえる雷遺跡タワー（象徴: じしゃく）を攻略！"
 		"勝利で『メガリング』と『空の技マシン』を獲得し、メガシンカが解禁されます。"
 	]
 	quest.17CFF5EB3DB13189.title: "バッジ4：エリカ撃破（固定Lv43〜44）"
-	quest.17CFF5EB3DB13189.quest_subtitle: "東島 Ikalyx (3656, 77, 200) / 草"
+	quest.17CFF5EB3DB13189.quest_subtitle: "DIVINOS 東大ドーム・タマムシ植物園 (3588, 101, 97) / 草"
 	quest.17CFF5EB3DB13189.quest_desc: [
-		"東島『Ikalyx』南東ジャングルの植物園温室ジム（象徴: きせきのタネ）を撃破！"
+		"東島『Ikalyx』内陸統合都市 DIVINOS の東大ドームに鎮座する植物園ジム（象徴: きせきのタネ）を撃破！"
 		"中盤の回復・持ち物やエリアゼロ危険地帯の探索へ踏み出そう。"
 	]
 	quest.6C3940DC2D80D08E.title: "バッジ5：ナツメ撃破（固定Lv57〜59）"
-	quest.6C3940DC2D80D08E.quest_subtitle: "西島 Korefdar (-3640, 166, -760) / 超"
+	quest.6C3940DC2D80D08E.quest_subtitle: "西島メサ頂上・ヤマブキ天空街 (-3720, 163, -768) / 超"
 	quest.6C3940DC2D80D08E.quest_desc: [
-		"西の赤岩メサ工業島『Korefdar』北メサ頂上（標高166m・象徴: まがったスプーン）の天空神殿へ！"
+		"西の赤岩メサ工業島『Korefdar』北メサ頂上（標高163m・象徴: まがったスプーン）の天空神殿へ！"
 		"勝利で努力値育成用のパワー系装備一式を獲得できます。"
 	]
 	quest.51C1E089EF6A1DB2.title: "バッジ6：キョウ撃破 ★テラスタル＆Zワザ解放"
-	quest.51C1E089EF6A1DB2.quest_subtitle: "北島 Woraxstone (488, 82, -3960) / 毒・Lv67〜68"
+	quest.51C1E089EF6A1DB2.quest_subtitle: "北島大渓谷東・セキチク忍里 (512, 81, -4000) / 毒・Lv67〜68"
 	quest.51C1E089EF6A1DB2.quest_desc: [
 		"北の大渓谷森林島『Woraxstone』東の忍者屋敷ジム（象徴: どくバリ）を撃破！"
 		"テラスタルオーブ＆Zパワーリングを同時に獲得！"
 	]
 	quest.11D9611F2675387B.title: "バッジ7：カツラ撃破（固定Lv75〜76）"
-	quest.11D9611F2675387B.quest_subtitle: "南島 Tadoskros (-248, 97, 4488) / 炎"
+	quest.11D9611F2675387B.quest_subtitle: "南島西カルデラ・グレン火山街 (-720, 102, 4720) / 炎"
 	quest.11D9611F2675387B.quest_desc: [
 		"南の二重カルデラ火山島『Tadoskros』西カルデラの火山鍛冶場（象徴: もくたん）を撃破！"
 		"報酬で貴重品『きんのおうかん』＆『とくせいパッチ』を獲得！"
 	]
 	quest.48119D56DC8D5F19.title: "バッジ8：イブキ撃破 ★ダイマックス解放"
-	quest.48119D56DC8D5F19.quest_subtitle: "南島 Tadoskros (712, 110, 4360) / 竜・Lv80〜81"
+	quest.48119D56DC8D5F19.quest_subtitle: "南島東高台・フスベ竜の里 (768, 102, 4720) / 竜・Lv80〜81"
 	quest.48119D56DC8D5F19.quest_desc: [
 		"南島『Tadoskros』東カルデラ高台の竜の聖域ジム（象徴: りゅうのウロコ）を撃破！"
 		"ダイマックスバンド＆マスターボールを獲得し、ついに四天王への挑戦権が開きます！"
 	]
 	quest.3C3246AD81643BDC.title: "四天王制覇（カンナ・シバ・キクコ・ワタル）"
-	quest.3C3246AD81643BDC.quest_subtitle: "南島ポケモンリーグ (968, 150, 3784) / Lv84〜85"
+	quest.3C3246AD81643BDC.quest_subtitle: "南島南東最高峰・円形要塞 (1546, 150, 5480) / Lv84〜85"
 	quest.3C3246AD81643BDC.quest_desc: [
-		"8バッジを集めたら南島北東のポケモンリーグ大聖堂へ！"
+		"8バッジを集めたら南島南東の孤高高原にそびえるポケモンリーグ大聖堂へ！"
 		"左右4つの聖域に常設された四天王を全員撃破し、最奥の玉座へ進め！"
 	]
 	quest.0D22E6E6437EE11B.title: "★ チャンピオン撃破＆殿堂入り"
-	quest.0D22E6E6437EE11B.quest_subtitle: "南島リーグ最奥玉座 (968, 152, 3771) / Lv85"
+	quest.0D22E6E6437EE11B.quest_subtitle: "南島リーグ最上階玉座 (1546, 286, 5441) / Lv85"
 	quest.0D22E6E6437EE11B.quest_desc: [
 		"チャンピオン・テリーを撃破し、Season 2 殿堂入り！"
 		"オムニリング＆マスターボール×2を獲得。共有タウンの殿堂ウォールや『殿堂の星』に挑もう！"
 	]
 	quest.52B0000000000001.title: "【強敵サイド戦】ロケット団ボス・サカキ"
-	quest.52B0000000000001.quest_subtitle: "西島 Korefdar (-3576, 86, -88) / 動的スケーリング"
+	quest.52B0000000000001.quest_subtitle: "西島工業駅南広場 (-3356, 87, 176) / 動的スケーリング"
 	quest.52B0000000000001.quest_desc: [
 		"西島南サバンナに潜むロケット団秘密基地の強敵（rct_dynamic_levels 適用）。"
 		"自分のパーティに合わせてレベルが変動するため、Lv100でも白熱のバトルが楽しめます！"
@@ -6761,32 +6761,32 @@
 		"※通常のネザースターでは達成できません。専用レシピ（JEIで「殿堂の星」またはネザースターを検索）で作成してください。"
 	]
 	quest.52E0000000000001.title: "【街づくり①】ポケモンセンター＆殿堂ボード解放"
-	quest.52E0000000000001.quest_subtitle: "共有タウン広場西 (43, 101, 16)"
+	quest.52E0000000000001.quest_subtitle: "共有タウン広場西 (1069, 67, 200)"
 	quest.52E0000000000001.quest_desc: [
 		"赤のテラコッタ×32＆白色のコンクリート×32を納品して、共有タウンのポケモンセンター＆殿堂展示壁を建設しよう！"
 	]
 	quest.52E0000000000002.title: "【街づくり②】ジム案内所＆Lv50バトルアリーナ解放"
-	quest.52E0000000000002.quest_subtitle: "共有タウン広場東 (87, 101, 16)"
+	quest.52E0000000000002.quest_subtitle: "共有タウン運河東 (1310, 68, 280)"
 	quest.52E0000000000002.quest_desc: [
 		"滑らかなクォーツ×32＆オークの板材×32を納品して、週末レンタル/ドラフト大会に使えるバトルアリーナ＆5島ジム案内所を建設しよう！"
 	]
 	quest.52E0000000000003.title: "【街づくり③】Create 中央駅＆宅配ハブ解放"
-	quest.52E0000000000003.quest_subtitle: "北東テラス西 (45, 88, -57)"
+	quest.52E0000000000003.quest_subtitle: "南高台中央駅 (1120, 95, 548)"
 	quest.52E0000000000003.quest_desc: [
 		"Create線路×32＆安山岩合金×16を納品して、複線プラットフォーム＆Frogport宅配ハブを備えた中央駅を建設しよう！"
 	]
 	quest.52E0000000000004.title: "【街づくり④】市場通り＆ガチャコーナー解放"
-	quest.52E0000000000004.quest_subtitle: "北東テラス東 (77, 88, -57)"
+	quest.52E0000000000004.quest_subtitle: "下段中央広場北 (1140, 68, 158)"
 	quest.52E0000000000004.quest_desc: [
 		"トウヒの板材×32＆樽×8を納品して、テーブルクロス屋台×4とガチャマシンが並ぶ商店街を建設しよう！"
 	]
 	quest.52E0000000000005.title: "【街づくり⑤】ポケモン研究所＆共有ブースト解放"
-	quest.52E0000000000005.quest_subtitle: "北東テラス最奥 (64, 88, -82)"
+	quest.52E0000000000005.quest_subtitle: "下段中央広場東 (1206, 68, 222)"
 	quest.52E0000000000005.quest_desc: [
 		"ガラス×32＆鉄ブロック×4を納品して、化石復元設備＆共有ブーストビーコンを備えた研究所を建設しよう！"
 	]
 	quest.52E0000000000006.title: "【街づくり⑥】探索ギルド（出撃基地）解放"
-	quest.52E0000000000006.quest_subtitle: "南東上段台地 (86, 114, 53)"
+	quest.52E0000000000006.quest_subtitle: "下段中央広場北西 (1066, 68, 138)"
 	quest.52E0000000000006.quest_desc: [
 		"深層岩レンガ×32＆ダイヤ×2を納品して、黄昏の森ポータル池とエリアゼロ攻略拠点となる探索ギルドを建設しよう！"
 	]
@@ -6901,4 +6901,61 @@
 	reward_table.672627EFB0F3B664.title: "レジェンダリー報酬"
 	reward_table.55CDC222197A1D3E.title: "アルティメット報酬"
 	reward_table.03A7630F614E3557.title: "レア報酬"
+
+	quest.52E0000000000301.title: "施設⑥：街角カフェ＆料理処 (Rank2)"
+	quest.52E0000000000301.quest_subtitle: "高台駅前広場・西ウイング (1064, 95, 522)"
+	quest.52E0000000000302.title: "施設⑦：鍛冶・エリアゼロ装備工房 (Rank2)"
+	quest.52E0000000000302.quest_subtitle: "高台駅前広場・東ウイング (1170, 95, 522)"
+	quest.52E0000000000303.title: "施設⑨：地下メトロ連絡線開通 (Rank3)"
+	quest.52E0000000000303.quest_subtitle: "南高台玄関駅 ⇔ 下段中央広場直結"
+	quest.52E0000000000304.title: "施設⑩：桜並木の大運河＆港 (Rank4)"
+	quest.52E0000000000304.quest_subtitle: "桜並木ラグーン大桟橋 (1238, 65, 304)"
+	quest.52E0000000000305.title: "★最終王都モニュメント：大天文台 (Rank5)"
+	quest.52E0000000000305.quest_subtitle: "南西高台テラス頂上 (1056, 95, 668)"
+	quest.52E0000000000306.title: "個別LvUP：ポケセン Lv2「殿堂＆バッジ翼」"
+	quest.52E0000000000306.quest_subtitle: "既存内装を壊さず拡張＆報酬枠強化"
+	quest.52E0000000000307.title: "個別LvUP：市場通り Lv2「露店＆ガチャ増設」"
+	quest.52E0000000000307.quest_subtitle: "多様な商店街＆プレイヤー店枠拡張"
+	quest.52E0000000000308.title: "個別LvUP：市場通り Lv3「本館落成」"
+	quest.52E0000000000308.quest_subtitle: "Compact Workshop & Shop（1棟限定本館）"
+	quest.52E0000000000309.title: "個別LvUP：研究所 Lv2「化石復元＆図書研究翼」"
+	quest.52E0000000000309.quest_subtitle: "研究所の化石復元設備＆エンチャント書庫を拡張 (1195, 68, 206)"
+	quest.52E000000000030A.title: "個別LvUP：探索ギルド Lv2「エリアゼロ本部」"
+	quest.52E000000000030A.quest_subtitle: "危険地帯遠征＆共有支援機能強化"
+	task.52E0000000000331.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000311.title: "施設建設・LvUP実行"
+	reward.52E0000000000321.title: "CobbleDollars 報酬"
+	task.52E0000000000332.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000312.title: "施設建設・LvUP実行"
+	reward.52E0000000000322.title: "CobbleDollars 報酬"
+	task.52E0000000000333.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000313.title: "施設建設・LvUP実行"
+	reward.52E0000000000323.title: "CobbleDollars 報酬"
+	task.52E0000000000334.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000314.title: "施設建設・LvUP実行"
+	reward.52E0000000000324.title: "CobbleDollars 報酬"
+	task.52E0000000000335.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000315.title: "施設建設・LvUP実行"
+	reward.52E0000000000325.title: "CobbleDollars 報酬"
+	task.52E0000000000336.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000316.title: "施設建設・LvUP実行"
+	reward.52E0000000000326.title: "CobbleDollars 報酬"
+	task.52E0000000000337.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000317.title: "施設建設・LvUP実行"
+	reward.52E0000000000327.title: "CobbleDollars 報酬"
+	task.52E0000000000338.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000318.title: "施設建設・LvUP実行"
+	reward.52E0000000000328.title: "CobbleDollars 報酬"
+	task.52E0000000000339.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E0000000000319.title: "施設建設・LvUP実行"
+	reward.52E0000000000329.title: "CobbleDollars 報酬"
+	task.52E000000000033A.title: "資材納品（街発展ポイント＋進行）"
+	reward.52E000000000031A.title: "施設建設・LvUP実行"
+	reward.52E000000000032A.title: "CobbleDollars 報酬"
+	reward.52E0000000000401.title: "共有タウン貢献 +1 pt"
+	reward.52E0000000000402.title: "共有タウン貢献 +1 pt"
+	reward.52E0000000000403.title: "共有タウン貢献 +1 pt"
+	reward.52E0000000000404.title: "共有タウン貢献 +1 pt"
+	reward.52E0000000000405.title: "共有タウン貢献 +1 pt"
+	reward.52E0000000000406.title: "共有タウン貢献 +1 pt"
 }
